@@ -7,7 +7,7 @@ Anthropic and the community have already created many skills for frontend — th
 
 - This skill makes the AI completely focus on **UI** (visual design) _and_ **UX** (interaction design, flow, accessibility) with literally `pixel-by-pixel` accuracy. It supercharges the AI to deliver frontend experiences at the level of an **L5 frontend developer**.
 - It ships with **references** — open-source raw library sources and L5-level code patterns — so the AI never hallucinates APIs, component APIs, or CSS behavior while coding.
-- Built specifically for **Claude Code**, it plugs directly into the agent loop and activates automatically on any frontend task without requiring manual invocation.
+- **Universal by design** — works across Claude Code, Gemini CLI, Cursor, Windsurf, Copilot Workspace, and any agent that supports markdown context injection. One skill, every agent.
 
 ---
 
@@ -47,7 +47,7 @@ ui-ux-skills/
 
 ## Skill triggers
 
-This skill activates when you ask Claude Code to do **anything visual or interactive**:
+This skill activates when you ask your AI agent to do **anything visual or interactive**:
 
 | You say                                  | Skill activates |
 | ---------------------------------------- | --------------- |
@@ -110,23 +110,53 @@ Library integrations with raw-source references:
 
 ## Installation
 
-### Via Claude Code (recommended)
+This skill is agent-agnostic. Use whichever method matches your environment.
+
+### Claude Code
+
+Drop the `.skill` file into the Claude Code skills panel, or install via CLI:
 
 ```bash
-claude mcp install ui-ux-skills
+claude skills install ui-ux-skills.skill
 ```
 
-Or drag-and-drop the `.skill` file into the Claude Code skills panel.
-
-### Manual
-
-Copy the `ui-ux-skills/` folder into your project's `.claude/skills/` directory:
+Or copy the folder manually:
 
 ```bash
 cp -r ui-ux-skills/ /your-project/.claude/skills/ui-ux-skills/
 ```
 
-Claude Code will auto-detect and load it on the next session.
+### Claude.ai
+
+Go to **Settings → Skills → Upload skill** and upload the `.skill` file. The skill will be available across all conversations.
+
+### Gemini CLI
+
+Gemini CLI loads context from a `GEMINI.md` file in your project root. Append the contents of `SKILL.md` to it:
+
+```bash
+cat ui-ux-skills/SKILL.md >> GEMINI.md
+```
+
+To also load the reference files on demand, add this line to your `GEMINI.md`:
+
+```
+<!-- skill:ui-ux-skills references/ -->
+```
+
+Gemini CLI will resolve relative paths and pull in the reference docs as needed during the session.
+
+### Cursor / Windsurf / Aide
+
+Place the `SKILL.md` contents inside your `.cursorrules` / `.windsurfrules` / system prompt file, or add the `ui-ux-skills/` folder to your project root — most agents auto-detect context files in the project directory.
+
+### Any MCP-compatible agent
+
+Add the skill directory to the agent's context path. The `SKILL.md` + `references/` structure is plain Markdown — any agent that can read files from context will pick it up.
+
+### Raw prompt injection (universal fallback)
+
+If your agent doesn't support skill files, copy the contents of `SKILL.md` directly into your system prompt. This works with any LLM or agent, anywhere.
 
 ---
 
@@ -165,4 +195,4 @@ Attribution appreciated but not required.
 
 ---
 
-_Built for the Crystal ecosystem and the broader Claude Code community._
+_Built for the Crystal ecosystem and the broader AI developer community._
