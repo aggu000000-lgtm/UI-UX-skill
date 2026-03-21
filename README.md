@@ -1,105 +1,77 @@
-# ui-ux-skills
+# 🎨 UI-UX-skill – The 14‑Skill Creative System
 
-A frontend design skill that escapes AI-default aesthetics through a 5-layer pipeline: intent extraction → aesthetic commitment → slop prevention → technical overdrive → recursive self-audit.
-
-Built for the Crystal ecosystem.
-
----
-
-## Why this exists
-
-Default AI frontend output converges on the same aesthetic every time: Inter font, purple gradients, three equal-height cards, centered hero. That's the statistical mean of the training data — not a design decision.
-
-This skill breaks that gravity by encoding three things a real senior frontend developer does:
-
-1. **Commit to a specific visual language** — not "modern and clean" but a named, justified aesthetic with exact token values
-2. **Engineer with precision** — two-tier OKLCH token system, 8px spatial grid, fluid type scale, spring physics. No magic numbers.
-3. **Self-correct before delivering** — a structural + fidelity audit pass catches failures before the user sees them
+**UI-UX-skill** is the master skill that transforms an AI into a fearless, dopamine‑driven frontend designer.  
+Instead of a single rigid `skill.md`, it is now broken into **14 specialised sub‑skills** – each acting as a creative weapon, a critical lens, or a technical master.  
+Together, they form a complete system that **designs, critiques, and delivers** breathtaking user experiences.
 
 ---
 
-## What the skill enforces
+## 🔥 Philosophy
 
-### Aesthetic direction
-- Declares one extreme aesthetic (Brutalist Editorial, Retro-Futuristic, Organic Luxury, etc.) before writing a single line
-- Full token fingerprint committed upfront: font pair, OKLCH palette, layout rule
-- Hard bans: Inter, Roboto, purple-on-white gradients, pure `#000000`/`#FFFFFF`, uniform card grids, navbar-with-logo-left
-
-### Technical standards
-- **Color**: OKLCH primitives → semantic tokens, two-tier architecture, dark mode via `[data-theme]` attribute swap only
-- **Typography**: `clamp()`-based fluid type scale across 6 steps, no hardcoded `px` font sizes
-- **Spacing**: 8px baseline grid, all values on `--space-*` tokens
-- **Responsive**: Mobile-first, container queries for components, viewport breakpoints for layout shells only
-- **Motion**: Spring physics for interactions, staggered entrance sequences, `prefers-reduced-motion` wrapping
-- **3D**: Escalation matrix — Three.js only when semantically justified, never as a default
-
-### Self-audit (mandatory before delivery)
-Layer 5A (visual): hierarchy, rhythm, slop detection, token consistency, responsive integrity, emotional register  
-Layer 5B (fidelity): structural DOM match, layout accuracy, visual-semantic fidelity, self-healing protocol
+- **Absolute Creative Freedom** – No more handcuffs. The AI explores beyond conventional boundaries.
+- **100+ Design Styles & Fonts** – From brutalist to glassmorphism, from kinetic typography to generative shaders.
+- **Dopamine‑First** – Every animation, colour, and interaction is engineered to amaze, delight, and hold attention.
+- **Self‑Critique Loop** – The AI acts as its own harshest critic, analysing flaws before they reach the user.
+- **SVG as a Weapon** – Not just decoration – SVG becomes a tool for mind‑bending animations, interactive art, and performance‑heavy magic.
+- **Director’s Cut** – A meta‑skill sits above all others, reviewing the entire creation with the cold eyes of a film director.
 
 ---
 
-## Honest ceiling
+## 🧠 The 14 Sub‑Skills of UI-UX-skill
 
-This skill reliably produces **L3.5→L4** output for single-file artifacts. It prevents the most common failure modes and forces lower-probability, higher-quality aesthetic choices.
-
-It does not produce L5 output. L5 requires real visual judgment — knowing when a composition *feels* wrong even when the tokens are correct. A skill file can teach rules but not when to break them intentionally.
-
----
-
-## File structure
-
-```
-ui-ux-skills/
-├── SKILL.md        ← The actual skill (this is what Claude loads)
-├── README.md       ← This file
-└── references/     ← WIP: library API sources, component contracts, a11y patterns
-    └── ...
-```
-
-The references folder is actively being built. Once complete, it will ground library-specific code in raw API signatures — reducing hallucination on Radix, Motion, Floating UI, etc.
-
----
-
-## How to use
-
-### Claude.ai
-Upload `SKILL.md` via **Settings → Skills → Upload skill**.
-
-### Claude Code
-```bash
-cp -r ui-ux-skills/ /your-project/.claude/skills/ui-ux-skills/
-```
-
-### Cursor / Windsurf
-Paste `SKILL.md` contents into `.cursorrules` or your system prompt file.
-
-### Any agent
-Copy `SKILL.md` contents into the system prompt. The skill is plain markdown — works everywhere.
+| # | Sub‑Skill File | Purpose |
+|---|----------------|---------|
+| 1 | `design-skill.md` | **Internal wireframing & layout mastery** – dictates where to place shaders, which font fits which section, and how to balance asymmetry. |
+| 2 | `text-visual-skill.md` | **Text vs. Visual ratio** – decides when to let typography lead and when to drown the screen in visual spectacle. |
+| 3 | `visual.md` | **Dopamine‑hijacking** – enforces maximum visual appeal through colour, depth, motion, and surprise. |
+| 4 | `representation.md` | **User‑first critique** – forces the AI to simulate how a real user sees, feels, and finds flaws, then fixes them pre‑emptively. |
+| 5 | `svg-skill.md` | **SVG as a double‑edged sword** – teaches when to wield SVG for breathtaking animations and when to avoid it (performance, complexity). |
+| 6 | `animations.md` | **All‑out motion** – catalogues every type of animation (scroll‑triggered, hover, micro‑interactions, page transitions) that steal the spotlight. |
+| 7 | `director-skills.md` | **The overseer** – analyses structure, animations, text, and overall flow; provides the final critique and approval. |
+| 8 | `color-psychology.md` | **Emotional impact through colour** – chooses palettes that trigger specific feelings and reinforces brand identity. |
+| 9 | `typography-mastery.md` | **Font pairing & kinetic text** – explores 100+ font styles, variable fonts, and text‑as‑art techniques. |
+| 10 | `layout-innovation.md` | **Grid‑breaking structures** – introduces asymmetric, diagonal, and 3D layouts that defy traditional expectations. |
+| 11 | `interactive-elements.md` | **User‑driven magic** – designs custom cursors, draggable elements, and interactive particles that respond to every move. |
+| 12 | `micro-interactions.md` | **Subtle delights** – fine‑tunes button presses, loading states, and hover feedback that feel tactile and rewarding. |
+| 13 | `performance-optimization.md` | **Speed without sacrifice** – ensures all the wild creativity remains buttery smooth on any device. |
+| 14 | `accessibility-inclusion.md` | **Invisible perfection** – guarantees that even the most complex designs remain usable for everyone, without diluting the wow factor. |
 
 ---
 
-## How it relates to Anthropic's `frontend-design` skill
+## 🚀 How UI-UX-skill Works
 
-Same SKILL.md. The `ui-ux-skills` wrapper adds installation docs, an honest README, and a references folder for library grounding (in progress). If you already have `frontend-design` loaded, this is additive — not a replacement.
-
-The comparison table in a previous version of this README claimed features the references folder doesn't contain yet. That was wrong. This version doesn't.
-
----
-
-## Stack coverage
-
-Currently solid on: vanilla HTML/CSS/JS, React (single-file artifacts).
-
-References folder (WIP) will extend grounding to: Next.js App Router, Vue 3, Svelte 5, Tailwind v4, Radix UI, Framer Motion, Floating UI.
+1. **Director’s Call** – The AI loads `director-skills.md` first, setting the tone and scope.
+2. **Skill Chains** – Depending on the project, relevant sub‑skills are activated in sequence (e.g., `design-skill.md` → `typography-mastery.md` → `animations.md` → `representation.md` → `director-skills.md`).
+3. **SVG Weaponry** – The `svg-skill.md` sub‑skill includes advanced techniques for morphing, filtering, and orchestrating SVG‑based animations that become the centrepiece of the design.
+4. **Self‑Critique Loop** – After each major component, `representation.md` runs a simulated user test; flaws are flagged and fixed immediately.
+5. **Final Review** – The director sub‑skill performs a holistic audit, checking emotional impact, technical performance, and creative boldness.
 
 ---
 
-## License
+## 📁 Reference Files
 
-MIT — use, modify, distribute freely.  
-Attribution appreciated, not required.
+- **`svg.md`** – A standalone reference that dives deep into SVG creativity:
+  - How to animate SVG paths with GSAP, Framer Motion, or raw JavaScript.
+  - When to use inline SVG vs. external sprites.
+  - Techniques for filter effects, masking, and generative SVG art.
+  - Performance pitfalls and optimisation hacks.
+- **`animations.md`** – A living library of animation recipes (scroll‑triggered, parallax, 3D transforms, etc.) that guarantee user delight.
 
 ---
 
-_Built for the Crystal ecosystem._
+## 🎯 Getting Started with UI-UX-skill
+
+1. Place all 14 sub‑skill `.md` files plus the reference files in your AI’s context folder (or use them as system prompts).
+2. Begin any design project by invoking `director-skills.md` – it will orchestrate the rest.
+3. For maximum creativity, ensure the AI has access to `svg.md` and `animations.md` as reference materials.
+
+---
+
+## 🌟 The Result
+
+A frontend that doesn’t just *work* – it **performs**.  
+A design that doesn’t just *look good* – it **hijacks dopamine**.  
+An AI that doesn’t just *follow instructions* – it **thinks, critiques, and innovates** like a world‑class creative director.
+
+Welcome to the wild side of design.  
+**UI-UX-skill** – because creativity should never be caged.
