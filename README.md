@@ -1,198 +1,105 @@
-# UI-UX Skills
+# ui-ux-skills
 
-## What are 'UI-UX Skills'?
+A frontend design skill that escapes AI-default aesthetics through a 5-layer pipeline: intent extraction → aesthetic commitment → slop prevention → technical overdrive → recursive self-audit.
 
-With the rise of `skills` in the AI agents community, we are introducing `UI-UX Skills`.  
-Anthropic and the community have already created many skills for frontend — this skill is built from the ground up to serve the **full versatility of the frontend coding community**.
-
-- This skill makes the AI completely focus on **UI** (visual design) _and_ **UX** (interaction design, flow, accessibility) with literally `pixel-by-pixel` accuracy. It supercharges the AI to deliver frontend experiences at the level of an **L5 frontend developer**.
-- It ships with **references** — open-source raw library sources and L5-level code patterns — so the AI never hallucinates APIs, component APIs, or CSS behavior while coding.
-- **Universal by design** — works across Claude Code, Gemini CLI, Cursor, Windsurf, Copilot Workspace, and any agent that supports markdown context injection. One skill, every agent.
+Built for the Crystal ecosystem.
 
 ---
 
-## Why this skill exists
+## Why this exists
 
-Most AI frontend output converges on the same aesthetic: purple gradients, Inter font, predictable card layouts. That's L1 output.
+Default AI frontend output converges on the same aesthetic every time: Inter font, purple gradients, three equal-height cards, centered hero. That's the statistical mean of the training data — not a design decision.
 
-An L5 frontend developer does three things differently:
+This skill breaks that gravity by encoding three things a real senior frontend developer does:
 
-1. **Intentional design direction** — Every project has a clear visual language. Not just "clean" or "modern" but a specific, committed aesthetic POV.
-2. **Engineering precision** — No magic numbers, no dead CSS, no `!important` chains. Token systems, component contracts, and layered architecture.
-3. **UX as a first-class concern** — Interaction states, micro-animations, accessibility, focus management, keyboard navigation — not afterthoughts.
-
-This skill encodes all three directly into the AI's context.
-
----
-
-## What's inside
-
-```
-ui-ux-skills/
-├── SKILL.md                  # Core skill instructions (loads on trigger)
-├── README.md                 # This file
-├── references/
-│   ├── design-tokens.md      # Token-first CSS architecture patterns
-│   ├── component-anatomy.md  # L5-level component structure (React + Vanilla)
-│   ├── animation-bible.md    # Motion design principles + code patterns
-│   ├── accessibility.md      # WCAG 2.2 AA patterns, ARIA, keyboard nav
-│   ├── typography.md         # Font pairing system, type scale, variable fonts
-│   └── library-sources.md    # Raw API reference for Tailwind, Radix, Motion, etc.
-└── assets/
-    ├── token-template.css    # Base CSS variables template
-    └── component-stubs/      # Stripped starter components per pattern type
-```
-
----
-
-## Skill triggers
-
-This skill activates when you ask your AI agent to do **anything visual or interactive**:
-
-| You say                                  | Skill activates |
-| ---------------------------------------- | --------------- |
-| `build a landing page for X`             | ✅              |
-| `make a dashboard with charts`           | ✅              |
-| `create a settings page`                 | ✅              |
-| `improve the UX of this form`            | ✅              |
-| `refactor this component to look better` | ✅              |
-| `add micro-interactions to my navbar`    | ✅              |
-| `this UI looks bad, fix it`              | ✅              |
-| `build me something beautiful`           | ✅              |
+1. **Commit to a specific visual language** — not "modern and clean" but a named, justified aesthetic with exact token values
+2. **Engineer with precision** — two-tier OKLCH token system, 8px spatial grid, fluid type scale, spring physics. No magic numbers.
+3. **Self-correct before delivering** — a structural + fidelity audit pass catches failures before the user sees them
 
 ---
 
 ## What the skill enforces
 
-### Design
+### Aesthetic direction
+- Declares one extreme aesthetic (Brutalist Editorial, Retro-Futuristic, Organic Luxury, etc.) before writing a single line
+- Full token fingerprint committed upfront: font pair, OKLCH palette, layout rule
+- Hard bans: Inter, Roboto, purple-on-white gradients, pure `#000000`/`#FFFFFF`, uniform card grids, navbar-with-logo-left
 
-- **No generic aesthetics.** Inter + purple gradient = rejected. Every output commits to a specific, contextually justified visual language.
-- **Token-first.** All color, spacing, type, radius, and shadow as CSS variables — never hardcoded.
-- **Typography as a design element.** Variable fonts, display/body pairings, tracked uppercase, fluid type scales.
-- **Depth and atmosphere.** Gradients, noise textures, blur layers, shadows — used intentionally, not decoratively.
+### Technical standards
+- **Color**: OKLCH primitives → semantic tokens, two-tier architecture, dark mode via `[data-theme]` attribute swap only
+- **Typography**: `clamp()`-based fluid type scale across 6 steps, no hardcoded `px` font sizes
+- **Spacing**: 8px baseline grid, all values on `--space-*` tokens
+- **Responsive**: Mobile-first, container queries for components, viewport breakpoints for layout shells only
+- **Motion**: Spring physics for interactions, staggered entrance sequences, `prefers-reduced-motion` wrapping
+- **3D**: Escalation matrix — Three.js only when semantically justified, never as a default
 
-### Engineering
-
-- **Zero dead CSS.** Every rule serves a purpose.
-- **Component contracts.** Props/variants are explicit. No implicit behavior.
-- **Layered architecture.** Tokens → primitives → components → compositions. No skipping layers.
-- **No hallucinated APIs.** The `library-sources.md` reference is loaded before any library code is written, grounding every API call in real docs.
-
-### UX
-
-- **Interaction states are mandatory.** Every interactive element ships with hover, focus, active, disabled, and loading states.
-- **Motion with purpose.** Animations communicate state changes — they don't just look cool.
-- **Accessibility from line one.** Semantic HTML, ARIA where needed, keyboard navigation, focus traps for modals, color contrast ≥ 4.5:1.
-- **Responsive as a default.** Mobile-first unless explicitly told otherwise.
+### Self-audit (mandatory before delivery)
+Layer 5A (visual): hierarchy, rhythm, slop detection, token consistency, responsive integrity, emotional register  
+Layer 5B (fidelity): structural DOM match, layout accuracy, visual-semantic fidelity, self-healing protocol
 
 ---
 
-## Supported stacks
+## Honest ceiling
 
-The skill covers all major frontend environments:
+This skill reliably produces **L3.5→L4** output for single-file artifacts. It prevents the most common failure modes and forces lower-probability, higher-quality aesthetic choices.
 
-- **Vanilla HTML/CSS/JS** — Single-file and multi-file
-- **React** — Hooks, compound components, context patterns
-- **Next.js** — App router, RSC, server actions
-- **Vue 3** — Composition API, `<script setup>`
-- **Svelte 5** — Runes, snippets
-- **CSS frameworks** — Tailwind v4, UnoCSS, vanilla tokens
-
-Library integrations with raw-source references:
-
-- **Radix UI / shadcn/ui** — Headless primitives
-- **Motion (Framer Motion)** — Animation engine
-- **Vaul / cmdk** — Drawer, command palette
-- **Floating UI** — Tooltips, popovers, dropdowns
-- **Three.js** — 3D UI elements when relevant
+It does not produce L5 output. L5 requires real visual judgment — knowing when a composition *feels* wrong even when the tokens are correct. A skill file can teach rules but not when to break them intentionally.
 
 ---
 
-## Installation
+## File structure
 
-This skill is agent-agnostic. Use whichever method matches your environment.
-
-### Claude Code
-
-Drop the `.skill` file into the Claude Code skills panel, or install via CLI:
-
-```bash
-claude skills install ui-ux-skills.skill
+```
+ui-ux-skills/
+├── SKILL.md        ← The actual skill (this is what Claude loads)
+├── README.md       ← This file
+└── references/     ← WIP: library API sources, component contracts, a11y patterns
+    └── ...
 ```
 
-Or copy the folder manually:
+The references folder is actively being built. Once complete, it will ground library-specific code in raw API signatures — reducing hallucination on Radix, Motion, Floating UI, etc.
 
+---
+
+## How to use
+
+### Claude.ai
+Upload `SKILL.md` via **Settings → Skills → Upload skill**.
+
+### Claude Code
 ```bash
 cp -r ui-ux-skills/ /your-project/.claude/skills/ui-ux-skills/
 ```
 
-### Claude.ai
+### Cursor / Windsurf
+Paste `SKILL.md` contents into `.cursorrules` or your system prompt file.
 
-Go to **Settings → Skills → Upload skill** and upload the `.skill` file. The skill will be available across all conversations.
-
-### Gemini CLI
-
-Gemini CLI loads context from a `GEMINI.md` file in your project root. Append the contents of `SKILL.md` to it:
-
-```bash
-cat ui-ux-skills/SKILL.md >> GEMINI.md
-```
-
-To also load the reference files on demand, add this line to your `GEMINI.md`:
-
-```
-<!-- skill:ui-ux-skills references/ -->
-```
-
-Gemini CLI will resolve relative paths and pull in the reference docs as needed during the session.
-
-### Cursor / Windsurf / Aide
-
-Place the `SKILL.md` contents inside your `.cursorrules` / `.windsurfrules` / system prompt file, or add the `ui-ux-skills/` folder to your project root — most agents auto-detect context files in the project directory.
-
-### Any MCP-compatible agent
-
-Add the skill directory to the agent's context path. The `SKILL.md` + `references/` structure is plain Markdown — any agent that can read files from context will pick it up.
-
-### Raw prompt injection (universal fallback)
-
-If your agent doesn't support skill files, copy the contents of `SKILL.md` directly into your system prompt. This works with any LLM or agent, anywhere.
+### Any agent
+Copy `SKILL.md` contents into the system prompt. The skill is plain markdown — works everywhere.
 
 ---
 
-## How it differs from `frontend-design` (Anthropic's official skill)
+## How it relates to Anthropic's `frontend-design` skill
 
-|                     | `frontend-design`      | `ui-ux-skills`                       |
-| ------------------- | ---------------------- | ------------------------------------ |
-| Aesthetic direction | Bold, varied, creative | Same, but enforced via design system |
-| Library grounding   | General guidance       | Raw API sources loaded at runtime    |
-| UX coverage         | Minimal                | Full: states, a11y, keyboard, motion |
-| Token architecture  | Not specified          | Mandatory token-first system         |
-| Component contracts | Not specified          | Explicit variant/prop contracts      |
-| Stack coverage      | HTML/CSS/JS, React     | All major stacks                     |
-| Reference files     | None                   | 6 domain-specific reference docs     |
+Same SKILL.md. The `ui-ux-skills` wrapper adds installation docs, an honest README, and a references folder for library grounding (in progress). If you already have `frontend-design` loaded, this is additive — not a replacement.
 
-Both skills can coexist. `ui-ux-skills` is additive — it layers engineering precision and UX rigor on top of creative direction.
+The comparison table in a previous version of this README claimed features the references folder doesn't contain yet. That was wrong. This version doesn't.
 
 ---
 
-## Contributing
+## Stack coverage
 
-Open a PR with:
+Currently solid on: vanilla HTML/CSS/JS, React (single-file artifacts).
 
-- A new reference file under `references/` (follow the existing format)
-- Updated `SKILL.md` if the new reference needs a loading instruction
-- A test prompt + expected output in `tests/`
-
-Library source references should link to the official raw GitHub source, not docs pages — the AI needs API signatures, not prose.
+References folder (WIP) will extend grounding to: Next.js App Router, Vue 3, Svelte 5, Tailwind v4, Radix UI, Framer Motion, Floating UI.
 
 ---
 
 ## License
 
-MIT — free to use, modify, and distribute.  
-Attribution appreciated but not required.
+MIT — use, modify, distribute freely.  
+Attribution appreciated, not required.
 
 ---
 
-_Built for the Crystal ecosystem and the broader AI developer community._
+_Built for the Crystal ecosystem._
