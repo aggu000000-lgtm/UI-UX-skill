@@ -1,173 +1,76 @@
-# Model Calibration Guide
+# Model Calibration for the Avant-Garde Director
 
-Different frontier models have different design failure modes and different activation levers.
-This document tells you how to calibrate prompts for each model to extract best-quality UI output.
-If you're using this skill to generate prompts for other models, adjust accordingly.
+AI models are heavily fine-tuned to be "helpful, honest, and harmless." In frontend generation, "helpful" translates to "boring, accessible, and strictly gridded."
 
----
+To get models to output cinematic, Awwwards-winning code (GSAP, Three.js, Lenis, raw WebGL), you have to break their conditioning.
 
-## CLAUDE (Sonnet 4.6 / Opus 4.6)
-
-**Strength:** Strong native design intuition. Responds powerfully to emotional framing and named
-aesthetics. Produces coherent design systems when given a clear identity anchor.
-Opus is better for complex, multi-screen systems. Sonnet is faster, still excellent for components.
-
-**Failure modes:**
-
-- Tends toward over-animation when no motion personality is specified
-- Can produce "safe" layouts if not pushed toward a specific canon
-- Occasionally defaults to Inter/Space Grotesk if font choice isn't enforced
-
-**Activation levers:**
-
-- Emotional narrative framing hits hardest: _"a first-time user who feels overwhelmed should
-  leave feeling like an expert"_ → Claude will build toward that arc
-- Named canonical references trigger specific aesthetic knowledge: "Linear Dark canon" or
-  "Stripe editorial" produces more targeted output than generic instructions
-- Explicit role declaration in Phase 0 is high-leverage for Claude specifically
-
-**Optimal prompt structure for Claude:**
-
-```
-1. Role declaration (Phase 0) — front-load this
-2. Emotional brief (Phase 1) — the user's journey
-3. Canon name (Phase 1) — one named reference
-4. Technical constraints (Phase 4) — OKLCH, tokens, grid
-5. Critique bar (Phase 5) — "Awwwards-worthy or iterate"
-```
+This document outlines how different frontier models respond to the `avant-garde-director-skill` and the specific prompting techniques required to extract digital art instead of SaaS dashboards.
 
 ---
 
-## GEMINI 2.5 PRO / 3 PRO
+## 1. CLAUDE 3.5 SONNET
 
-**Strength:** Strongest raw visual design quality among current frontier models (2026 benchmarks).
-Better padding consistency, contrast balance, and layout variation than GPT or older Claude.
-Responds well to aesthetic instructions without requiring extensive rule scaffolding.
+**The Best Creative Coder**
+Claude 3.5 Sonnet is currently the most capable model for executing complex GSAP timelines, managing Three.js scenes, and understanding the nuances of kinetic typography. It naturally grasps "subversive design" when prompted.
 
-**Failure modes:**
-
-- "Endless thinking loop" on complex multi-component tasks: generates long reasoning chains
-  before producing code; can get stuck planning
-- Autonomous/agentic mode is less reliable than Claude
-- Occasional over-complexity in component architecture
-
-**Activation levers:**
-
-- Scope containment is critical: break complex tasks into single-component subtasks
-- Front-load the aesthetic brief with high specificity: Gemini executes declared direction
-  faithfully without much coaxing
-- "Think then code" split: ask for a brief design rationale (2-3 sentences), then code.
-  This satisfies the reasoning loop and gets to output faster
-- Explicit completion signal: "Complete the full implementation. Do not summarize remaining steps."
-
-**Optimal prompt structure for Gemini:**
-
-```
-1. Scoped task definition — specific, single-component focus
-2. Aesthetic direction — named reference + 3 adjective voice
-3. Technical requirements — tokens, states, responsive breakpoints
-4. "Complete the full implementation" — prevents truncation
-5. Design rationale first — 2-3 sentences then code
-```
+**Calibration Notes:**
+- **The Relapse Problem:** Mid-way through a complex file, Claude might revert to writing standard CSS hover effects (`transition: all 0.3s ease`). You must aggressively enforce the `INTERACTION-DESIGN.md` rules.
+- **The Prompt Hack:** Add this to your prompt: *"Do not use CSS transitions for primary elements. I want to see GSAP `quickTo` and `ScrollTrigger` velocity-based scaling."*
+- **Canvas Generation:** Claude is excellent at writing raw WebGL fragment shaders for noise, grain, and fluid distortion. Ask for "a custom GLSL shader inside a Three.js plane."
 
 ---
 
-## GPT-4.5 / GPT-5
+## 2. GPT-4o
 
-**Strength:** Strong structural code quality. Good component architecture. Follows explicit rules
-reliably. Best for complex application logic that requires coordinated state.
+**The Logical Physicist**
+GPT-4o is excellent at the mathematics behind custom cursors, magnetic buttons, and Lenis scroll integration. However, its aesthetic taste defaults much closer to Bootstrap than Claude does.
 
-**Failure modes:**
-
-- Native UI output is "textbook AI slop" without heavy direction
-- Defaults to: Inter font, `#3B82F6` blue CTAs, generic card grids, box-shadow everywhere
-- No native aesthetic intuition — requires explicit positive examples, not just prohibitions
-- Copy defaults to generic tech startup voice: "Powerful. Simple. Fast."
-
-**Activation levers:**
-
-- Anti-pattern rules have higher impact on GPT than on Claude/Gemini (blacklists work better here)
-- Positive example snippets in the prompt are high-leverage: show it one beautiful CSS block
-  and it will pattern-match to that quality
-- Explicit font specification is mandatory: if not specified, Inter appears
-- Step-by-step micro-instructions work better than holistic design philosophy
-
-**Optimal prompt structure for GPT:**
-
-```
-1. Anti-pattern blacklist — explicit bans (font, color, layout)
-2. Positive example snippet — one beautiful CSS/HTML block as reference
-3. Token specification — exact OKLCH values, exact font CDN link
-4. Step-by-step build order — component by component, state by state
-5. Completion enforcement — "Do not use placeholders. Write every line."
-```
+**Calibration Notes:**
+- **The Aesthetic Deficit:** GPT-4o will build a perfect GSAP timeline but apply it to a boring, perfectly rounded white card. You must explicitly demand "Brutalist palettes, massive 15vw typography, and overlapping Z-indexes."
+- **The Boilerplate Bug:** It frequently forgets to register GSAP plugins (`gsap.registerPlugin(ScrollTrigger)`). Remind it in the prompt.
+- **The Prompt Hack:** *"You are an avant-garde digital artist. Your layout must be broken, asymmetrical, and use absolute positioning heavily. Do not use an 8px grid. Make the typography bleed off the screen."*
 
 ---
 
-## QWEN 3 / QWEN 3.5
+## 3. GEMINI 1.5 PRO
 
-**Strength:** Excellent coding precision. Strong at following complex technical specifications.
-Competitive with top models on structured implementation tasks.
+**The Context Heavyweight**
+Gemini excels when you paste in entire documentation sets for complex Three.js or GSAP integrations. It handles massive files well but struggles with the *nuance* of cinematic timing.
 
-**Failure modes:**
-
-- No native aesthetic judgment — needs maximum scaffolding for visual quality
-- Copy quality is generic; needs explicit voice specification
-- Motion/animation defaults to basic transitions; spring physics need explicit implementation
-- Responsive behavior is often omitted unless explicitly required
-
-**Activation levers:**
-
-- Full technical spec upfront: exact values, exact properties, exact patterns
-- Reference code snippets embedded in the prompt are highest-leverage
-- Explicit responsive requirement: "include breakpoints at 375px, 768px, 1280px"
-- Copy specification: "write real, contextual copy for a [domain] product. Voice: [3 adjectives]"
-- Motion: provide the exact easing function; don't describe the feeling
-
-**Optimal prompt structure for Qwen:**
-
-```
-1. Full token specification — exact OKLCH values, exact spacing scale
-2. Reference CSS blocks — copy the DESIGN-SYSTEMS.md sections verbatim
-3. Component state table — list all 5 states per component explicitly
-4. Responsive breakpoint table — specify behavior at each breakpoint
-5. Copy examples — one example per copy type (CTA, error, placeholder)
-6. Completion contract — "No placeholders. No TODOs. Full implementation."
-```
+**Calibration Notes:**
+- **The Timing Issue:** Gemini will write GSAP code, but the durations and easings will be generic (`duration: 1, ease: "power1.inOut"`). You must force it to use aggressive easing (`ease: "expo.out"`, `duration: 2.5`).
+- **The Prompt Hack:** *"I am uploading the Lenis and GSAP documentation. Build a scroll-jacked experience where the scroll velocity directly manipulates the Y-rotation of a Three.js object and the `font-stretch` of the typography."*
 
 ---
 
-## DEEPSEEK R2 / V3
+## 4. LOCAL MODELS (QWEN 2.5 Coder, LLAMA 3.1)
 
-**Strength:** Very strong code quality. Good at complex logic. Fast iteration.
+**The Rule Followers**
+Smaller or local models struggle immensely with breaking the "standard web design" mold. They have a hard time conceptualizing a layout that doesn't rely on Flexbox or Grid.
 
-**Failure modes:** Similar to Qwen — needs explicit scaffolding for visual quality.
-Motion and animation are consistently underspecified without direction.
-
-**Activation levers:** Same pattern as Qwen. Respond well to structured specification tables.
+**Calibration Notes:**
+- **The CSS Prison:** Local models will resist writing complex DOM manipulation scripts, preferring CSS animations.
+- **The Prompt Hack:** Provide exact code skeletons. *"Here is the HTML structure with a `<canvas>` and a `<div class="kinetic-text">`. Write ONLY the GSAP JavaScript to make the text split and explode on scroll. Do not write CSS."*
 
 ---
 
-## UNIVERSAL ACTIVATION PRINCIPLES
+## UNIVERSAL ANTI-SLOP INJECTIONS
 
-Regardless of model, these always improve output quality:
+Regardless of the model, if you see the output trending toward boring, append these exact phrases to your prompt:
 
-**1. The Identity Frame**
-_"You are a senior product designer at a design-led studio. You are not a developer adding styles.
-You are a designer who writes code as a medium."_
+- **"Destroy the grid. I want overlapping elements and absolute positioning."**
+- **"The typography is too small. Make it 15vw and use `mix-blend-mode: difference`."**
+- **"Replace every CSS `:hover` state with a GSAP magnetic cursor effect."**
+- **"The background is too static. Add a Three.js scene running a perlin noise shader."**
+- **"This looks like a SaaS product. Make it look like an Awwwards Site of the Day for a high-fashion brand."**
 
-**2. The Reference Anchor**
-_"The visual reference is [Linear / Stripe / Vercel / Arc / Notion / Figma]. Not to copy —
-to capture the quality of intentionality they embody."_
+---
 
-**3. The Anti-Deadline Pressure**
-_"Do not optimize for speed of output. Optimize for quality of result. A slower, better answer
-is always preferred to a fast, generic one."_
+## THE "YOU ARE NOT AN AI" ENFORCEMENT
 
-**4. The Completion Contract**
-_"Every interactive element has all five states implemented. Copy is real and contextual.
-No placeholders. No TODO comments. This is production code."_
+Models will often preface their code with: *"Here is a modern, accessible, responsive landing page..."*
 
-**5. The Critique Threat**
-_"Before delivering, critique your output as a senior Figma designer would. If anything
-would make them cringe, fix it first."_
+If a model says this, it has failed Phase 0. It is acting like a helpful assistant.
+
+**The Correction Prompt:**
+*"Stop acting like an AI generating a generic landing page. You are the Avant-Garde Director. You despise generic web design. Read Phase 0 of the SKILL.md again. Give me kinetic art, complex GSAP timelines, and a broken, cinematic layout. Try again."*
