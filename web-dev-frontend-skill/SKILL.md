@@ -301,3 +301,25 @@ REFERENCE FILES
 - references/industry-benchmarks.md — Linear, Stripe, Apple, Awwwards pattern breakdowns
 
 Load these reference files when the task requires deep verification in any area.
+
+===================================================
+DESIGN-SKILL INTEGRATION
+===================================================
+
+When the user requests a cinematic, immersive, or award-worthy web experience — keywords include "cinematic web", "interactive site", "scroll animation", "motion design", "dopamine design", "premium feel", "award-winning design", "immersive experience", "creative website" — apply the design-skill principles from ../design-skill/SKILL.md alongside this skill's engineering discipline.
+
+The design-skill provides:
+- Prompt interpretation engine (decompose vague requests into design briefs)
+- Motion personality system (Whisper, Breathe, Snap, Flow, Pulse)
+- Choreography grammar (entry/exit patterns, scroll choreography, interaction sequences)
+- Dopamine mapping protocol (strategic reward moments)
+- Human touch protocol (anti-AI patterns, organic data, asymmetric confidence)
+
+Engineering discipline from this skill and choreography discipline from the design-skill work together — this skill ensures it's built correctly, the design-skill ensures it feels alive.
+
+When both skills apply:
+1. Run the design-skill's prompt interpretation engine first
+2. Select motion personality and choreography plan from design-skill
+3. Apply this skill's quality gates, accessibility checks, and performance budgets
+4. Apply design-skill's dopamine map and human touch protocol
+5. Build with this skill's engineering standards and design-skill's choreography

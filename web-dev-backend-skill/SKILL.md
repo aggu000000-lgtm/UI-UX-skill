@@ -304,3 +304,15 @@ REFERENCE FILES
 - references/data-modeling.md — Entity design, relationships, audit patterns, event sourcing, CQRS
 
 Load these reference files when the task requires deep verification in any area.
+
+===================================================
+DESIGN-SKILL INTEGRATION
+===================================================
+
+When building a full-stack project that includes a cinematic or immersive frontend (keywords: "cinematic web", "interactive site", "scroll animation", "motion design", "dopamine design", "premium feel", "award-winning design", "immersive experience", "creative website"), coordinate with the design-skill principles from ../design-skill/SKILL.md and the frontend skill.
+
+Your role in cinematic projects:
+- Ensure backend APIs support the frontend's motion and interaction needs (fast response times, streaming where needed, optimistic UI support)
+- Design data structures that enable the frontend's choreography (proper pagination for staggered reveals, real-time endpoints for pulse-motion dashboards, progress endpoints for dopamine mapping)
+- Support the frontend's performance budgets with efficient queries, caching, and response optimization
+- When the frontend uses scroll-driven or real-time experiences, ensure the backend can handle the increased request patterns

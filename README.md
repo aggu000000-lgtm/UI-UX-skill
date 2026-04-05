@@ -2,7 +2,19 @@
 
 > A discipline for building interfaces that breathe.
 
-A skill file that turns AI into a disciplined UI-UX engineer — one that builds with intention, not decoration. Every pixel has purpose. Every interaction has logic. No fluff, no filler, only function that feels right.
+A skill system that turns AI into a disciplined UI-UX engineer and creative designer — one that builds with intention, not decoration. Every pixel has purpose. Every interaction has logic. Every movement has choreography. No fluff, no filler, only function that feels right.
+
+---
+
+## Skills Overview
+
+This repository contains three complementary skills that work together or standalone:
+
+| Skill | Purpose | Personality |
+|-------|---------|-------------|
+| **web-dev-frontend-skill** | Engineering discipline for production-grade UI | Senior engineer, strict, evidence-based |
+| **web-dev-backend-skill** | Backend architecture and server systems | Senior engineer, security-first, scalable |
+| **design-skill** | Choreography-first motion design and dopamine mapping | Creative designer, warm, passionate about craft |
 
 ---
 
@@ -15,6 +27,7 @@ This is not a design guide. It is an **operating system for AI-assisted UI devel
 - **Built-in accessibility** — WCAG 2.1 AA is the baseline, not an afterthought
 - **Performance-first rendering** — Core Web Vitals targets enforced by default
 - **SWE discipline mode** — the AI acts as a senior engineer, not a friendly assistant
+- **Choreography-first design** — motion personalities, dopamine mapping, human-crafted feel
 
 ## SWE Discipline Mode
 
@@ -131,3 +144,45 @@ All implementations follow the latest standards. Deprecated patterns are not use
 MIT — Copyright (c) 2026 aggu000000-lgtm
 
 Do what you want with this. Just keep the license intact.
+
+---
+
+## Design-Skill: Choreography-First Design
+
+The **design-skill** is the newest addition and what makes this repository unique. It's not an engineering skill — it's a **creative designer** that thinks in motion, space, and emotion.
+
+### What Makes It Different
+
+| Feature | What It Does |
+|---------|-------------|
+| **Prompt Interpretation Engine** | Decomposes vague prompts into full design briefs before writing code |
+| **Motion Personality System** | 5 personalities (Whisper, Breathe, Snap, Flow, Pulse) with specific easing, timing, and choreography rules |
+| **Choreography Grammar** | Complete entry/exit patterns, scroll choreography, and interaction sequences |
+| **Dopamine Mapping** | Strategic placement of reward moments based on neuroscience principles |
+| **Human Touch Protocol** | Anti-AI patterns: asymmetric layouts, organic data, brand-specific motion, unexpected interactions |
+| **Creative Designer Tone** | Warm, passionate about craft, thinks out loud about rhythm and spacing |
+
+### When to Use Design-Skill
+
+Use it when the user requests anything cinematic, immersive, or emotionally engaging:
+- "cinematic web", "interactive site", "scroll animation"
+- "motion design", "dopamine design", "premium feel"
+- "award-winning design", "immersive experience", "creative website"
+
+### Integration with Other Skills
+
+When a cinematic web project is requested:
+1. **Design-skill** handles the creative direction (motion personality, choreography, dopamine map)
+2. **Frontend skill** handles the engineering (accessibility, performance, code quality)
+3. **Backend skill** ensures APIs support the frontend's motion and interaction needs
+
+All three skills coordinate — engineering ensures it's built correctly, choreography ensures it feels alive.
+
+### Reference Files
+
+| File | Purpose |
+|------|---------|
+| [`design-skill/references/choreography-patterns.md`](design-skill/references/choreography-patterns.md) | Complete specs for cascade, converge, diverge, wave, stack, unfold patterns |
+| [`design-skill/references/motion-timing-scale.md`](design-skill/references/motion-timing-scale.md) | Mathematical timing system, easing curves, spring physics per personality |
+| [`design-skill/references/prompt-interpretation-guide.md`](design-skill/references/prompt-interpretation-guide.md) | How to decompose vague prompts into design briefs with examples |
+| [`design-skill/references/design-persona-tones.md`](design-skill/references/design-persona-tones.md) | Tone guidelines with good/bad examples, vocabulary guide |
