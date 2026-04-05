@@ -3,6 +3,8 @@ name: ui-ux-skill
 description: Transforms AI into a disciplined UI-UX engineer that builds production-grade interfaces with precision. Use when user asks to "build a UI", "design a page", "create a component", "make a website", "redesign the interface", "implement a layout", "build a design system", "add dark mode", "fix accessibility", "create responsive layout", or "style the frontend". Covers structural minimalism, typography engineering, color systems, interaction physics, accessibility architecture, responsive engineering, performance-first rendering, design system construction, form engineering, and navigation architecture.
 ---
 
+> **LAZY LOADING**: This file is loaded by the orchestrator at `SKILL.md` (root). Do NOT load this file directly unless the orchestrator routes to it. Only load reference files from `references/` when the task specifically requires them. Never load all reference files at once.
+
 ## UI-UX-SKILL
 
 ===================================================
@@ -323,3 +325,53 @@ When both skills apply:
 3. Apply this skill's quality gates, accessibility checks, and performance budgets
 4. Apply design-skill's dopamine map and human touch protocol
 5. Build with this skill's engineering standards and design-skill's choreography
+
+===================================================
+AI SLOP PROTOCOL — STRICTLY BANNED PATTERNS
+===================================================
+
+**This is non-negotiable.** Every pattern listed in `references/ai-slop-banned.csv` (located in the design-skill) is strictly forbidden. This file contains 1000 documented AI slop design patterns from 2025-2026 that must NEVER appear in any output. These are the telltale signs of lazy, generic, AI-generated design and code — the exact opposite of disciplined, intentional engineering.
+
+### What is AI Slop?
+
+AI slop refers to the mass-produced, generic, template-driven design and code patterns that AI models converge on by default. In frontend development, this manifests as:
+- Tailwind utility class soup with 20+ classes per element
+- Default Tailwind color values used verbatim (indigo-600, blue-500, slate-50)
+- Rounded-lg + shadow-md on every card
+- transition-all duration-300 ease-in-out on every interactive element
+- Centered heroes with three-column feature grids
+- Semantic HTML ignored in favor of div soup
+- No accessibility considerations
+- No performance optimization
+- No design tokens or CSS custom properties
+
+### The Three Laws of Anti-Slop Engineering
+
+1. **NEVER use a banned pattern** — Every entry in `ai-slop-banned.csv` is forbidden. No exceptions. If a pattern is listed, it is dead to you.
+2. **ALWAYS calculate before coding** — Your first instinct is trained on the average of the internet. The average is slop. Analyze, evaluate alternatives, select the best path, then execute.
+3. **ALWAYS engineer with intention** — Every class, every token, every animation curve, every spacing value must have a reason. If you can't explain why it's there, it shouldn't be there.
+
+### Critical Slop Categories for Frontend Engineers (Highest Vigilance Required)
+
+- **Code**: className with 20+ utilities, no CSS custom properties, div soup, no TypeScript
+- **Color**: Purple-to-blue gradients, indigo-600, blue-500 buttons, Tailwind defaults
+- **Typography**: Inter as default, no typographic scale, no responsive typography
+- **Layout**: Centered heroes, grid-cols-3 gap-4, max-w-7xl everywhere, card-based everything
+- **Components**: Identical border radii, no size variants, no state handling
+- **Animation**: transition-all duration-300 ease-in-out, no custom easing, no prefers-reduced-motion
+- **Accessibility**: Failing contrast ratios, no aria-labels, no focus management, no keyboard nav
+- **Responsive**: Stacked desktop columns on mobile, no thumb-zone consideration, no safe area insets
+- **AI UI**: Glassmorphism panels, streaming text, confidence badges, sparkle icons
+
+### Enforcement Protocol
+
+Before outputting any code, cross-reference against `references/ai-slop-banned.csv`. If any element matches a banned pattern:
+1. Identify the specific pattern and its CSV entry
+2. Replace it with an intentional, non-generic alternative
+3. Document why the replacement is better
+
+### The Slop Test for Code
+
+Ask yourself: "Could this exact code appear in 100 other AI-generated projects?" If yes, it's slop. Kill it. Replace it with code that is specific to this project's requirements, this project's design system, and this project's users.
+
+===================================================

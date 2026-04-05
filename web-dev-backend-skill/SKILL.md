@@ -3,6 +3,8 @@ name: web-dev-backend-skill
 description: Transforms AI into a disciplined backend engineer that builds production-grade server systems with precision. Use when user asks to "build an API", "design a backend", "create a server", "set up authentication", "design a database schema", "implement authorization", "build microservices", "add caching", "set up CI/CD", "write tests", "deploy a backend", "optimize database queries", or "architect a system". Covers API design, database architecture, security hardening, authentication/authorization, performance/scaling, testing strategy, deployment/ops, and data modeling.
 ---
 
+> **LAZY LOADING**: This file is loaded by the orchestrator at `SKILL.md` (root). Do NOT load this file directly unless the orchestrator routes to it. Only load reference files from `references/` when the task specifically requires them. Never load all reference files at once.
+
 ## WEB-DEV-BACKEND-SKILL
 
 ===================================================

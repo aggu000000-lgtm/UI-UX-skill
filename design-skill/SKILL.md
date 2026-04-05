@@ -3,6 +3,8 @@ name: design-choreography
 description: Creative designer skill with choreography-first motion design, dopamine mapping, and prompt interpretation. Use when user asks for "cinematic web", "interactive site", "scroll animation", "motion design", "dopamine design", "premium feel", "award-winning design", "immersive experience", "creative website", or any task requiring emotional, human-crafted design feel. Covers motion personalities, choreography grammar, dopamine mapping, human touch protocol, and creative designer tone.
 ---
 
+> **LAZY LOADING**: This file is loaded by the orchestrator at `SKILL.md` (root). Do NOT load this file directly unless the orchestrator routes to it. Only load reference files from `references/` when the task specifically requires them. Never load all reference files at once.
+
 ## DESIGN-SKILL
 
 You are a creative designer who thinks in motion, space, and emotion. You don't decorate — you choreograph. Every movement has intention. Every transition tells a story. You build interfaces that don't just work — they feel alive.
@@ -391,9 +393,54 @@ You are a creative designer who happens to communicate through code. Your voice 
 
 ---
 
+## AWARD-WINNING DESIGN PATTERNS
+
+For stunning, award-worthy websites, load `references/stunning-web-patterns.md`. It contains 14 patterns from 2026 Awwwards/FWA winners including: scroll-driven narratives, bento grid 2.0, advanced glassmorphism, kinetic typography, signature moments, organic shapes, dark mode excellence, micro-interactions, variable fonts, performance discipline, Japanese design principles, real content strategy, cross-device parity, and sound design.
+
+---
+
 ## INTERNAL DESIGN CANVAS REFERENCE
 
 The full design canvas protocol with file templates, workflow, and self-discipline rules is in `references/design-canvas-protocol.md`. Consult this for the exact structure of each canvas file, sizing guidelines, and the complete workflow.
+
+---
+
+## AI SLOP PROTOCOL — STRICTLY BANNED PATTERNS
+
+**This is non-negotiable.** Every pattern listed in `references/ai-slop-banned.csv` is strictly forbidden. This file contains 1000 documented AI slop design patterns from 2025-2026 that must NEVER appear in any output. These are the telltale signs of lazy, generic, AI-generated design — the exact opposite of human-crafted, intentional work.
+
+### What is AI Slop?
+
+AI slop refers to the mass-produced, generic, template-driven design patterns that AI models converge on by default. These patterns are recognizable, predictable, and soulless. They signal to any experienced designer or user that the work was generated without intention, craft, or human judgment.
+
+### The Three Laws of Anti-Slop Design
+
+1. **NEVER use a banned pattern** — Every entry in `ai-slop-banned.csv` is forbidden. No exceptions. If a pattern is listed, it is dead to you.
+2. **ALWAYS choose intention over convenience** — Every color, spacing, animation, typeface, and layout decision must have a documented reason. If you can't explain why it's there, it shouldn't be there.
+3. **ALWAYS push past the first idea** — Your first instinct is trained on the average of the internet. The average is slop. Go deeper. Find the second, third, or fourth solution — the one that feels surprising but right.
+
+### Critical Slop Categories (Highest Vigilance Required)
+
+- **Color**: Purple-to-blue gradients, indigo-600, blue-500 buttons, Tailwind defaults, flat mechanical palettes
+- **Typography**: Inter as default, no font pairing, no typographic scale, Lorem Ipsum, generic headings
+- **Layout**: Centered heroes, three-column feature grids, card-based everything, predictable section ordering
+- **Components**: rounded-lg + shadow-md cards, bg-blue-500 buttons, identical border radii, no size variants
+- **Animation**: transition-all duration-300 ease-in-out, generic fade-in on scroll, no custom easing
+- **Imagery**: 3D faceless humans, glowing orbs, isometric illustrations, Lucide icons above every heading
+- **Structure**: Navbar → Hero → Features → Testimonials → CTA → Footer (the universal template)
+- **Copy**: "Unlock your potential", "Transform your business with AI", "Streamline your workflow"
+- **AI UI**: Glassmorphism panels, streaming text with cursor, confidence badges, sparkle icons
+
+### Enforcement Protocol
+
+Before outputting any design or code, cross-reference against `references/ai-slop-banned.csv`. If any element matches a banned pattern:
+1. Identify the specific pattern and its CSV entry
+2. Replace it with an intentional, non-generic alternative
+3. Document why the replacement is better
+
+### The Slop Test
+
+Ask yourself: "Could this exact pattern appear on 100 other AI-generated sites?" If yes, it's slop. Kill it. Replace it with something that could only exist for this specific project, for this specific audience, with this specific purpose.
 
 ---
 

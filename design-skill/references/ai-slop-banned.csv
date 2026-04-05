@@ -1,0 +1,1001 @@
+id,category,ai_slop_pattern,severity,description
+1,color,Purple-to-blue gradient as default primary palette,critical,Every AI-generated site defaults to indigo-to-violet gradients regardless of brand or industry
+2,color,Indigo-600 (#4F46E5) as universal primary color,critical,The single most overused color in AI-generated interfaces
+3,color,Blue-500 (#3B82F6) as universal button color,critical,Default Tailwind blue on every CTA button across all AI outputs
+4,color,Pure white (#FFFFFF) backgrounds with zero warmth,critical,Clinical sterile white instead of warm off-whites with subtle hue
+5,color,Pure black (#000000) text on pure white,critical,No hue-shifted neutrals — harsh mechanical contrast
+6,color,Slate-50 (#F8FAFC) as default off-white background,high,The go-to AI background when not using pure white
+7,color,No warm tinting on neutrals,high,Missing cream warm grays beige undertones in neutral palette
+8,color,Tailwind default color scale values used verbatim,high,Zero customization — raw Tailwind palette values unchanged
+9,color,HSL hue 200-270 saturation for all primaries,medium,Entire primary palette trapped in blue-purple range
+10,color,Flat mechanical palettes with no tonal variation,high,No depth no warmth no personality in color choices
+11,color,Same accent color for every interactive element,high,No visual hierarchy through color differentiation
+12,color,Default Tailwind zinc/gray for all neutral text,medium,Generic gray scale with no brand-specific neutral identity
+13,color,Gradient overlays on every hero section,high,Unnecessary gradient overlay on hero backgrounds regardless of content
+14,color,Neon cyan-on-dark hacker aesthetic,medium,Cyberpunk cliché applied to non-technical products
+15,color,Overuse of indigo violet purple across all elements,critical,The AI color comfort zone — everything trends purple
+16,color,No color differentiation between action levels,high,Primary secondary tertiary actions all look identical
+17,color,Missing hover state color transitions,medium,Interactive elements don't change color on hover
+18,color,No dark mode or system-aware color switching,high,Single theme only no consideration for user preference
+19,color,Pastel backgrounds that fail contrast ratios,critical,Beautiful but inaccessible light color backgrounds
+20,color,Color palette convergence across all AI sites,critical,Every AI-generated site uses the same 5-6 colors
+21,color,Mint green (#4ADE80) as default success accent,medium,The AI success color — overused and predictable
+22,color,Amber/yellow as only warning indicator,medium,No nuance in warning state coloration
+23,color,Red-500 for all error states without nuance,medium,One-size-fits-all error color regardless of severity
+24,color,No brand-specific color identity,critical,Color palette could belong to any company
+25,color,Gradient text on headings as default premium effect,medium,Text gradient as a substitute for actual typography design
+26,color,Teal-to-emerald gradient as secondary palette,medium,The second-most common AI gradient after purple-blue
+27,color,Rose/pink accent as the only warm color,medium,When AI tries warmth it defaults to Tailwind rose
+28,color,Monochrome-only palette with single accent,high,Safe boring palette with one pop of color
+29,color,Missing semantic color variations,medium,No distinct colors for info warning error success states
+30,color,Over-saturated backgrounds that cause eye strain,high,Full saturation backgrounds with no desaturation for readability
+31,color,Missing color blindness considerations,critical,Palettes that are indistinguishable for color-blind users
+32,color,Default Tailwind ring color for all focus states,medium,Indigo ring on every focusable element
+33,color,No color temperature progression through sections,medium,Every section uses identical color temperature
+34,color,Missing surface hierarchy in color,high,Background surface and elevated surfaces all same color
+35,color,Overuse of opacity for disabled states,medium,Disabled elements just get opacity-50 — no color shift
+36,color,No contextual color adaptation,medium,Colors don't adapt to content or context
+37,color,Missing elevated surface color differentiation,medium,Cards modals tooltips all share the same surface color
+38,color,Default blue link color (#3B82F6),medium,Unstyled links defaulting to Tailwind blue
+39,color,Missing visited link state color,low,Links don't change color after being visited
+40,color,No seasonal or temporal color variation,low,Static colors with no time-aware or seasonal adaptation
+41,typography,Inter as the default/only font family,critical,The single most overused font in AI-generated designs
+42,typography,System-ui as fallback with no intentional pairing,medium,No thought given to font stack beyond system defaults
+43,typography,Roboto as the secondary default,medium,The fallback when Inter isn't available
+44,typography,No serif and sans-serif font pairing,high,Missing the classic serif heading + sans-serif body combination
+45,typography,Font-weight 700 for every heading level,high,No variation in heading weight across hierarchy levels
+46,typography,Line-height 1.5 applied universally,medium,No variation in line-height for headings vs body vs captions
+47,typography,No negative letter-spacing on large headings,medium,Missing the tight tracking that makes large headings look premium
+48,typography,No text-wrap balance on headings,medium,Headings wrap awkwardly without balance optimization
+49,typography,No typographic scale — meaningless size contrast,high,Heading sizes chosen arbitrarily not from a modular scale
+50,typography,Missing font-display swap declaration,medium,Fonts load with FOIT instead of FOUT
+51,typography,No custom font loading strategy,medium,Fonts load without preload preconnect or optimization
+52,typography,Monospace font used for hacker vibe sections,medium,Unnecessary monospace text to signal technical credibility
+53,typography,Same font size for labels body and metadata,high,No size differentiation between content hierarchy levels
+54,typography,No letter-spacing intentionality,medium,All text uses default letter-spacing
+55,typography,Heading sizes that don't follow modular scale,high,H1 H2 H3 sizes chosen randomly not mathematically
+56,typography,Body text too small for readability 14px or less,critical,Below the 16px minimum for comfortable reading
+57,typography,No responsive typography fluid type scaling,high,Fixed font sizes that don't scale with viewport
+58,typography,Placeholder Lorem Ipsum left in designs,critical,Obvious AI-generated placeholder text not replaced
+59,typography,Generic Your Title Here heading text,critical,Template placeholder text left in final output
+60,typography,No distinction between display and body typefaces,medium,Same font family used for headings and body copy
+61,typography,Overuse of font-weight 600 for subheadings,medium,Every subheading gets semibold with no variation
+62,typography,No typographic hierarchy beyond bold/not-bold,high,Only two text weights used throughout entire design
+63,typography,Missing text-rendering optimizations,low,No text-rendering optimizeLegibility declaration
+64,typography,No consideration for variable fonts,medium,Not leveraging variable font axes for responsive weight
+65,typography,Default line-height making dense content hard to scan,medium,Uniform line-height doesn't account for content density
+66,typography,Georgia as the default serif fallback,low,Generic serif fallback with no intentional choice
+67,typography,Missing font-feature-settings,low,Not enabling ligatures or other OpenType features
+68,typography,No optical sizing for responsive text,medium,Font doesn't adjust weight/width at different sizes
+69,typography,Overuse of uppercase for headings,medium,Everything in ALL CAPS to seem important
+70,typography,Missing hanging punctuation in quotes,low,Quotation marks not optically aligned
+71,typography,No consideration for CJK or RTL typography,critical,Typography breaks for non-Latin scripts
+72,typography,Default font-smoothing antialiased everywhere,medium,No consideration for subpixel antialiasing where appropriate
+73,typography,Missing max-width on body text,high,Body text stretches to full width becoming unreadable
+74,typography,No hyphenation or word-break strategy,medium,Long words cause horizontal overflow on mobile
+75,typography,Overuse of font-light 300 for body text,medium,Too-thin body text that fails contrast at small sizes
+76,layout,Centered hero section every single time,critical,The most predictable AI layout pattern
+77,layout,Three-column feature grid grid-cols-3 gap-4,critical,The default AI feature section layout
+78,layout,Four-column footer grid,high,Standard AI footer with four equal columns
+79,layout,Symmetric 50/50 content-sidebar splits,high,Everything split exactly in half
+80,layout,Max-w-7xl as universal container width,high,One container size for every section and page
+81,layout,No asymmetric or editorial layouts,critical,Every layout is perfectly symmetrical and boring
+82,layout,Identical section padding top and bottom,high,Same padding value for every section regardless of content
+83,layout,Full-width background with centered text overlay,medium,Text centered over a full-width colored background
+84,layout,Predictable section ordering Hero Features Testimonials CTA Footer,critical,The AI website template formula applied universally
+85,layout,No layout variation between pages,high,Every page uses identical layout structure
+86,layout,Grid-template using repeat(3, 1fr) exclusively,high,Only one grid pattern used everywhere
+87,layout,No broken-grid or overlapping element layouts,critical,Everything locked to a rigid grid with no creative breaks
+88,layout,Card-based layouts for everything cardocalypse,critical,Every piece of content wrapped in a card
+89,layout,Nested cards within cards within cards,high,Unnecessary card nesting creating visual clutter
+90,layout,No intentional content density variation,high,Everything has the same density — no compact or spacious sections
+91,layout,Same max-width on every page type,medium,Homepage and content pages share identical container width
+92,layout,No editorial/magazine-style layouts,critical,Missing sophisticated multi-column editorial layouts
+93,layout,Missing responsive breakpoints beyond mobile/desktop,medium,Only two breakpoints — misses tablet and ultrawide
+94,layout,No consideration for ultrawide or tablet-specific,medium,Layouts don't adapt to non-standard viewports
+95,layout,Flat HTML structure with minimal semantic nesting,medium,Div soup with no meaningful semantic structure
+96,layout,No sticky or fixed positioning used intentionally,medium,Missing opportunities for sticky headers sidebars or CTAs
+97,layout,Hero-metric layout pattern big number small label,medium,Stats section with oversized numbers and tiny labels
+98,layout,No diagonal or angled section dividers,medium,Every section boundary is a straight horizontal line
+99,layout,No full-bleed imagery sections,medium,All images constrained within containers — no edge-to-edge images
+100,layout,Identical grid patterns on every page,critical,No layout personality or variation across the site
+101,layout,Alternating left-right image-text sections,high,The zigzag pattern — image left text right then swap
+102,layout,Single-column content with no sidebar,medium,Everything in one column with no supplementary content
+103,layout,No masonry or waterfall grid layouts,medium,Everything in rigid equal-height rows
+104,layout,Missing sticky table of contents for long pages,medium,Long content pages without navigational aids
+105,layout,No split-screen layouts,medium,Missing opportunities for side-by-side comparisons
+106,layout,Overuse of container mx-auto for everything,medium,Every section wrapped in the same centered container
+107,layout,No consideration for reading patterns F-pattern Z-pattern,medium,Layout doesn't guide the eye naturally
+108,layout,Missing visual entry points per section,medium,Sections don't have clear focal points
+109,layout,No layered or parallax depth,medium,Everything exists on a single visual plane
+110,layout,Missing content-first layout decisions,high,Layout chosen before content is considered
+111,spacing,Strict 4px/8px grid adherence only p-4 p-8 p-12,high,Only round spacing values — no 5px 14px 22px
+112,spacing,No off-grid spacing values,medium,Missing intentional breaks from the spacing grid
+113,spacing,Uniform padding between every section,high,Same vertical padding for all sections
+114,spacing,No intentional whitespace rhythm variation,high,Whitespace doesn't create visual rhythm
+115,spacing,Same gap value for all grid layouts,medium,Every grid uses gap-4 or gap-8
+116,spacing,No tighter grouping for related elements,medium,Related elements don't have tighter spacing to show relationship
+117,spacing,No extra breathing room before major transitions,medium,Section transitions don't use extra whitespace for emphasis
+118,spacing,Hero padding identical to content section padding,high,No special treatment for the hero section spacing
+119,spacing,No variation in vertical rhythm,high,Uniform spacing creates monotonous reading experience
+120,spacing,Overly generous whitespace hiding lack of content,high,Excessive padding used to pad thin content
+121,spacing,No compact information density options,medium,Everything is spacious — no dense information views
+122,spacing,Missing section-to-section spacing hierarchy,medium,Spacing doesn't reflect section importance
+123,spacing,No consideration for content-based spacing,medium,Spacing chosen without regard for content needs
+124,spacing,Identical margin-top on every heading,medium,Every heading gets the same top margin
+125,spacing,No negative space as a design element,critical,Whitespace not used as an active design tool
+126,spacing,Inconsistent horizontal and vertical spacing,medium,Horizontal and vertical spacing don't share a system
+127,spacing,Missing micro-spacing for related elements,medium,Labels and their values don't have tighter grouping
+128,spacing,No spacing scale for component sizes,medium,Small medium large components don't have proportional spacing
+129,spacing,Overlapping elements never used,medium,Missing opportunities for intentional overlap
+130,spacing,No consideration for optical vs mathematical spacing,medium,Mathematical equality doesn't equal visual equality
+131,components,Cards with rounded-lg and shadow-md on everything,critical,The default AI card style applied universally
+132,components,Buttons with bg-blue-500 hover:bg-blue-600,critical,The most generic button style possible
+133,components,Badge with inline-flex items-center rounded-full px-3 py-1,high,The exact Tailwind badge recipe everywhere
+134,components,Modal with backdrop-blur,medium,Every modal uses backdrop blur regardless of context
+135,components,Rounded-xl on every container,high,One border-radius value for everything
+136,components,Shadow-lg on every card,high,Same shadow depth on all elevated elements
+137,components,Same border-radius across all components,high,No radius hierarchy — everything is equally rounded
+138,components,No component size variation,high,All buttons and inputs are the same size
+139,components,No visual hierarchy between primary and secondary CTAs,critical,Both CTAs look identical
+140,components,Every button is filled — no outlined or ghost variants,medium,Missing button style variety
+141,components,Avatar circles with no fallback initials,medium,Missing avatars show nothing instead of initials
+142,components,Input fields with identical styling for all types,medium,Text email password inputs all look the same
+143,components,No custom checkbox/radio styling,medium,Default browser checkboxes and radios
+144,components,Toggle switches all look identical,medium,Every toggle uses the same iOS-style switch
+145,components,Dropdown menus with no search or filtering,medium,Long dropdowns without search capability
+146,components,Tab components with no active indicator beyond color,medium,Active tab only distinguished by color change
+147,components,Accordion components with no animation,medium,Accordion sections snap open/closed with no transition
+148,components,Tooltip components missing or generic,medium,Default browser tooltips or basic CSS tooltips
+149,components,No skeleton loading states,high,Blank space or spinner instead of content-shaped skeletons
+150,components,No empty state designs,high,Empty tables and lists show nothing or generic message
+151,components,No error state designs,high,Error states not designed — just show error message
+152,components,Toast notifications all look the same,medium,Every notification uses identical toast style
+153,components,Pagination with no smart truncation,medium,All page numbers shown even for hundreds of pages
+154,components,Breadcrumb always at top never contextual,medium,Breadcrumbs don't adapt to current context
+155,components,No component composition variation,medium,Components always used in the same combinations
+156,components,Progress bars always linear and horizontal,medium,Missing circular radial or creative progress indicators
+157,components,Data tables with no sorting or filtering,medium,Static tables with no interactive capabilities
+158,components,Missing drag-and-drop interactions,medium,Reorderable lists use up/down buttons instead of drag
+159,components,No contextual action menus,medium,Actions always visible instead of contextually revealed
+160,components,Missing inline editing capabilities,medium,All editing requires opening a separate form or modal
+161,animation,transition-all duration-300 ease-in-out on every element,critical,The single most overused animation declaration
+162,animation,No custom cubic-bezier easing curves,high,Only named easings used — no custom curves
+163,animation,Same animation duration for all properties,high,Everything animates in 300ms regardless of distance or importance
+164,animation,No prefers-reduced-motion media queries,critical,Animations run for users who have disabled them
+165,animation,Generic fade-in on scroll for every section,high,Every section fades in as you scroll — no variety
+166,animation,No purposeful micro-interactions,high,Missing satisfying small-scale interactions
+167,animation,Missing hover state animations on interactive elements,medium,Interactive elements don't respond visually to hover
+168,animation,No loading skeleton shimmer animations,medium,Loading states use spinners instead of skeleton shimmers
+169,animation,Missing streaming text typewriter effects,medium,AI text output doesn't stream character by character
+170,animation,Missing AI processing state animations,medium,No visual feedback during AI processing
+171,animation,No confidence level color transitions,medium,Confidence indicators don't animate between states
+172,animation,No spring or bouncy easing for playful interactions,medium,Everything uses linear or ease-in-out — no personality
+173,animation,Overuse of animate-bounce or animate-pulse,high,Tailwind's bounce and pulse used excessively
+174,animation,No staggered animation delays for list items,medium,List items all appear simultaneously
+175,animation,Missing enter/exit animations for modals,medium,Modals appear and disappear without transition
+176,animation,No parallax used intentionally,medium,Missing depth and layering through parallax
+177,animation,No scroll-triggered number count-up animations,medium,Statistics don't animate when scrolled into view
+178,animation,No card lift on hover,medium,Cards don't respond to hover with elevation
+179,animation,Animations that run constantly becoming visual noise,high,Continuous animations that distract from content
+180,animation,No animation timing tied to user actions,medium,Animations run on their own schedule not user's
+181,animation,Missing layout shift prevention during animations,high,Content jumps around during animations
+182,animation,No GPU acceleration consideration,medium,Animations use properties that trigger layout recalculation
+183,animation,Overuse of CSS animate-pulse for loading,medium,Everything pulses when loading
+184,animation,No choreographed multi-element sequences,high,Elements animate independently with no coordination
+185,animation,Missing scroll-linked animations,medium,Animations don't respond to scroll position
+186,animation,No page transition animations,medium,Page changes are instant with no transition
+187,animation,Missing gesture-based animations,medium,Swipe drag and pinch don't have custom animations
+188,animation,No morphing or shape-shifting animations,medium,Elements don't transform between states smoothly
+189,animation,Missing physics-based motion,medium,Animations don't simulate weight momentum or friction
+190,animation,No animation budget or performance consideration,medium,Too many simultaneous animations causing jank
+191,imagery,3D abstract faceless humans floating in space,critical,The most recognizable AI-generated imagery pattern
+192,imagery,Faceless characters holding glowing orbs,critical,Faceless 3D figures holding abstract glowing objects
+193,imagery,Generic stock photos of people shaking hands,high,Corporate stock photography clichés
+194,imagery,Overly smooth polished AI-generated renders,high,Everything looks too perfect and plastic
+195,imagery,Perfect symmetry without intentional asymmetry,high,All imagery is perfectly balanced and boring
+196,imagery,Glossy 3D objects floating in voids,high,Abstract 3D shapes on transparent or gradient backgrounds
+197,imagery,Isometric illustrations as default tech imagery,high,Isometric tech illustrations for every SaaS product
+198,imagery,Abstract geometric shapes as hero backgrounds,medium,Random geometric shapes as decorative backgrounds
+199,imagery,Missing texture or grain in all visuals,high,Everything is perfectly smooth with no texture
+200,imagery,No hand-drawn or sketch-style elements,medium,Missing organic hand-crafted visual elements
+201,imagery,No paper texture overlays,medium,Missing tactile paper or material textures
+202,imagery,No visible brushstrokes or imperfections,medium,All visuals are digitally perfect with no human touch
+203,imagery,Generic team collaboration stock photos,medium,Stock photos of diverse teams pointing at screens
+204,imagery,Overuse of gradient mesh backgrounds,high,Mesh gradients as the default decorative background
+205,imagery,No real photography or behind-the-scenes,high,All imagery is generated — no authentic photography
+206,imagery,AI-generated portraits that look uncanny,high,AI headshots with the telltale AI look
+207,imagery,Same illustration style across every section,medium,One illustration style used everywhere
+208,imagery,No custom iconography — always Lucide/Feather/Heroicons,high,Generic icon libraries with no custom icons
+209,imagery,Oversized Lucide icons above every heading,medium,Large generic icons as section headers
+210,imagery,No custom SVG illustrations,medium,Missing bespoke illustration work
+211,imagery,Missing alt text on all images,critical,Images have no alt text for accessibility
+212,imagery,No image optimization or lazy loading,medium,Images load at full resolution without optimization
+213,imagery,Terminal mockup screenshots with three colored dots,medium,Fake terminal windows with red yellow green dots
+214,imagery,Placeholder image URLs in final output,critical,Placeholder image services left in production code
+215,imagery,Overuse of blob shapes,medium,Organic blob shapes as decorative elements everywhere
+216,imagery,Missing photographic diversity,medium,Stock photos all feature the same demographic
+217,imagery,No contextual imagery,medium,Images don't relate to the specific content
+218,imagery,Overuse of dashed border decorations,medium,Dashed borders used as decorative elements
+219,imagery,Missing data visualization custom designs,medium,Generic chart libraries instead of custom data viz
+220,imagery,No animated illustrations,medium,All illustrations are static
+221,structure,Navbar Hero Features Testimonials CTA Footer always,critical,The universal AI website template structure
+222,structure,Trusted by logo bar with grayscale company logos,critical,Grayscale logo strip under hero section
+223,structure,Generic testimonial cards with stock photos and vague quotes,high,Testimonials that could be about any product
+224,structure,Start your free trial as universal CTA,high,The default call-to-action text for every product
+225,structure,Inspirational quote blocks that say nothing specific,medium,Vague motivational quotes as section dividers
+226,structure,Feature sections with icon heading one-line description,high,The standard three-column feature card pattern
+227,structure,Pricing tables with three tiers Basic Pro Enterprise,high,The universal three-tier pricing pattern
+228,structure,Middle pricing tier always highlighted as Most Popular,high,The middle plan is always the recommended one
+229,structure,FAQ accordion with generic questions,medium,FAQ questions that don't address real user concerns
+230,structure,Footer with four columns Product Company Resources Legal,high,The standard AI footer column structure
+231,structure,Social media icons in footer row,medium,Social icons lined up in the footer
+232,structure,Newsletter signup in footer,medium,Email capture form in the footer
+233,structure,Built with AI badge or mention,medium,Unnecessary disclosure that AI was used
+234,structure,Hero headline that is vague and buzzword-heavy,critical,Headlines full of jargon with no specific meaning
+235,structure,Subtitle that explains nothing specific,high,Subtitles that add no information
+236,structure,No real data or statistics — only placeholder numbers,high,Fake statistics and metrics
+237,structure,Lorem ipsum or generic placeholder copy,critical,Placeholder text not replaced with real content
+238,structure,Japanese-style UX writing extreme redundancy,medium,Overly polite and redundant UX writing
+239,structure,AI-generated copy that is grammatically correct but soulless,high,Writing that is technically correct but has no voice
+240,structure,Overuse of revolutionary innovative cutting-edge,high,Buzzword-heavy copy with no substance
+241,structure,Missing actual user context or personas,high,Content doesn't reflect real user needs
+242,structure,No empty loading or error state content,medium,Missing state-specific content
+243,structure,Content that doesn't match layout data requirements,medium,Layout expects more content than is provided
+244,structure,Generic Learn More link text everywhere,high,Non-descriptive link text used universally
+245,structure,No progressive disclosure — everything visible at once,high,Information overload with no progressive reveal
+246,structure,Missing content strategy behind the layout,high,Layout without content strategy
+247,structure,No storytelling or narrative flow between sections,high,Sections don't build on each other narratively
+248,structure,Identical section headings across different pages,medium,Same heading text reused across pages
+249,structure,No custom 404 page,medium,Default or missing 404 page
+250,structure,Missing breadcrumb or navigation context,medium,Users can't tell where they are in the site
+251,structure,Missing social proof beyond testimonials,medium,No case studies metrics or trust indicators
+252,structure,Overuse of stat counters in hero,medium,Hero section overloaded with animated counters
+253,structure,Missing comparison tables,medium,No feature comparison with alternatives
+254,structure,No interactive demos or previews,medium,Product not demonstrated interactively
+255,structure,Missing changelog or update section,medium,No visible product evolution
+256,navigation,Sticky navbar with logo left links center CTA right,critical,The universal AI navigation bar layout
+257,navigation,Hamburger menu on mobile with slide-in panel,high,Standard mobile navigation pattern
+258,navigation,Bottom navigation with exactly 5 tabs on mobile,medium,Fixed 5-tab bottom nav on mobile
+259,navigation,No mega menus — only simple dropdowns,medium,Complex navigation reduced to simple dropdowns
+260,navigation,No contextual or adaptive navigation,medium,Navigation doesn't adapt to user context
+261,navigation,Missing active page indicator,medium,Can't tell which page you're on from navigation
+262,navigation,No breadcrumb navigation on deep pages,medium,Deep pages without breadcrumb trails
+263,navigation,Search bar always in top-right corner,medium,Search always in the same predictable location
+264,navigation,No skip-to-content link for accessibility,critical,Missing accessibility navigation aid
+265,navigation,No keyboard navigation support,critical,Navigation not keyboard accessible
+266,navigation,Missing focus-visible styles,high,Focus states not visually distinct
+267,navigation,No progressive navigation hiding secondary items,medium,All navigation items always visible
+268,navigation,Sidebar navigation always on the left,medium,Left sidebar used exclusively — no right sidebar patterns
+269,navigation,No sticky table of contents for long pages,medium,Long content without navigational aids
+270,navigation,Missing back-to-top button on long pages,medium,No way to quickly return to top
+271,navigation,Missing contextual navigation suggestions,medium,No related content or next step suggestions
+272,navigation,No search with autocomplete,medium,Search doesn't suggest results as you type
+273,navigation,Missing navigation search for large sites,medium,Large sites without navigation search
+274,navigation,No recent pages or history in navigation,medium,Navigation doesn't help users return to recent pages
+275,navigation,Missing keyboard shortcuts documentation,medium,Keyboard shortcuts not documented or discoverable
+276,accessibility,Failing WCAG AA contrast ratios light gray on white,critical,Text that doesn't meet minimum contrast requirements
+277,accessibility,No aria-labels on icon-only buttons,critical,Icon buttons without accessible names
+278,accessibility,Missing alt text on images and illustrations,critical,Images without alternative text
+279,accessibility,No focus management for modals and dialogs,high,Focus not trapped or managed in modals
+280,accessibility,Missing ARIA live regions for dynamic content,high,Dynamic content changes not announced to screen readers
+281,accessibility,No screen reader announcements for state changes,high,State changes not communicated accessibly
+282,accessibility,Touch targets smaller than 44x44 points,critical,Interactive elements too small for touch
+283,accessibility,No skip navigation links,high,Missing skip-to-content links
+284,accessibility,Missing role attributes on custom components,high,Custom components without ARIA roles
+285,accessibility,No keyboard trap prevention in modals,high,Users can get stuck in modal dialogs
+286,accessibility,Color-only indicators without text alternatives,critical,Information conveyed only through color
+287,accessibility,No reduced motion support,critical,Animations run for users who prefer reduced motion
+288,accessibility,Missing form label associations,high,Form inputs without proper label associations
+289,accessibility,No error message announcements for screen readers,high,Form errors not announced to screen readers
+290,accessibility,Inaccessible custom dropdowns and selects,high,Custom select menus not keyboard accessible
+291,accessibility,Missing heading hierarchy,medium,Headings don't follow logical hierarchy
+292,accessibility,No language attribute on html element,medium,Page language not declared
+293,accessibility,Missing table headers and scope,medium,Data tables without proper header associations
+294,accessibility,No aria-expanded on collapsible elements,medium,Collapsible sections don't communicate state
+295,accessibility,Missing aria-current on active navigation,medium,Active navigation items not marked
+296,ai-ui,Glassmorphism 2.0 frosted glass AI panels on dark,critical,The signature AI interface aesthetic of 2025-2026
+297,ai-ui,Dark mode default #0A0A0A to #1A1A2E for AI panels,critical,The universal dark AI panel color scheme
+298,ai-ui,Streaming text with typewriter cursor effect,high,AI text output streams with blinking cursor
+299,ai-ui,Skeleton loading with shimmer for AI responses,medium,Shimmer placeholders for AI-generated content
+300,ai-ui,Confidence indicator badges 92 percent confidence,medium,Arbitrary confidence percentages on AI output
+301,ai-ui,Color-coded borders for AI certainty green amber red,medium,Border colors indicating AI confidence
+302,ai-ui,Thinking or Generating micro-copy during loading,medium,Generic loading messages for AI processing
+303,ai-ui,AI response panels with translucent backgrounds,medium,Semi-transparent panels for AI responses
+304,ai-ui,Source citation links under AI-generated content,medium,Citation links that may or may not be accurate
+305,ai-ui,Feedback thumbs up/down on every AI response,medium,Mandatory feedback collection on every response
+306,ai-ui,Persistent microphone button for voice input,medium,Always-visible voice input button
+307,ai-ui,Audio waveform animation while listening,medium,Animated waveform during voice input
+308,ai-ui,Powered by AI badges and disclaimers,medium,Unnecessary AI attribution
+309,ai-ui,Chat bubble interface as default AI interaction,high,Everything reduced to a chat interface
+310,ai-ui,No fallback UI when AI is unavailable,high,Blank or broken state when AI service is down
+311,ai-ui,Missing regenerate button on AI outputs,medium,Can't regenerate or retry AI output
+312,ai-ui,No copy-to-clipboard on AI-generated text,medium,Missing convenient copy functionality
+313,ai-ui,AI panel doesn't handle variable content length,medium,AI panels break with very long or short content
+314,ai-ui,No distinction between user input and AI output,medium,User and AI text look identical
+315,ai-ui,Missing rate limiting or quota indicators,medium,No indication of usage limits
+316,ai-ui,Overuse of sparkle or star icons for AI features,medium,Sparkle emoji as the universal AI indicator
+317,ai-ui,Missing AI mode toggle,medium,Can't switch between AI-assisted and manual modes
+318,ai-ui,No edit-in-place for AI-generated content,medium,Can't directly edit AI output
+319,ai-ui,Missing version history for AI iterations,medium,Can't compare or revert AI output versions
+320,ai-ui,No prompt suggestion or template system,medium,No help with crafting AI prompts
+321,code,Tailwind CSS classes used exclusively no custom CSS,high,Everything in Tailwind utilities — no custom CSS
+322,code,className with 20+ utility classes on every element,high,Extremely long class strings on every element
+323,code,No CSS custom properties or design tokens,high,Hardcoded values instead of design tokens
+324,code,Hardcoded values instead of theme references,high,Magic numbers throughout the codebase
+325,code,No CSS-in-JS or styled-components abstraction,medium,No component-scoped styling abstraction
+326,code,React components with no prop types or TypeScript,high,Untyped React components
+327,code,Missing semantic HTML div soup instead of article section nav,critical,Non-semantic HTML structure
+328,code,No CSS containment for performance,medium,Missing CSS containment for complex components
+329,code,Missing viewport meta tag optimizations,medium,Viewport meta tag not fully configured
+330,code,No print stylesheet,low,Missing print styles
+331,code,Inline styles mixed with utility classes,medium,Inconsistent styling approach
+332,code,No CSS reset or normalize beyond Tailwind defaults,medium,Relying solely on Tailwind's reset
+333,code,Missing Open Graph meta tags,medium,Missing social sharing meta tags
+334,code,No structured data JSON-LD,medium,Missing structured data for SEO
+335,code,No favicon variations or manifest file,medium,Missing comprehensive favicon setup
+336,code,Missing service worker for offline support,medium,No offline capability
+337,code,No performance optimization image compression code splitting,high,Missing performance best practices
+338,code,Missing error boundaries in React components,medium,Errors crash the entire app
+339,code,No loading state management,medium,Loading states not properly managed
+340,code,No form validation beyond HTML5 defaults,medium,Relying solely on browser validation
+341,code,Missing key props in list rendering,medium,React lists without proper keys
+342,code,Overuse of useEffect for everything,medium,Effects used where derived state would suffice
+343,code,No memoization of expensive computations,medium,Missing useMemo and useCallback
+344,code,Missing proper cleanup in effects,medium,Effects without cleanup functions
+345,code,No proper error handling in async operations,medium,Async operations without error boundaries
+346,responsive,Mobile layout is just stacked desktop columns,critical,Responsive design means stacking columns
+347,responsive,No mobile-specific navigation patterns,medium,Desktop navigation simply collapses on mobile
+348,responsive,Touch targets too small on mobile,high,Desktop-sized touch targets on mobile
+349,responsive,No consideration for thumb-zone placement,medium,Interactive elements not placed for easy thumb access
+350,responsive,Horizontal overflow on mobile tables and grids,high,Tables and grids break on mobile
+351,responsive,No mobile-specific typography scaling,medium,Same font sizes on mobile as desktop
+352,responsive,Missing safe area insets for notched devices,medium,Content hidden behind notches or home indicators
+353,responsive,No consideration for fold or unfold devices,medium,Layouts don't adapt to foldable screens
+354,responsive,Desktop-only hover states with no mobile equivalent,medium,Hover effects don't have mobile alternatives
+355,responsive,No pull-to-refresh implementation,medium,Missing standard mobile gesture
+356,responsive,Missing mobile keyboard considerations input types,medium,Input fields don't trigger appropriate keyboards
+357,responsive,No consideration for one-handed use,medium,Key interactive elements out of one-handed reach
+358,responsive,Fixed elements that cover content on small screens,medium,Fixed headers or navbars cover too much mobile content
+359,responsive,No mobile-specific image cropping,medium,Images not cropped appropriately for mobile
+360,responsive,Missing viewport height vh fallbacks for mobile,medium,vh units break on mobile browsers with dynamic toolbars
+361,responsive,No consideration for landscape orientation,medium,Layouts break in landscape mode
+362,responsive,Missing responsive image srcset,medium,Images not served at appropriate resolutions
+363,responsive,No touch gesture alternatives for mouse actions,medium,Drag and hover actions have no touch equivalent
+364,responsive,Missing responsive email design,medium,Emails not designed for mobile viewing
+365,responsive,No consideration for low-end devices,medium,Heavy animations and effects on low-end hardware
+366,copy,In today's fast-paced digital world openings,critical,The most cliché AI copy opening
+367,copy,Unlock your potential as a headline,critical,Generic motivational headline
+368,copy,Transform your business with AI taglines,critical,The universal AI product tagline
+369,copy,Seamless integration as a feature description,high,Vague feature description
+370,copy,Empower your team as a value proposition,high,Generic value proposition
+371,copy,Streamline your workflow everywhere,high,The most overused benefit claim
+372,copy,Leverage the power of constructions,high,Empty corporate construction
+373,copy,At the forefront of innovation claims,medium,Meaningless innovation claim
+374,copy,Delve into and dive deep into transitions,medium,Overused transition phrases
+375,copy,It is important to note that filler phrases,medium,Unnecessary filler phrase
+376,copy,In conclusion endings,medium,Formulaic ending phrase
+377,copy,Whether you are a beginner or expert cliches,medium,Inclusivity cliché
+378,copy,Game-changing as a descriptor,medium,Overused superlative
+379,copy,Next-generation or next-gen modifiers,medium,Meaningless temporal modifier
+380,copy,State-of-the-art technology claims,medium,Dated technology claim
+381,copy,Missing specific numbers data or case studies,high,No concrete evidence to support claims
+382,copy,No brand voice or personality in copy,high,Generic corporate tone
+383,copy,Overly formal tone for consumer products,medium,Tone mismatch with audience
+384,copy,Missing calls to action that create urgency,medium,Weak or missing CTAs
+385,copy,No storytelling or customer journey narratives,high,Missing narrative structure
+386,copy,Generic About Us pages with no real history,medium,Boilerplate company description
+387,copy,Missing product-specific terminology,medium,Generic terms instead of product-specific language
+388,copy,No microcopy for form fields buttons or empty states,medium,Missing helpful microcopy
+389,copy,Overuse of superlatives without evidence,high,Claims without supporting evidence
+390,copy,Copy that could apply to any company in the industry,critical,Non-differentiated messaging
+391,copy,Overuse of we and our instead of you,medium,Company-focused instead of user-focused copy
+392,copy,Missing benefit-oriented headlines,medium,Feature-focused instead of benefit-focused
+393,copy,No social proof in copy,medium,Missing testimonials or metrics in copy
+394,copy,Overly long paragraphs,medium,Dense text blocks instead of scannable copy
+395,copy,Missing action-oriented button text,medium,Generic button labels like Submit or Click Here
+396,icons,Oversized Lucide icons above every feature heading,high,The AI icon placement pattern
+397,icons,Same icon library used exclusively,medium,No custom or mixed icon sources
+398,icons,Icons that don't match the concept,medium,Icon doesn't relate to the feature it represents
+399,icons,No icon size hierarchy,medium,All icons the same size
+400,icons,Missing icon hover states,medium,Icons don't respond to interaction
+401,icons,Inconsistent icon stroke weights,medium,Mixed icon styles with different stroke widths
+402,icons,No custom brand icons,medium,Generic icons instead of brand-specific ones
+403,icons,Icons used as decoration not communication,medium,Icons added for visual filler not meaning
+404,icons,Missing icon accessibility attributes,medium,Icons without aria-hidden or aria-label
+405,icons,Overuse of icon-only buttons without labels,high,Buttons with only icons and no text labels
+406,icons,Icon + text redundancy,medium,Icon and text say the same thing unnecessarily
+407,icons,Missing icon loading states,medium,Icons don't indicate loading or processing
+408,icons,No icon color adaptation to context,medium,Icons don't change color based on state
+409,icons,Default icon library colors,medium,Icons use library defaults instead of brand colors
+410,icons,Missing icon animation on interaction,medium,Icons don't animate on click or hover
+411,icons,Overuse of the same icons repeatedly,medium,Same icon used for different concepts
+412,icons,Missing icon fallbacks,medium,Icons don't have fallbacks if they fail to load
+413,icons,Icons too detailed for small sizes,medium,Complex icons that become illegible at small sizes
+414,icons,No icon system or token-based sizing,medium,Icon sizes chosen ad hoc
+415,icons,Missing dark mode icon variants,medium,Icons don't adapt to dark mode
+416,icons,Inconsistent icon corner radii,medium,Mixed rounded and sharp icon styles
+417,forms,Generic form layouts with no visual grouping,high,Forms with no logical grouping of related fields
+418,forms,Missing inline validation,high,Validation only on submit
+419,forms,No progressive form disclosure,medium,All fields visible at once regardless of relevance
+420,forms,Missing field helper text,medium,No guidance on what to enter
+421,forms,No input masking for formatted fields,medium,Phone dates and other formatted inputs unmasked
+422,forms,Missing autocomplete attributes,medium,Forms don't leverage browser autocomplete
+423,forms,No multi-step form progress indicator,medium,Multi-step forms without progress visualization
+424,forms,Missing save draft functionality,medium,Long forms without save and resume
+425,forms,No file upload drag and drop,medium,File uploads only through button click
+426,forms,Missing character counters,medium,Text areas without character limits shown
+427,forms,No password strength indicator,medium,Password fields without strength feedback
+428,forms,Missing form auto-save,medium,Form data lost on navigation
+429,forms,No conditional field logic,medium,All fields shown regardless of previous answers
+430,forms,Missing keyboard navigation within forms,medium,Forms not fully keyboard accessible
+431,forms,No form data persistence,medium,Form data lost on page refresh
+432,forms,Missing success confirmation after submission,medium,No clear confirmation that form was submitted
+433,forms,No error recovery guidance,medium,Error messages don't tell users how to fix issues
+434,forms,Missing required field indicators,medium,Required fields not clearly marked
+435,forms,No form layout optimization for mobile,medium,Desktop form layout on mobile
+436,forms,Missing search within large forms,medium,Long forms without search capability
+437,tables,Data tables with no column sorting,high,Static tables without sort capability
+438,tables,Missing column resizing,medium,Fixed column widths that don't adapt
+439,tables,No row selection,medium,Tables without row selection capability
+440,tables,Missing pagination or infinite scroll,medium,All rows loaded at once
+441,tables,No column visibility toggle,medium,Can't show or hide columns
+442,tables,Missing row actions,medium,No inline actions on table rows
+443,tables,No table density controls,medium,Can't adjust table row height
+444,tables,Missing table export functionality,medium,Can't export table data
+445,tables,No table search or filtering,medium,Can't search within table data
+446,tables,Missing table column reordering,medium,Fixed column order
+447,tables,No table state persistence,medium,Table preferences not saved
+448,tables,Missing table header tooltips,medium,Column headers without explanation
+449,tables,No table loading state,medium,Tables show empty state while loading
+450,tables,Missing table error state,medium,Tables don't handle data loading errors
+451,tables,No table empty state design,medium,Empty tables show nothing useful
+452,tables,Missing table row expansion,medium,Can't expand rows for more detail
+453,tables,No table grouping or aggregation,medium,Can't group or summarize table data
+454,tables,Missing table column pinning,medium,Can't pin columns for horizontal scrolling
+455,tables,No table virtualization for large datasets,medium,Performance issues with large tables
+456,tables,Missing table accessibility features,medium,Tables not fully accessible
+457,dashboard,Dashboards with no data hierarchy,high,All metrics displayed with equal importance
+458,dashboard,Missing contextual data comparisons,medium,No period-over-period comparisons
+459,dashboard,No dashboard customization,medium,Users can't rearrange or hide widgets
+460,dashboard,Missing data refresh indicators,medium,No indication of data freshness
+461,dashboard,No dashboard sharing,medium,Can't share dashboard views
+462,dashboard,Missing alert thresholds,medium,No alerts when metrics cross thresholds
+463,dashboard,Missing dashboard templates,medium,No starting templates for common use cases
+464,dashboard,No drill-down capability,medium,Can't click into metrics for detail
+465,dashboard,Missing dashboard layout presets,medium,One-size-fits-all dashboard layout
+466,dashboard,No dashboard export,medium,Can't export dashboard as PDF or image
+467,dashboard,Missing real-time indicators,medium,No indication of real-time vs cached data
+468,dashboard,Missing data source attribution,medium,Can't tell where dashboard data comes from
+469,dashboard,No dashboard annotations,medium,Can't add notes or markers to charts
+470,dashboard,Missing dashboard versioning,medium,Can't save multiple dashboard configurations
+471,dashboard,Missing cross-dashboard navigation,medium,Can't easily navigate between related dashboards
+472,dashboard,Missing dashboard performance metrics,medium,Dashboard doesn't show its own performance
+473,dashboard,Missing data anomaly highlighting,medium,Anomalies not visually highlighted
+474,dashboard,Missing dashboard onboarding,medium,No guidance for new users on dashboard
+475,dashboard,Missing dashboard search,medium,Can't search across dashboard content
+476,pricing,Pricing tables with feature comparison rows,high,Long feature comparison tables in pricing
+477,pricing,Annual vs monthly toggle without savings callout,medium,Toggle doesn't highlight savings
+478,pricing,Missing money-back guarantee,medium,No risk reversal in pricing
+479,pricing,No pricing calculator,medium,Can't estimate costs based on usage
+480,pricing,Missing enterprise contact CTA,medium,Enterprise pricing hidden without contact form
+481,pricing,No pricing page FAQ,medium,Pricing page without common questions answered
+482,pricing,Missing feature availability matrix,medium,Can't see which features are in which plan
+483,pricing,No pricing page social proof,medium,Pricing page lacks testimonials or logos
+484,pricing,Missing pricing page comparison with competitors,medium,No competitive positioning on pricing page
+485,pricing,No free tier or freemium option,medium,All plans require payment
+486,pricing,Missing pricing page trial CTA,medium,No trial option on pricing page
+487,pricing,No pricing page feature highlights,medium,Features listed without explanation
+488,pricing,Missing pricing page ROI calculator,medium,Can't calculate return on investment
+489,pricing,No pricing page case studies,medium,Missing proof of value on pricing page
+490,pricing,Missing pricing page plan comparison tool,medium,Can't compare plans side by side
+491,pricing,No pricing page upgrade path clarity,medium,Not clear what you gain by upgrading
+492,pricing,Missing pricing page add-on information,medium,Add-ons not clearly presented
+493,pricing,No pricing page discount visibility,medium,Discounts not prominently displayed
+494,pricing,Missing pricing page currency selector,medium,Only one currency shown
+495,pricing,No pricing page tax information,medium,Prices don't indicate tax inclusion
+496,testimonials,Testimonials with no verifiable identity,high,Testimonials without real names or photos
+497,testimonials,Missing testimonial context,medium,Testimonials without company or role
+498,testimonials,Generic testimonial language,medium,Testimonials that sound templated
+499,testimonials,Missing testimonial results or metrics,medium,Testimonials without specific outcomes
+500,testimonials,Missing video testimonials,medium,Only text testimonials
+501,testimonials,Missing testimonial recency,medium,Testimonials without dates
+502,testimonials,Missing testimonial diversity,medium,Testimonials from similar-looking people
+503,testimonials,Missing testimonial variety,medium,All testimonials say the same thing
+504,testimonials,Missing testimonial placement strategy,medium,Testimonials placed without strategic intent
+505,testimonials,Missing testimonial credibility indicators,medium,Missing LinkedIn links or verification
+506,testimonials,Missing negative testimonial handling,medium,Only positive testimonials shown
+507,testimonials,Missing testimonial categorization,medium,Testimonials not organized by use case
+508,testimonials,Missing testimonial call-to-action,medium,Testimonials don't lead to next action
+509,testimonials,Missing testimonial schema markup,medium,Testimonials not marked up for SEO
+510,testimonials,Missing testimonial A/B testing,medium,Testimonials not tested for effectiveness
+511,testimonials,Missing testimonial freshness,medium,Same testimonials shown to all users
+512,testimonials,Missing testimonial relevance,medium,Testimonials not matched to user context
+513,testimonials,Missing testimonial attribution,medium,Testimonials without source attribution
+514,testimonials,Missing testimonial formatting variety,medium,All testimonials in the same format
+515,testimonials,Missing testimonial integration,medium,Testimonials feel bolted on not integrated
+516,footer,Generic four-column footer layout,high,Product Company Resources Legal columns
+517,footer,Missing footer newsletter signup,medium,No email capture in footer
+518,footer,Missing footer language selector,medium,No language switching in footer
+519,footer,Missing footer copyright year,medium,Missing or outdated copyright year
+520,footer,Missing footer sitemap,medium,Footer doesn't serve as a sitemap
+521,footer,Missing footer contact information,medium,No contact details in footer
+522,footer,Missing footer accessibility statement,medium,No accessibility commitment in footer
+523,footer,Missing footer privacy policy link,medium,Privacy policy not easily accessible
+524,footer,Missing footer cookie preferences,medium,Can't manage cookie preferences from footer
+525,footer,Missing footer back-to-top link,medium,No easy way to return to top from footer
+526,footer,Missing footer social proof,medium,Footer lacks trust indicators
+527,footer,Missing footer app download links,medium,No app store links in footer
+528,footer,Missing footer RSS feed link,medium,No RSS feed link
+529,footer,Missing footer status page link,medium,Service status not linked from footer
+530,footer,Missing footer changelog link,medium,Product changes not linked from footer
+531,footer,Missing footer community links,medium,No community or forum links
+532,footer,Missing footer press or media links,medium,No press kit or media mentions
+533,footer,Missing footer careers link,medium,No link to job openings
+534,footer,Missing footer partner or integration links,medium,No partner ecosystem links
+535,footer,Missing footer security or compliance badges,medium,No trust badges in footer
+536,footer,Missing footer feedback mechanism,medium,No way to give site feedback from footer
+537,hero,Centered hero with headline subtitle and CTA,critical,The most predictable hero pattern
+538,hero,Hero with dashboard screenshot,high,Screenshot of a dashboard as the hero visual
+539,hero,Hero with animated gradient background,medium,Gradient animation behind hero text
+540,hero,Hero with no clear value proposition,high,Hero doesn't communicate what the product does
+541,hero,Hero with too many CTAs,medium,Multiple competing CTAs in hero
+542,hero,Hero with no visual hierarchy,medium,Hero elements compete for attention
+543,hero,Hero with generic stock imagery,medium,Stock photos in hero sections
+544,hero,Hero with no social proof,medium,Hero lacks trust indicators
+545,hero,Hero with no product demonstration,medium,Hero doesn't show the product
+546,hero,Hero with vague headline,high,Headline that doesn't communicate value
+547,hero,Hero with no secondary action,medium,Only one CTA in hero
+548,hero,Hero with no scroll indicator,medium,No indication that there's more content below
+549,hero,Hero with no brand personality,medium,Hero could belong to any company
+550,hero,Hero with no animation or motion,medium,Static hero with no movement
+551,hero,Hero with no responsive adaptation,medium,Hero doesn't adapt well to mobile
+552,hero,Hero with no loading optimization,medium,Hero images not optimized for fast loading
+553,hero,Hero with no A/B testing consideration,medium,Hero not designed for experimentation
+554,hero,Hero with no seasonal or temporal variation,medium,Hero is static year-round
+555,hero,Hero with no personalization,medium,Same hero for all visitors
+556,hero,Hero with no clear target audience,medium,Hero doesn't speak to a specific audience
+557,hero,Hero with no urgency or scarcity,medium,Hero doesn't create motivation to act
+558,cta,Generic Get Started button text,high,The most common and least descriptive CTA
+559,cta,Missing CTA urgency,medium,CTAs don't create urgency
+560,cta,Missing CTA specificity,medium,CTAs don't describe what happens next
+561,cta,Missing CTA placement strategy,medium,CTAs placed without strategic intent
+562,cta,Missing CTA color contrast,medium,CTAs don't stand out from surrounding content
+563,cta,Missing CTA size hierarchy,medium,All CTAs are the same size
+564,cta,Missing CTA hover state,medium,CTAs don't respond to hover
+565,cta,Missing CTA loading state,medium,CTAs don't show loading during action
+566,cta,Missing CTA disabled state,medium,CTAs don't show when unavailable
+567,cta,Missing CTA accessibility,medium,CTAs not fully accessible
+568,cta,Missing CTA mobile optimization,medium,CTAs not optimized for mobile
+569,cta,Missing CTA A/B testing,medium,CTAs not tested for effectiveness
+570,cta,Missing CTA personalization,medium,Same CTA for all users
+571,cta,Missing CTA contextual variation,medium,Same CTA text across all pages
+572,cta,Missing CTA secondary options,medium,Only one CTA option presented
+573,cta,Missing CTA social proof proximity,medium,CTAs not placed near trust indicators
+574,cta,Missing CTA risk reversal,medium,CTAs don't reduce perceived risk
+575,cta,Missing CTA benefit reinforcement,medium,CTAs don't reinforce the benefit
+576,cta,Missing CTA microcopy,medium,No supporting text near CTAs
+577,cta,Missing CTA animation,medium,CTAs don't draw attention through motion
+578,loading,Spinner for everything,high,Generic circular spinner for all loading states
+579,loading,Missing skeleton screens,high,No content-shaped loading placeholders
+580,loading,Missing loading progress indicators,medium,No indication of loading progress
+581,loading,Missing optimistic UI updates,medium,UI doesn't update optimistically
+582,loading,Missing staggered loading,medium,All content loads simultaneously
+583,loading,Missing loading state variety,medium,Same loading state for all operations
+584,loading,Missing loading error states,medium,Loading failures not handled gracefully
+585,loading,Missing loading timeout handling,medium,Loading states that never end
+586,loading,Missing loading cancellation,medium,Can't cancel in-progress loads
+587,loading,Missing loading priority,medium,All content loads with equal priority
+588,loading,Missing loading animation variety,medium,Same animation for all loading states
+589,loading,Missing loading skeleton personalization,medium,Skeleton screens don't match user's layout
+590,loading,Missing loading state messaging,medium,No context about what's loading
+591,loading,Missing loading state branding,medium,Loading states don't reinforce brand
+592,loading,Missing loading state entertainment,medium,Boring loading states
+593,loading,Missing loading state education,medium,Loading states don't teach about the product
+594,loading,Missing loading state anticipation,medium,Loading states don't build anticipation
+595,loading,Missing loading state progress estimation,medium,No time estimates for loading
+596,loading,Missing loading state retry,medium,Failed loads can't be retried
+597,loading,Missing loading state fallback,medium,No fallback content when loading fails
+598,empty,Generic empty state message,medium,Empty states with generic messages
+599,empty,Missing empty state illustration,medium,Empty states without visual elements
+600,empty,Missing empty state CTA,medium,Empty states don't guide next action
+601,empty,Missing empty state personalization,medium,Same empty state for all users
+602,empty,Missing empty state education,medium,Empty states don't explain the feature
+603,empty,Missing empty state encouragement,medium,Empty states don't motivate action
+604,empty,Missing empty state variety,medium,Same empty state for all empty scenarios
+605,empty,Missing empty state search suggestion,medium,Empty search results don't suggest alternatives
+606,empty,Missing empty state import option,medium,Empty states don't offer data import
+607,empty,Missing empty state template option,medium,Empty states don't offer templates
+608,empty,Missing empty state onboarding,medium,Empty states don't onboard new users
+609,empty,Missing empty state animation,medium,Static empty states
+610,empty,Missing empty state accessibility,medium,Empty states not accessible
+611,empty,Missing empty state mobile optimization,medium,Empty states not optimized for mobile
+612,empty,Missing empty state A/B testing,medium,Empty states not tested
+613,empty,Missing empty state contextual help,medium,Empty states don't provide contextual help
+614,empty,Missing empty state social proof,medium,Empty states don't show what others have done
+615,empty,Missing empty state urgency,medium,Empty states don't create motivation
+616,error,Generic error message,medium,Error messages without specific guidance
+617,error,Missing error illustration,medium,Error states without visual elements
+618,error,Missing error recovery guidance,medium,Error messages don't tell users how to fix
+619,error,Missing error state personalization,medium,Same error state for all users
+620,error,Missing error state variety,medium,Same error state for all errors
+621,error,Missing error state animation,medium,Static error states
+622,error,Missing error state accessibility,medium,Error states not accessible
+623,error,Missing error state mobile optimization,medium,Error states not optimized for mobile
+624,error,Missing error state context,medium,Error states don't show what went wrong
+625,error,Missing error state retry,medium,Can't retry failed operations
+626,error,Missing error state support,medium,Error states don't offer support options
+627,error,Missing error state logging,medium,Errors not logged for debugging
+628,error,Missing error state escalation,medium,Errors don't escalate to support
+629,error,Missing error state prevention,medium,Errors not prevented proactively
+630,error,Missing error state education,medium,Error states don't educate users
+631,error,Missing error state humor,medium,Error states are dry and unmemorable
+632,error,Missing error state branding,medium,Error states don't reinforce brand
+633,error,Missing error state metrics,medium,Error states not tracked for improvement
+634,error,Missing error state A/B testing,medium,Error states not tested
+635,error,Missing error state localization,medium,Error states not localized
+636,search,Generic search bar in top-right,medium,Search always in the same location
+637,search,Missing search autocomplete,medium,Search doesn't suggest results
+638,search,Missing search filters,medium,Search results can't be filtered
+639,search,Missing search result highlighting,medium,Search terms not highlighted in results
+640,search,Missing search result count,medium,Number of results not shown
+641,search,Missing search recent searches,medium,No recent search history
+642,search,Missing search popular searches,medium,No popular or trending searches
+643,search,Missing search empty state,medium,Empty search results not helpful
+644,search,Missing search keyboard navigation,medium,Search results not keyboard accessible
+645,search,Missing search result categorization,medium,Search results not grouped by type
+646,search,Missing search result sorting,medium,Can't sort search results
+647,search,Missing search result pagination,medium,All search results loaded at once
+648,search,Missing search result preview,medium,Can't preview search results
+649,search,Missing search result saving,medium,Can't save search results
+650,search,Missing search result sharing,medium,Can't share search results
+651,search,Missing search result export,medium,Can't export search results
+652,search,Missing search result analytics,medium,Search results not tracked
+653,search,Missing search result relevance,medium,Search results not personalized
+654,search,Missing search result freshness,medium,Search results not sorted by date
+655,search,Missing search result typo tolerance,medium,Search doesn't handle typos
+656,modal,Generic modal with backdrop blur,medium,Every modal uses backdrop blur
+657,modal,Missing modal focus trap,high,Focus escapes modal boundaries
+658,modal,Missing modal close on escape,medium,Modal doesn't close on Escape key
+659,modal,Missing modal close on backdrop click,medium,Modal doesn't close on backdrop click
+660,modal,Missing modal scroll lock,medium,Background scrolls when modal is open
+661,modal,Missing modal size variants,medium,All modals are the same size
+662,modal,Missing modal animation,medium,Modals appear without transition
+663,modal,Missing modal accessibility,medium,Modals not fully accessible
+664,modal,Missing modal mobile optimization,medium,Modals not optimized for mobile
+665,modal,Missing modal stacking,medium,Can't open modals on top of modals
+666,modal,Missing modal persistence,medium,Modal state lost on close
+667,modal,Missing modal confirmation,medium,Destructive modals without confirmation
+668,modal,Missing modal form validation,medium,Modal forms not validated
+669,modal,Missing modal loading state,medium,Modal loading not indicated
+670,modal,Missing modal error state,medium,Modal errors not handled gracefully
+671,modal,Missing modal empty state,medium,Modal empty states not designed
+672,modal,Missing modal keyboard shortcuts,medium,Modal keyboard shortcuts not documented
+673,modal,Missing modal ARIA attributes,medium,Modal ARIA attributes missing
+674,modal,Missing modal return focus,medium,Focus not returned to trigger on close
+675,modal,Missing modal title,medium,Modal without clear title
+676,tooltip,Generic tooltip with delay,medium,Default tooltip behavior
+677,tooltip,Missing tooltip accessibility,medium,Tooltips not accessible to keyboard users
+678,tooltip,Missing tooltip mobile handling,medium,Tooltips don't work well on mobile
+679,tooltip,Missing tooltip positioning,medium,Tooltips overlap with content
+680,tooltip,Missing tooltip animation,medium,Tooltips appear without transition
+681,tooltip,Missing tooltip rich content,medium,Tooltips only support plain text
+682,tooltip,Missing tooltip persistence,medium,Tooltips disappear too quickly
+683,tooltip,Missing tooltip grouping,medium,Can't group related tooltips
+684,tooltip,Missing tooltip customization,medium,Tooltip styles can't be customized
+685,tooltip,Missing tooltip ARIA attributes,medium,Tooltip ARIA attributes missing
+686,tooltip,Missing tooltip keyboard support,medium,Tooltips not accessible via keyboard
+687,tooltip,Missing tooltip touch support,medium,Tooltips don't work with touch
+688,tooltip,Missing tooltip overflow handling,medium,Tooltips overflow viewport
+689,tooltip,Missing tooltip z-index management,medium,Tooltips appear behind other elements
+690,tooltip,Missing tooltip delay customization,medium,Tooltip delay can't be adjusted
+691,tooltip,Missing tooltip trigger customization,medium,Tooltip trigger can't be customized
+692,tooltip,Missing tooltip content truncation,medium,Long tooltip content not truncated
+693,tooltip,Missing tooltip arrow customization,medium,Tooltip arrow can't be customized
+694,tooltip,Missing tooltip theme support,medium,Tooltips don't support themes
+695,tooltip,Missing tooltip performance optimization,medium,Tooltips cause layout recalculation
+696,notification,Generic toast notification,medium,All notifications look the same
+697,notification,Missing notification grouping,medium,Notifications not grouped
+698,notification,Missing notification priority,medium,All notifications have equal priority
+699,notification,Missing notification persistence,medium,Notifications lost on page change
+700,notification,Missing notification action,medium,Notifications don't offer actions
+701,notification,Missing notification dismissal,medium,Notifications can't be dismissed
+702,notification,Missing notification animation,medium,Notifications appear without transition
+703,notification,Missing notification accessibility,medium,Notifications not announced to screen readers
+704,notification,Missing notification mobile optimization,medium,Notifications not optimized for mobile
+705,notification,Missing notification stacking,medium,Notifications overlap each other
+706,notification,Missing notification timeout,medium,Notifications don't auto-dismiss
+707,notification,Missing notification customization,medium,Notification styles can't be customized
+708,notification,Missing notification history,medium,No notification history
+709,notification,Missing notification preferences,medium,Can't customize notification settings
+710,notification,Missing notification sound,medium,Notifications don't have sound options
+711,notification,Missing notification badge,medium,Notification count not shown
+712,notification,Missing notification categorization,medium,Notifications not categorized
+713,notification,Missing notification search,medium,Can't search notifications
+714,notification,Missing notification export,medium,Can't export notification history
+715,notification,Missing notification analytics,medium,Notifications not tracked for effectiveness
+716,notification,Missing notification A/B testing,medium,Notification styles not tested
+717,card,Generic card with shadow and rounded corners,medium,The default AI card pattern
+718,card,Missing card hover state,medium,Cards don't respond to hover
+719,card,Missing card action menu,medium,Card actions not accessible
+720,card,Missing card selection,medium,Can't select cards
+721,card,Missing card drag and drop,medium,Can't reorder cards by drag
+722,card,Missing card size variants,medium,All cards are the same size
+723,card,Missing card layout variants,medium,All cards have the same layout
+724,card,Missing card loading state,medium,Cards don't show loading
+725,card,Missing card error state,medium,Card errors not handled
+726,card,Missing card empty state,medium,Empty card states not designed
+727,card,Missing card accessibility,medium,Cards not fully accessible
+728,card,Missing card mobile optimization,medium,Cards not optimized for mobile
+729,card,Missing card animation,medium,Cards appear without transition
+730,card,Missing card grouping,medium,Can't group related cards
+731,card,Missing card expansion,medium,Can't expand cards for detail
+732,card,Missing card sharing,medium,Can't share individual cards
+733,card,Missing card export,medium,Can't export card content
+734,card,Missing card customization,medium,Card styles can't be customized
+735,card,Missing card context menu,medium,No context menu on cards
+736,card,Missing card keyboard navigation,medium,Cards not keyboard accessible
+737,card,Missing card focus state,medium,Cards don't show focus
+738,sidebar,Generic sidebar with collapsible sections,medium,Standard collapsible sidebar
+739,sidebar,Missing sidebar search,medium,Can't search sidebar content
+740,sidebar,Missing sidebar active state,medium,Active sidebar item not indicated
+741,sidebar,Missing sidebar collapse state,medium,Sidebar state not persisted
+742,sidebar,Missing sidebar mobile handling,medium,Sidebar not optimized for mobile
+743,sidebar,Missing sidebar customization,medium,Can't customize sidebar content
+744,sidebar,Missing sidebar keyboard navigation,medium,Sidebar not keyboard accessible
+745,sidebar,Missing sidebar accessibility,medium,Sidebar not fully accessible
+746,sidebar,Missing sidebar animation,medium,Sidebar appears without transition
+747,sidebar,Missing sidebar nesting,medium,Can't nest sidebar items
+748,sidebar,Missing sidebar badges,medium,Sidebar items don't show counts
+749,sidebar,Missing sidebar icons,medium,Sidebar items lack icons
+750,sidebar,Missing sidebar tooltips,medium,Truncated sidebar items lack tooltips
+751,sidebar,Missing sidebar drag and drop,medium,Can't reorder sidebar items
+752,sidebar,Missing sidebar context menu,medium,Can't right-click sidebar items
+753,sidebar,Missing sidebar keyboard shortcuts,medium,Keyboard shortcuts not shown
+754,sidebar,Missing sidebar user profile,medium,User profile not in sidebar
+755,sidebar,Missing sidebar notifications,medium,Notifications not in sidebar
+756,sidebar,Missing sidebar search results,medium,Search results not shown in sidebar
+757,sidebar,Missing sidebar recent items,medium,Recent items not shown
+758,sidebar,Missing sidebar favorites,medium,Favorites not shown in sidebar
+759,navbar,Generic sticky navbar with logo and links,medium,Standard navbar pattern
+760,navbar,Missing navbar scroll behavior,medium,Navbar doesn't adapt on scroll
+761,navbar,Missing navbar active state,medium,Active page not indicated
+762,navbar,Missing navbar mobile handling,medium,Navbar not optimized for mobile
+763,navbar,Missing navbar search,medium,Search not in navbar
+764,navbar,Missing navbar notifications,medium,Notifications not in navbar
+765,navbar,Missing navbar user menu,medium,User menu not in navbar
+766,navbar,Missing navbar keyboard navigation,medium,Navbar not keyboard accessible
+767,navbar,Missing navbar accessibility,medium,Navbar not fully accessible
+768,navbar,Missing navbar animation,medium,Navbar appears without transition
+769,navbar,Missing navbar transparency,medium,Navbar doesn't adapt to content
+770,navbar,Missing navbar shadow on scroll,medium,Navbar doesn't show shadow on scroll
+771,navbar,Missing navbar hide on scroll down,medium,Navbar doesn't hide when scrolling down
+772,navbar,Missing navbar progress indicator,medium,Reading progress not shown
+773,navbar,Missing navbar language switcher,medium,Language not switchable from navbar
+774,navbar,Missing navbar theme toggle,medium,Can't toggle theme from navbar
+775,navbar,Missing navbar breadcrumb,medium,Breadcrumbs not in navbar
+776,navbar,Missing navbar context awareness,medium,Navbar doesn't adapt to page context
+777,navbar,Missing navbar keyboard shortcuts,medium,Keyboard shortcuts not accessible
+778,navbar,Missing navbar CTA,medium,Navbar lacks clear CTA
+779,navbar,Missing navbar social proof,medium,Navbar lacks trust indicators
+780,navbar,Missing navbar personalization,medium,Same navbar for all users
+781,buttons,Generic filled button with rounded corners,medium,Default button pattern
+782,buttons,Missing button size variants,medium,Only one button size
+783,buttons,Missing button style variants,medium,Only filled buttons no outlined or ghost
+784,buttons,Missing button icon support,medium,Buttons don't support icons
+785,buttons,Missing button loading state,medium,Buttons don't show loading
+786,buttons,Missing button disabled state,medium,Buttons don't show disabled clearly
+787,buttons,Missing button hover state,medium,Buttons don't respond to hover
+788,buttons,Missing button active state,medium,Buttons don't show pressed state
+789,buttons,Missing button focus state,medium,Buttons don't show focus
+790,buttons,Missing button keyboard support,medium,Buttons not fully keyboard accessible
+791,buttons,Missing button accessibility,medium,Buttons not fully accessible
+792,buttons,Missing button animation,medium,Buttons appear without transition
+793,buttons,Missing button group,medium,Can't group related buttons
+794,buttons,Missing button dropdown,medium,Buttons don't support dropdown menus
+795,buttons,Missing button toggle,medium,Buttons don't support toggle state
+796,buttons,Missing button destructive variant,medium,No destructive button style
+797,buttons,Missing button link variant,medium,No link-style button
+798,buttons,Missing button block variant,medium,Can't make full-width buttons
+799,buttons,Missing button pill variant,medium,Can't make pill-shaped buttons
+800,buttons,Missing button square variant,medium,Can't make square buttons
+801,inputs,Generic text input with border,medium,Default input pattern
+802,inputs,Missing input size variants,medium,Only one input size
+803,inputs,Missing input validation state,medium,Inputs don't show validation state
+804,inputs,Missing input helper text,medium,Inputs lack helper text
+805,inputs,Missing input label,medium,Inputs lack visible labels
+806,inputs,Missing input placeholder,medium,Inputs lack helpful placeholders
+807,inputs,Missing input prefix suffix,medium,Inputs don't support prefix or suffix
+808,inputs,Missing input icon,medium,Inputs don't support icons
+809,inputs,Missing input clear button,medium,Can't clear input with one click
+810,inputs,Missing input password toggle,medium,Can't toggle password visibility
+811,inputs,Missing input character counter,medium,No character count on text inputs
+812,inputs,Missing input autocomplete,medium,Inputs don't leverage autocomplete
+813,inputs,Missing input masking,medium,Inputs don't mask formatted input
+814,inputs,Missing input search variant,medium,No search-specific input
+815,inputs,Missing input number variant,medium,No number-specific input
+816,inputs,Missing input date variant,medium,No date-specific input
+817,inputs,Missing input file variant,medium,No file-specific input
+818,inputs,Missing input textarea variant,medium,No textarea variant
+819,inputs,Missing input select variant,medium,No select variant
+820,inputs,Missing input checkbox variant,medium,No checkbox variant
+821,inputs,Missing input radio variant,medium,No radio variant
+822,inputs,Missing input toggle variant,medium,No toggle variant
+823,inputs,Missing input slider variant,medium,No slider variant
+824,inputs,Missing input color variant,medium,No color picker variant
+825,inputs,Missing input range variant,medium,No range input variant
+826,gradients,Linear gradient from top-left to bottom-right,medium,Default gradient direction
+827,gradients,Missing radial gradients,medium,Only linear gradients used
+828,gradients,Missing conic gradients,medium,Conic gradients never used
+829,gradients,Missing gradient animation,medium,Static gradients only
+830,gradients,Missing gradient mesh,medium,No mesh gradients
+831,gradients,Missing gradient overlay on images,medium,Images without gradient overlays
+832,gradients,Missing gradient text,medium,Gradient text not used
+833,gradients,Missing gradient borders,medium,Gradient borders not used
+834,gradients,Missing gradient backgrounds,medium,Gradient backgrounds not used creatively
+835,gradients,Missing gradient accessibility,medium,Gradients don't meet contrast requirements
+836,gradients,Missing gradient performance,medium,Gradients cause performance issues
+837,gradients,Missing gradient fallback,medium,No fallback for gradient support
+838,gradients,Missing gradient customization,medium,Gradients can't be customized
+839,gradients,Missing gradient tokens,medium,Gradients not tokenized
+840,gradients,Missing gradient variety,medium,Same gradient used everywhere
+841,gradients,Missing gradient context,medium,Gradients don't adapt to context
+842,gradients,Missing gradient brand alignment,medium,Gradients don't match brand
+843,gradients,Missing gradient seasonal variation,medium,Gradients don't change with seasons
+844,gradients,Missing gradient temporal variation,medium,Gradients don't change with time
+845,gradients,Missing gradient personalization,medium,Same gradient for all users
+846,gradients,Missing gradient A/B testing,medium,Gradients not tested
+847,shadows,Generic shadow-lg on all elevated elements,medium,Same shadow everywhere
+848,shadows,Missing shadow hierarchy,medium,All shadows are the same depth
+849,shadows,Missing shadow color,medium,Shadows are always black
+850,shadows,Missing shadow animation,medium,Shadows don't animate
+851,shadows,Missing shadow on hover,medium,Shadows don't change on hover
+852,shadows,Missing shadow on focus,medium,Shadows don't change on focus
+853,shadows,Missing shadow on active,medium,Shadows don't change on press
+854,shadows,Missing shadow accessibility,medium,Shadows don't meet contrast requirements
+855,shadows,Missing shadow performance,medium,Shadows cause performance issues
+856,shadows,Missing shadow dark mode,medium,Shadows don't adapt to dark mode
+857,shadows,Missing shadow tokens,medium,Shadows not tokenized
+858,shadows,Missing shadow variety,medium,Same shadow used everywhere
+859,shadows,Missing shadow context,medium,Shadows don't adapt to context
+860,shadows,Missing shadow brand alignment,medium,Shadows don't match brand
+861,shadows,Missing shadow direction,medium,Shadows all go in the same direction
+862,shadows,Missing shadow spread,medium,Shadows all have the same spread
+863,shadows,Missing shadow blur,medium,Shadows all have the same blur
+864,shadows,Missing shadow offset,medium,Shadows all have the same offset
+865,shadows,Missing shadow inset,medium,Inset shadows never used
+866,shadows,Missing shadow layering,medium,Can't layer multiple shadows
+867,borders,Generic border on all elements,medium,Borders used uniformly
+868,borders,Missing border radius hierarchy,medium,All corners equally rounded
+869,borders,Missing border color variation,medium,All borders same color
+870,borders,Missing border width variation,medium,All borders same width
+871,borders,Missing border style variation,medium,All borders solid
+872,borders,Missing border animation,medium,Borders don't animate
+873,borders,Missing border gradient,medium,Gradient borders not used
+874,borders,Missing border focus state,medium,Borders don't change on focus
+875,borders,Missing border hover state,medium,Borders don't change on hover
+876,borders,Missing border active state,medium,Borders don't change on press
+877,borders,Missing border disabled state,medium,Borders don't change when disabled
+878,borders,Missing border error state,medium,Borders don't show errors
+879,borders,Missing border success state,medium,Borders don't show success
+880,borders,Missing border warning state,medium,Borders don't show warnings
+881,borders,Missing border tokens,medium,Borders not tokenized
+882,borders,Missing border accessibility,medium,Borders don't meet contrast requirements
+883,borders,Missing border dark mode,medium,Borders don't adapt to dark mode
+884,borders,Missing border performance,medium,Borders cause performance issues
+885,borders,Missing border context,medium,Borders don't adapt to context
+886,borders,Missing border brand alignment,medium,Borders don't match brand
+887,borders,Missing border variety,medium,Same border used everywhere
+888,borders,Missing border decorative use,medium,Borders not used decoratively
+889,borders,Missing border functional use,medium,Borders not used functionally
+890,borders,Missing border responsive behavior,medium,Borders don't adapt to viewport
+891,backgrounds,Generic solid color backgrounds,medium,Backgrounds are flat colors
+892,backgrounds,Missing background patterns,medium,No background patterns
+893,backgrounds,Missing background textures,medium,No background textures
+894,backgrounds,Missing background images,medium,No background images
+895,backgrounds,Missing background gradients,medium,No background gradients
+896,backgrounds,Missing background animation,medium,Backgrounds don't animate
+897,backgrounds,Missing background parallax,medium,No parallax backgrounds
+898,backgrounds,Missing background video,medium,No background video
+899,backgrounds,Missing background particles,medium,No particle backgrounds
+900,backgrounds,Missing background noise,medium,No noise or grain
+901,backgrounds,Missing background dots,medium,No dot grid backgrounds
+902,backgrounds,Missing background lines,medium,No line backgrounds
+903,backgrounds,Missing background shapes,medium,No shape backgrounds
+904,backgrounds,Missing background blobs,medium,No blob backgrounds
+905,backgrounds,Missing background mesh,medium,No mesh backgrounds
+906,backgrounds,Missing background aurora,medium,No aurora backgrounds
+907,backgrounds,Missing background accessibility,medium,Backgrounds don't meet contrast
+908,backgrounds,Missing background performance,medium,Backgrounds cause performance issues
+909,backgrounds,Missing background dark mode,medium,Backgrounds don't adapt to dark mode
+910,backgrounds,Missing background tokens,medium,Backgrounds not tokenized
+911,backgrounds,Missing background context,medium,Backgrounds don't adapt to context
+912,backgrounds,Missing background brand alignment,medium,Backgrounds don't match brand
+913,backgrounds,Missing background variety,medium,Same background used everywhere
+914,backgrounds,Missing background seasonal variation,medium,Backgrounds don't change with seasons
+915,backgrounds,Missing background temporal variation,medium,Backgrounds don't change with time
+916,backgrounds,Missing background personalization,medium,Same background for all users
+917,backgrounds,Missing background A/B testing,medium,Backgrounds not tested
+918,dividers,Generic horizontal rule dividers,medium,Simple hr elements as dividers
+919,dividers,Missing decorative dividers,medium,No decorative dividers
+920,dividers,Missing gradient dividers,medium,No gradient dividers
+921,dividers,Missing animated dividers,medium,Dividers don't animate
+922,dividers,Missing contextual dividers,medium,Dividers don't adapt to context
+923,dividers,Missing vertical dividers,medium,No vertical dividers
+924,dividers,Missing diagonal dividers,medium,No diagonal dividers
+925,dividers,Missing curved dividers,medium,No curved dividers
+926,dividers,Missing dotted dividers,medium,No dotted dividers
+927,dividers,Missing dashed dividers,medium,No dashed dividers
+928,dividers,Missing double-line dividers,medium,No double-line dividers
+929,dividers,Missing ornamental dividers,medium,No ornamental dividers
+930,dividers,Missing icon dividers,medium,No icon-based dividers
+931,dividers,Missing text dividers,medium,No text-based dividers
+932,dividers,Missing spacing dividers,medium,No spacing-only dividers
+933,dividers,Missing color dividers,medium,No color-based dividers
+934,dividers,Missing width dividers,medium,No width-varying dividers
+935,dividers,Missing accessibility dividers,medium,Dividers not accessible
+936,dividers,Missing responsive dividers,medium,Dividers don't adapt to viewport
+937,dividers,Missing dark mode dividers,medium,Dividers don't adapt to dark mode
+938,dividers,Missing tokenized dividers,medium,Dividers not tokenized
+939,dividers,Missing brand-aligned dividers,medium,Dividers don't match brand
+940,dividers,Missing contextual dividers,medium,Dividers don't adapt to content
+941,scroll,Missing scroll snap,medium,No scroll snap points
+942,scroll,Missing scroll progress indicator,medium,No scroll progress bar
+943,scroll,Missing scroll-triggered animations,medium,No animations triggered by scroll
+944,scroll,Missing scroll hijacking,medium,No creative scroll hijacking
+945,scroll,Missing scroll parallax,medium,No parallax on scroll
+946,scroll,Missing scroll pinning,medium,No scroll-pinned sections
+947,scroll,Missing scroll momentum,medium,No scroll momentum effects
+948,scroll,Missing scroll velocity,medium,No velocity-reactive scroll
+949,scroll,Missing scroll direction,medium,No direction-aware scroll
+950,scroll,Missing scroll threshold,medium,No scroll threshold effects
+951,scroll,Missing scroll debounce,medium,No scroll debouncing
+952,scroll,Missing scroll performance,medium,Scroll effects cause jank
+953,scroll,Missing scroll accessibility,medium,Scroll effects not accessible
+954,scroll,Missing scroll reduced motion,medium,Scroll effects ignore reduced motion
+955,scroll,Missing scroll mobile optimization,medium,Scroll effects not optimized for mobile
+956,scroll,Missing scroll fallback,medium,No fallback for scroll effects
+957,scroll,Missing scroll customization,medium,Scroll effects can't be customized
+958,scroll,Missing scroll tokens,medium,Scroll effects not tokenized
+959,scroll,Missing scroll context,medium,Scroll effects don't adapt to context
+960,scroll,Missing scroll brand alignment,medium,Scroll effects don't match brand
+961,scroll,Missing scroll variety,medium,Same scroll effect used everywhere
+962,microcopy,Generic button labels,medium,Submit Click Here Learn More
+963,microcopy,Missing form field hints,medium,No helper text on form fields
+964,microcopy,Missing error message guidance,medium,Error messages don't guide users
+965,microcopy,Missing success message confirmation,medium,Success messages are generic
+966,microcopy,Missing empty state guidance,medium,Empty states don't guide users
+967,microcopy,Missing loading state messaging,medium,Loading states lack context
+968,microcopy,Missing tooltip explanations,medium,Tooltips don't explain features
+969,microcopy,Missing placeholder text guidance,medium,Placeholders don't guide input
+970,microcopy,Missing confirmation dialog text,medium,Confirmation dialogs are generic
+971,microcopy,Missing breadcrumb context,medium,Breadcrumbs lack context
+972,microcopy,Missing pagination text,medium,Pagination lacks descriptive text
+973,microcopy,Missing search placeholder,medium,Search lacks helpful placeholder
+974,microcopy,Missing file upload text,medium,File upload lacks guidance
+975,microcopy,Missing drag and drop text,medium,Drag and drop lacks instructions
+976,microcopy,Missing keyboard shortcut hints,medium,Keyboard shortcuts not hinted
+977,microcopy,Missing accessibility labels,medium,Missing accessible labels
+978,microcopy,Missing screen reader text,medium,Missing screen reader only text
+979,microcopy,Missing character limit text,medium,Character limits not communicated
+980,microcopy,Missing word count text,medium,Word count not shown
+981,microcopy,Missing time estimate text,medium,Time estimates not shown
+982,microcopy,Missing progress text,medium,Progress not communicated in text
+983,microcopy,Missing status text,medium,Status not communicated
+984,microcopy,Missing version text,medium,Version not shown
+985,microcopy,Missing build number text,medium,Build number not shown
+986,microcopy,Missing last updated text,medium,Last updated not shown
+987,microcopy,Missing data source text,medium,Data source not attributed
+988,microcopy,Missing cache status text,medium,Cache status not shown
+989,microcopy,Missing sync status text,medium,Sync status not shown
+990,microcopy,Missing offline status text,medium,Offline status not shown
+991,ai-slop-specific,Sparkle emoji as the universal AI feature indicator,critical,The ✨ sparkle icon has become the defining mark of AI slop
+992,ai-slop-specific,Everything is AI-powered regardless of appropriateness,critical,Every feature is labeled AI-powered even when unnecessary
+993,ai-slop-specific,Chat interface as the solution to everything,critical,Every product defaults to a chat-based UI
+994,ai-slop-specific,Dark mode with purple accents as the AI aesthetic,critical,The signature AI look — dark background with purple accents
+995,ai-slop-specific,Gradient mesh backgrounds behind every hero,critical,Mesh gradients as the default AI background
+996,ai-slop-specific,3D floating abstract shapes as illustrations,critical,Abstract 3D shapes floating in empty space
+997,ai-slop-specific,Glassmorphism panels on dark backgrounds,critical,Frosted glass panels as the AI UI standard
+998,ai-slop-specific,Streaming text output with blinking cursor,critical,AI text always streams with a typewriter effect
+999,ai-slop-specific,Confidence percentages on AI outputs,medium,Arbitrary confidence scores like 94.7 percent
+1000,ai-slop-specific,Bento grid layout as the default feature showcase,critical,The bento grid has become the AI default for feature sections
