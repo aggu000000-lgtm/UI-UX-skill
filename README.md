@@ -1,14 +1,6 @@
- _________________________________________________________
-/                                                         \
-|   UI-UX-SKILL                                           |
-|                                                         |
-|   a discipline for building interfaces that breathe     |
-\_________________________________________________________/
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+UI-UX-SKILL
+
+a discipline for building interfaces that breathe
 
 
 ---------------------------------------------------------
