@@ -63,33 +63,33 @@ This repository contains three complementary skills that work together or standa
 Install all skills to your project with one command:
 
 ```bash
-npx skills add aggu000000-lgtm/UI-UX-skill
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill -y
 ```
 
 Install specific skills:
 
 ```bash
-npx skills add aggu000000-lgtm/UI-UX-skill --skill ui-ux-skill
-npx skills add aggu000000-lgtm/UI-UX-skill --skill design-choreography
-npx skills add aggu000000-lgtm/UI-UX-skill --skill web-dev-backend-skill
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill --skill ui-ux-skill -y
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill --skill design-choreography -y
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill --skill web-dev-backend-skill -y
 ```
 
 Install globally (available across all projects):
 
 ```bash
-npx skills add aggu000000-lgtm/UI-UX-skill --global -y
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill --global -y
 ```
 
 List available skills before installing:
 
 ```bash
-npx skills add aggu000000-lgtm/UI-UX-skill --list
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill --list
 ```
 
 Install to specific agents only:
 
 ```bash
-npx skills add aggu000000-lgtm/UI-UX-skill -a claude-code -a cursor -a opencode
+npx --package skills -- skills add aggu000000-lgtm/UI-UX-skill -a claude-code -a cursor -a opencode -y
 ```
 
 ### Option 2: Manual Install (AI Editors)
