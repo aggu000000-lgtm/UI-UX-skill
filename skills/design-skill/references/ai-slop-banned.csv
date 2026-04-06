@@ -999,3 +999,151 @@ id,category,ai_slop_pattern,severity,description
 998,ai-slop-specific,Streaming text output with blinking cursor,critical,AI text always streams with a typewriter effect
 999,ai-slop-specific,Confidence percentages on AI outputs,medium,Arbitrary confidence scores like 94.7 percent
 1000,ai-slop-specific,Bento grid layout as the default feature showcase,critical,The bento grid has become the AI default for feature sections
+1001,shadcn/ui,Default shadcn card with rounded-xl border bg-card,critical,The 2026 replacement for rounded-lg shadow-md — every card looks identical
+1002,shadcn/ui,Radix dialog with data-state-open overlay as universal modal,critical,Every modal uses the same Radix dialog pattern with identical backdrop
+1003,shadcn/ui,cn utility with clsx and tailwind-merge on every component,high,Boilerplate className merging on every single component without exception
+1004,shadcn/ui,Command palette cmdk for simple navigation,high,Using full command palette for basic navigation when simple nav would suffice
+1005,shadcn/ui,Sonner toast as the only notification pattern,high,Every notification uses Sonner's default toast styling and positioning
+1006,shadcn/ui,Vaul drawer sliding from right for every mobile overlay,medium,Default sheet/drawer pattern used for all mobile overlays and panels
+1007,shadcn/ui,Default shadcn form with zod and react-hook-form boilerplate,high,Identical form setup pattern with zod schema validation on every form
+1008,shadcn/ui,Skeleton component with animate-pulse on every loading state,high,Generic skeleton screens with pulsing animation for all loading states
+1009,shadcn/ui,Default shadcn data table with no column customization,medium,Static table using shadcn defaults with no sorting filtering or resizing
+1010,shadcn/ui,Avatar fallback with generic initials only,medium,Missing avatar images show only initials with no color or photo fallback
+1011,shadcn/ui,Sheet component sliding from right every time,medium,All side panels use the same right-sliding sheet without variation
+1012,shadcn/ui,Popover for every contextual menu interaction,medium,Using popover primitive for all menus tooltips and contextual overlays
+1013,shadcn/ui,Default accordion with chevron-down rotation animation,medium,Every expandable section uses the same chevron rotation pattern
+1014,shadcn/ui,Badge with variant default everywhere,medium,All badges use the same default variant with no size or style variation
+1015,shadcn/ui,Separator component between every section,medium,Horizontal separators used mechanically between all content blocks
+1016,bento-grid,Uniform cell sizes with no content-driven variation,high,All bento cells are the same size regardless of content importance
+1017,bento-grid,Forced 3x2 or 4x2 grid regardless of content count,high,Rigid grid dimensions that don't adapt to actual content needs
+1018,bento-grid,Identical border radii across all bento cells,high,Every cell has the same rounded corner value with no hierarchy
+1019,bento-grid,No visual hierarchy between primary and secondary cells,critical,All cells look equally important with no size or emphasis differentiation
+1020,bento-grid,Bento grid used for non-feature content,medium,Forcing testimonials pricing and stats into bento grid layouts
+1021,bento-grid,Missing responsive bento collapse strategy,high,Bento grids don't adapt gracefully on mobile viewports
+1022,bento-grid,No hover state differentiation between cells,medium,All cells respond to hover identically with no content-specific feedback
+1023,bento-grid,Bento cells with equal padding regardless of content density,medium,Dense and sparse content get identical padding creating visual imbalance
+1024,bento-grid,Missing bento grid accessibility reading order,medium,Grid visual order doesn't match DOM order for screen readers
+1025,bento-grid,Bento grid with gradient backgrounds in every cell,medium,Each cell gets a gradient background creating visual noise
+1026,dark-patterns-ai,Sycophantic AI assistants that always agree with users,critical,LLM assistants that validate every user input even when risky or wrong
+1027,dark-patterns-ai,Endless helpful suggestion loops with no natural endpoint,critical,AI agents that continuously offer more suggestions preventing task completion
+1028,dark-patterns-ai,AI altering user intent during rewriting or summarization,critical,Models that change tone emphasis or stance without making shifts obvious
+1029,dark-patterns-ai,Personalized dark patterns that differ per user,critical,Manipulative patterns that adapt per user making them harder to detect
+1030,dark-patterns-ai,Auto-enrolled smart mode or AI features by default,critical,AI features enabled without explicit user consent under guise of helpfulness
+1031,dark-patterns-ai,AI ranking logic favoring business goals over user needs,high,Recommendation engines optimized for engagement instead of user value
+1032,dark-patterns-ai,Limited or recommended framing generated by AI,high,AI-generated urgency and scarcity messages that aren't based on real data
+1033,dark-patterns-ai,AI-generated urgency messages that aren't real,high,Fake countdown timers and stock warnings generated by AI systems
+1034,dark-patterns-ai,Hidden AI data collection under personalization,high,Collecting user data for AI training without clear disclosure
+1035,dark-patterns-ai,AI chatbots that deflect cancellation requests,high,Conversational agents designed to prevent or delay user cancellations
+1036,dark-patterns-ai,Overly flattering AI tone to boost satisfaction scores,medium,Models that praise users excessively to inflate satisfaction metrics
+1037,dark-patterns-ai,AI-generated social proof that is unverifiable,medium,Fake testimonials or metrics generated by AI without real sources
+1038,dark-patterns-ai,AI recommendation engines optimized for engagement over truth,high,Systems that recommend content to maximize time-on-site not user value
+1039,dark-patterns-ai,AI assistants that never say I do not know,medium,Models that fabricate answers instead of admitting uncertainty
+1040,dark-patterns-ai,AI-generated terms changes without clear notice,medium,Subtle changes to terms or policies generated by AI without user awareness
+1041,vibe-coding,Building full features before user validation,critical,Shipping complete features without testing if users actually need them
+1042,vibe-coding,Vague prompts producing generic outputs,critical,Unspecific AI prompts that result in interchangeable generic interfaces
+1043,vibe-coding,No user testing on AI-generated interfaces,high,Deploying AI-built UIs without any usability testing or user feedback
+1044,vibe-coding,Feature creep enabled by AI development speed,high,Adding unnecessary features because AI makes it easy to generate them
+1045,vibe-coding,Shipping without accessibility review,high,Deploying AI-generated code without WCAG compliance verification
+1046,vibe-coding,No performance auditing on AI-generated code,high,Shipping without checking bundle size LCP or Core Web Vitals
+1047,vibe-coding,Copy-pasting AI code without understanding,medium,Using AI-generated code without reviewing for security or correctness
+1048,vibe-coding,Missing error handling in AI-generated async code,medium,Async operations without try-catch or error boundary patterns
+1049,vibe-coding,No security review of AI-generated auth flows,medium,Authentication code from AI without reviewing for OWASP vulnerabilities
+1050,vibe-coding,Deploying AI-generated code without code review,medium,No human review of AI-generated code before production deployment
+1051,framework-bloat,Next.js for static marketing sites,critical,Using full React framework for pages that need zero interactivity
+1052,framework-bloat,200-400KB JavaScript before first content,critical,Framework overhead that delays content visibility on marketing pages
+1053,framework-bloat,Client-side rendering for above-the-fold content,critical,Rendering hero content client-side instead of server-side or static
+1054,framework-bloat,Unnecessary SSR or SSG for static pages,high,Server rendering for pages that never change and could be pure HTML
+1055,framework-bloat,React hydration for non-interactive content,high,Hydrating static text and images that need no JavaScript interactivity
+1056,framework-bloat,Heavy animation libraries for simple transitions,high,Importing Framer Motion or GSAP for basic CSS hover effects
+1057,framework-bloat,Multiple UI frameworks in one project,high,Mixing shadcn Mantine and custom components creating inconsistency
+1058,framework-bloat,Unused dependencies from AI-generated boilerplate,medium,Installing full dependency trees for features that are never used
+1059,framework-bloat,Missing bundle analysis or size budgets,medium,No monitoring of JavaScript bundle growth over time
+1060,framework-bloat,Framework routing for single-page marketing sites,medium,Using React Router for pages that could be simple anchor links
+1061,design-verbs,Zero interactive tools only decorative elements,critical,Pages with no calculators demos or tools — only static content
+1062,design-verbs,Missing ROI calculators on B2B sites,high,No way for prospects to calculate value before contacting sales
+1063,design-verbs,No interactive product demos,high,Product not demonstrated through hands-on interaction
+1064,design-verbs,Missing assessment or quiz tools,medium,No self-assessment tools that help users understand their needs
+1065,design-verbs,No comparison tables product versus alternatives,high,Missing side-by-side comparisons with competitors or status quo
+1066,design-verbs,No before and after sliders,medium,Missing interactive visual comparisons of results
+1067,design-verbs,Missing pricing configurators,medium,No way to estimate costs based on usage or feature selection
+1068,design-verbs,No live data previews,medium,Product value not demonstrated with real or sample data
+1069,design-verbs,Missing free tools as lead magnets,medium,No valuable free tools that demonstrate expertise and build trust
+1070,design-verbs,No interactive onboarding flows,medium,Onboarding is static text instead of guided interactive experience
+1071,aha-moment,Value proposition buried below the fold,critical,Users must scroll to understand what the product does
+1072,aha-moment,Animations delaying content visibility over 300ms,critical,Hero content fades in slowly wasting the most valuable viewport
+1073,aha-moment,Vague taglines that do not communicate product purpose,high,Headlines full of buzzwords with no specific meaning
+1074,aha-moment,Value hidden behind forms or gates,high,Forcing email signup before showing what the product does
+1075,aha-moment,Multi-step onboarding before showing value,high,Requiring multiple setup steps before user sees any benefit
+1076,aha-moment,Missing specific numbers in hero only buzzwords,medium,Hero section with no concrete data metrics or specific claims
+1077,aha-moment,No product demonstration in first viewport,medium,First screen shows marketing copy instead of the actual product
+1078,aha-moment,Hero headline takes more than 10 words,medium,Overly long headlines that dilute the core message
+1079,aha-moment,Missing who this is for in first viewport,medium,No clear indication of target audience in the hero section
+1080,aha-moment,No clear next step after understanding value,medium,Users understand the product but don't know what action to take
+1081,conversion,Hidden pricing Contact us for a quote,critical,Visitors interpret hidden pricing as too expensive or sales traps
+1082,conversion,Logo walls without context or specific results,high,Company logos with no explanation of what was achieved
+1083,conversion,Multiple competing CTAs per viewport,high,Decision paralysis from too many buttons asking for different actions
+1084,conversion,No interactive lead magnets,high,Missing tools that provide value before asking for contact info
+1085,conversion,Missing trust indicators near CTAs,medium,No security badges guarantees or social proof near conversion points
+1086,conversion,No risk reversal guarantees or free trials,medium,Missing money-back guarantees or trial periods to reduce purchase risk
+1087,conversion,Generic social proof trusted by 500 plus companies,medium,Vague claims without specific numbers or verifiable results
+1088,conversion,Missing urgency without false scarcity,medium,No legitimate reasons to act now without fake countdown timers
+1089,conversion,No specific case study numbers,medium,Case studies without concrete metrics revenue impact or time savings
+1090,conversion,Missing comparison with status quo,medium,No clear articulation of what users lose by not switching
+1091,conversion,No clear pricing tiers or starting prices,medium,Pricing page without transparent tier breakdown or entry point
+1092,conversion,Missing testimonial results or metrics,medium,Testimonials without specific outcomes or measurable improvements
+1093,conversion,No clear upgrade path between plans,medium,Not obvious what additional value each higher tier provides
+1094,conversion,Missing free tier or freemium option,medium,All plans require payment with no way to try before buying
+1095,conversion,No ROI evidence on landing pages,medium,Landing pages without data showing return on investment
+1096,pwa,Missing service worker for offline support,critical,No offline capability for users with intermittent connections
+1097,pwa,No web app manifest file,critical,Missing manifest prevents install prompts and home screen addition
+1098,pwa,Missing install prompt strategy,high,No thoughtful timing for prompting users to install the app
+1099,pwa,No offline fallback pages,high,Users see browser error pages instead of branded offline experience
+1100,pwa,Missing cached critical assets,medium,Core resources not cached for offline or slow network access
+1101,pwa,No background sync for form submissions,medium,Form data lost when submitted during connection drops
+1102,pwa,Missing push notification permission strategy,medium,No thoughtful approach for requesting notification permissions
+1103,pwa,No offline-first form data persistence,medium,User input not saved locally when connection is unavailable
+1104,pwa,Missing app icon variations,medium,No proper icon set for different devices and contexts
+1105,pwa,No splash screen customization,medium,Default browser splash screen instead of branded loading experience
+1106,seo,Missing structured data JSON-LD,critical,No schema markup for search engines to understand page content
+1107,seo,No canonical URL tags,high,Duplicate content issues without canonical URL declarations
+1108,seo,Missing XML sitemap,high,Search engines cannot discover all site pages efficiently
+1109,seo,No robots.txt optimization,medium,Missing or misconfigured robots.txt blocking important pages
+1110,seo,Missing hreflang for multilingual sites,medium,Multilingual content not properly attributed to language variants
+1111,seo,No breadcrumb schema markup,medium,Missing structured data for breadcrumb navigation in search results
+1112,seo,Missing article schema for blog posts,medium,Blog posts not marked up for rich search result features
+1113,seo,No FAQ schema on FAQ pages,medium,FAQ content not eligible for rich snippets in search results
+1114,seo,Missing product schema for e-commerce,medium,Product pages not marked up for price availability and ratings
+1115,seo,No image sitemap,medium,Images not discoverable by search engines through dedicated sitemap
+1116,color,Warm off-white alternatives ignored,medium,Using pure white instead of warm off-whites like f5f0eb or faf8f5
+1117,color,Hue-shifted dark mode backgrounds missing,medium,Dark mode uses pure black instead of hue-shifted dark backgrounds
+1118,color,No color temperature progression through sections,medium,Every section uses identical color temperature with no visual journey
+1119,typography,Missing text-wrap balance on headings,high,Headlines wrap awkwardly without text-wrap balance optimization
+1120,typography,Missing text-wrap pretty for mobile,medium,Mobile text wraps with orphaned words without pretty wrapping
+1121,typography,No variable font axis usage,medium,Not leveraging variable font weight width and optical size axes
+1122,layout,Missing CSS subgrid usage,medium,Nested grids don't use subgrid for aligned parent-child layouts
+1123,layout,No container query layouts,high,Components don't adapt to container size only viewport breakpoints
+1124,layout,Missing aspect-ratio intentionality,medium,No deliberate aspect ratio choices for media and content blocks
+1125,animation,Missing scroll-timeline native scroll animations,high,Not using 2026 native scroll-driven animations with scroll-timeline
+1126,animation,Missing view-timeline for element visibility,high,Not using view-timeline for element-based scroll animations
+1127,animation,Missing starting-style for entry animations,medium,Entry animations use JavaScript instead of native starting-style
+1128,components,Missing native details and summary for accordions,medium,Using JavaScript accordions instead of native HTML details element
+1129,components,Missing popover API for tooltips and menus,medium,Not using native popover attribute for contextual overlays
+1130,components,Missing dialog element for modals,medium,Using div-based modals instead of native HTML dialog element
+1131,accessibility,Missing focus-visible versus focus differentiation,high,All focus states use same style instead of keyboard-only focus-visible
+1132,accessibility,Missing inert attribute usage,medium,Background content not marked inert when modals or overlays are open
+1133,accessibility,Missing content-visibility for performance,medium,Off-screen content not using content-visibility to improve rendering
+1134,responsive,60px minimum tap targets on mobile,high,Using 44px minimum instead of 60px for comfortable mobile tapping
+1135,responsive,No thumb zone placement consideration,high,Interactive elements placed outside natural thumb reach area
+1136,responsive,Missing dynamic toolbar vh fallbacks,medium,Using 100vh without dvh or svh fallbacks for mobile browsers
+1137,responsive,No foldable screen support,medium,Layouts don't adapt to foldable devices with hinge detection
+1138,performance,Missing LCP image preloading,high,Above-the-fold images not preloaded with link rel preload
+1139,performance,Missing fetchpriority high for hero images,high,Hero images not prioritized with fetchpriority high attribute
+1140,performance,Missing content-visibility auto for long pages,medium,Long pages not using content-visibility auto for render performance
+1141,performance,Missing font-display optional,medium,Using font-display swap instead of optional for better performance
+1142,performance,No INP optimization considerations,medium,Not optimizing for Interaction to Next Paint under 200ms threshold
+1143,imagery,Missing AVIF format for images,medium,Using WebP or JPEG instead of AVIF for better compression
+1144,imagery,Picture element misuse,medium,Picture element used only for art direction not format optimization
+1145,imagery,Missing decoding async on images,medium,Images not using decoding async to avoid blocking main thread
+1146,copy,Missing specific numbers and data in claims,high,Marketing copy with no concrete statistics or measurable results
+1147,copy,No brand voice or personality,high,Generic corporate tone that could belong to any company
+1148,copy,Missing benefit-oriented headlines,medium,Headlines focused on features instead of user benefits
