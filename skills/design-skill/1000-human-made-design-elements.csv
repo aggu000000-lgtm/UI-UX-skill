@@ -1,0 +1,1001 @@
+ID,Category,Design Element,Description,Human Quality Signal
+1,Typography,Hand-drawn letterforms,Letters with visible pen stroke variation and natural wobble,Imperfect stroke width
+2,Typography,Irregular baseline,Letters sitting slightly above or below the baseline in a natural rhythm,Organic rhythm
+3,Typography,Variable letter spacing,Intentionally uneven kerning that mimics human typesetting,Breathing room variation
+4,Typography,Ink bleed effect,Letters that appear to have slight ink spreading into paper texture,Physical process trace
+5,Typography,Rough brush strokes,Typefaces with visible brush bristle marks and texture,Tool mark evidence
+6,Typography,Handwritten annotations,Margin notes and arrows that look scribbled by hand,Casual human gesture
+7,Typography,Letterpress impression,Type that appears pressed into the surface with subtle shadow,Physical depth trace
+8,Typography,Skewed characters,Individual letters slightly rotated as if drawn by hand,Natural hand tremor
+9,Typography,Overlapping letters,Letters that slightly overlap each other like real handwriting,Human spacing error
+10,Typography,Varying x-height,Inconsistent lowercase letter heights across a word,Organic inconsistency
+11,Typography,Hand-drawn underlines,Wavy or slightly crooked underline beneath text,Imperfect gesture
+12,Typography,Smudged text effect,Letters with slight smudging as if touched while wet,Physical interaction
+13,Typography,Erased text remnants,Faint ghost letters showing previous attempts,Process evidence
+14,Typography,Stitched typography,Letters that appear sewn with visible thread paths,Manual craft
+15,Typography,Woodcut letterforms,Letters with carved wood grain texture and chisel marks,Traditional craft
+16,Typography,Charcoal sketch type,Letters with granular charcoal texture and soft edges,Drawing medium trace
+17,Typography,Watercolor wash letters,Letters with translucent watercolor bleeding effects,Paint behavior
+18,Typography,Neon tube flicker,Hand-bent neon tube letters with slight glow variation,Physical material
+19,Typography,Chalkboard writing,Letters with chalk dust particles and board texture,Classroom nostalgia
+20,Typography,Typewriter unevenness,Letters with varying darkness and alignment like old typewriters,Mechanical imperfection
+21,Texture,Paper grain overlay,Visible paper fiber texture across the entire design,Material authenticity
+22,Texture,Film grain noise,Analog film grain that adds organic noise to surfaces,Photographic heritage
+23,Texture,Canvas weave pattern,Visible woven canvas texture behind elements,Painter's surface
+24,Texture,Concrete roughness,Raw concrete texture with visible aggregate,Brutalist material
+25,Texture,Wood grain pattern,Natural wood rings and grain visible in backgrounds,Organic material
+26,Texture,Fabric stitch lines,Visible sewing stitches along edges of elements,Handmade clothing
+27,Texture,Watercolor paper texture,Rough cold-press paper texture visible through washes,Art supply authenticity
+28,Texture,Leather grain,Natural leather pores and wrinkles in UI surfaces,Luxury craft
+29,Texture,Stone surface,Granite or marble veining in backgrounds,Natural geology
+30,Texture,Metal oxidation,Subtle patina and tarnish on metallic elements,Aging process
+31,Texture,Pencil sketch lines,Graphite lines with visible pencil grain and pressure variation,Drawing tool trace
+32,Texture,Crayon wax buildup,Waxy texture with visible layering and pressure marks,Childhood craft
+33,Texture,Pastel chalk dust,Soft chalk particles visible on dark backgrounds,Art studio feel
+34,Texture,Spray paint splatter,Aerosol paint droplets and overspray patterns,Street art energy
+35,Texture,Screen print halftone,Visible dot patterns from screen printing process,Print shop craft
+36,Texture,Linocut marks,Carved linoleum block printing marks with刀痕,Relief printing
+37,Texture,Etching lines,Fine acid-etched lines on metal-appearing surfaces,Traditional printmaking
+38,Texture,Risograph ink bleed,Layered riso printing with slight misregistration,DIY publishing
+39,Texture,Photocopy degradation,Xeroxed appearance with generation loss and toner scatter,Office nostalgia
+40,Texture,Newsprint dot pattern,Visible CMYK or newsprint dot patterns on backgrounds,Mass media craft
+41,Color,Hand-mixed color variation,Slight color shifts as if mixed by hand each time,Paint mixing
+42,Color,Watercolor bleeding,Colors that bleed into each other with soft edges,Water behavior
+43,Color,Imperfect gradient,Gradients with slight banding or irregular transitions,Non-digital feel
+44,Color,Earth tone palette,Natural colors sourced from soil plants and minerals,Organic origin
+45,Color,Faded vintage colors,Colors that appear sun-bleached or time-worn,Aging narrative
+46,Color,Analog film color cast,Warm or cool color shifts characteristic of film stocks,Photographic chemistry
+47,Color,Hand-dyed fabric colors,Slightly uneven dye absorption visible in color fields,Textile craft
+48,Color,Pigment granulation,Visible pigment particles settling in washes,Physical paint behavior
+49,Color,Overprinted colors,Colors that appear layered with slight offset,Print process
+50,Color,Muted natural palette,Desaturated colors found in nature not screen,Real world reference
+51,Color,Seasonal color shifts,Colors that change subtly based on time of year,Natural cycles
+52,Color,Weather-influenced tones,Colors that evoke specific weather conditions,Atmospheric memory
+53,Color,Cultural color stories,Palettes rooted in specific cultural traditions,Human heritage
+54,Color,Emotional color mapping,Colors chosen for feeling not algorithmic harmony,Human emotion
+55,Color,Intentional color clash,Slightly discordant colors that create tension,Human boldness
+56,Color,Monochrome with accent,Mostly one color with one hand-picked highlight,Restraint and focus
+57,Color,Palette from a photograph,Colors extracted from a specific real-world photo,Specific memory
+58,Color,Hand-painted color swatches,Visible brush strokes in color blocks,Physical application
+59,Color,Inconsistent saturation,Saturation that varies naturally across a design,Non-uniform application
+60,Color,Temperature variation,Warm and cool areas within the same color field,Natural light behavior
+61,Layout,Asymmetric balance,Layouts balanced through visual weight not symmetry,Human intuition
+62,Layout,Intentional white space,Breathing room that feels considered not calculated,Thoughtful pause
+63,Layout,Overlapping elements,Elements that layer and overlap like a collage,Physical assembly
+64,Layout,Broken grid,Elements that deliberately break the grid structure,Rule breaking
+65,Layout,Diagonal composition,Layouts organized along diagonal axes,Dynamic energy
+66,Layout,Scattered arrangement,Elements placed as if scattered on a table,Casual organization
+67,Layout,Magazine editorial spread,Layouts that feel like editorial print design,Print heritage
+68,Layout,Hand-placed elements,Items that look manually positioned not auto-aligned,Human placement
+69,Layout,Varied column widths,Columns of different widths creating visual rhythm,Organic structure
+70,Layout,Intentional crowding,Dense areas contrasted with open spaces,Tension and release
+71,Layout,Layered depth,Elements at multiple visual depths like a physical collage,Physical stacking
+72,Layout,Rotated elements,Slightly rotated cards or images on a page,Desk arrangement
+73,Layout,Polaroid-style placement,Images arranged like photos pinned to a board,Memory display
+74,Layout,Notebook margin layout,Content arranged like notes in a margin,Study aesthetic
+75,Layout,Zine-style chaos,Intentionally chaotic layouts with personality,DIY publishing
+76,Layout,Newspaper column flow,Traditional newspaper column structures with modern twist,Journalism heritage
+77,Layout,Gallery wall arrangement,Elements arranged like artworks on a gallery wall,Curated display
+78,Layout,Scrapbook layering,Torn edges tape marks and layered paper effects,Memory keeping
+79,Layout,Bulletin board style,Elements pinned and tacked to a virtual board,Community space
+80,Layout,Hand-organized desk,Layout mimicking items arranged on a desk,Personal workspace
+81,Micro-interaction,Button press depression,Buttons that visually depress when clicked,Physical button feel
+82,Micro-interaction,Elastic bounce,Easing that overshoots and bounces back like a spring,Physical elasticity
+83,Micro-interaction,Hand-drawn cursor trail,Cursor leaves a hand-drawn line as it moves,Drawing gesture
+84,Micro-interaction,Ripple effect with variation,Ripples that vary in size and speed each time,Natural variation
+85,Micro-interaction,Organic hover wobble,Elements that wobble slightly on hover,Hand-touched feel
+86,Micro-interaction,Delayed response,Intentional slight delay before action feels considered,Human thought pause
+87,Micro-interaction,Haptic visual feedback,Visual shake or pulse mimicking haptic feedback,Tactile translation
+88,Micro-interaction,Handwritten loading animation,Loading spinner drawn like handwriting in progress,Active creation
+89,Micro-interaction,Particle burst on click,Particles that scatter like confetti or dust,Physical dispersal
+90,Micro-interaction,Morphing organic shapes,Shapes that morph with fluid organic motion,Living movement
+91,Micro-interaction,Scroll-triggered drawing,Elements that draw themselves as you scroll,Revelation pacing
+92,Micro-interaction,Hover state color shift,Subtle color warming on hover like body heat,Human warmth
+93,Micro-interaction,Drag resistance,Elements that show resistance when dragged,Physical weight
+94,Micro-interaction,Snap-to with overshoot,Elements that overshoot their target then settle,Magnetic pull
+95,Micro-interaction,Staggered reveal,Elements appearing one by one with slight delay,Sequential attention
+96,Micro-interaction,Parallax with depth,Multiple layers moving at different speeds,Physical depth
+97,Micro-interaction,Ink drop animation,Ink dropping and spreading on contact,Fluid dynamics
+98,Micro-interaction,Paper fold unfold,Elements that fold and unfold like origami,Paper craft
+99,Micro-interaction,Hand-flip page turn,Page turns that mimic flipping through a book,Tactile reading
+100,Micro-interaction,Breathing animation,Subtle scale pulsing that mimics breathing rhythm,Life presence
+101,Illustration,Hand-drawn icons,Icons with visible pen strokes and imperfections,Drawing process
+102,Illustration,Sketch-style illustrations,Loose sketchy illustrations with construction lines,Design process
+103,Illustration,Watercolor illustrations,Illustrations with watercolor wash effects and bleeding,Paint medium
+104,Illustration,Ink and wash technique,Ink line work with watercolor wash fills,Traditional technique
+105,Illustration,Colored pencil texture,Illustrations with visible colored pencil grain,Drawing tool
+106,Illustration,Gouache opacity,Opaque paint illustrations with visible brush strokes,Paint application
+107,Illustration,Marker pen strokes,Illustrations with visible marker pen layering,Everyday tool
+108,Illustration,Collage illustrations,Mixed media collage with torn paper and photos,Physical assembly
+109,Illustration,Etching style illustrations,Fine line etching with crosshatching,Printmaking craft
+110,Illustration,Woodcut illustrations,Bold carved woodcut style with visible刀痕,Relief carving
+111,Illustration,Lino print style,Bold simplified shapes with carved texture,Block printing
+112,Illustration,Screen print halftone,Illustrations with visible screen print dot patterns,Print shop
+113,Illustration,Risograph layered colors,Layered spot colors with slight misregistration,DIY printing
+114,Illustration,Charcoal illustrations,Dark rich charcoal with smudged edges,Drawing medium
+115,Illustration,Pastel illustrations,Soft pastel illustrations with visible chalk texture,Art medium
+116,Illustration,Crayon illustrations,Childlike crayon drawings with wax texture,Childhood craft
+117,Illustration,Digital painting brush strokes,Visible digital brush strokes mimicking real paint,Painterly gesture
+118,Illustration,Doodle-style illustrations,Playful doodles with spontaneous energy,Casual creativity
+119,Illustration,Technical drawing style,Illustrations that look like technical pen drawings,Precision craft
+120,Illustration,Botanical illustration,Detailed botanical drawings with scientific accuracy,Naturalist tradition
+121,UI Component,Hand-drawn borders,Borders that look drawn with a pen or brush,Manual drawing
+122,UI Component,Rough-edged cards,Cards with slightly irregular hand-cut edges,Scissor craft
+123,UI Component,Torn paper edges,Elements with torn paper edge effects,Physical tearing
+124,UI Component,Tape-held elements,Elements that appear held by visible tape strips,Physical attachment
+125,UI Component,Pin-held elements,Elements with visible pushpin attachment points,Bulletin board
+126,UI Component,Stapled elements,Elements with visible staple marks,Office craft
+127,UI Component,Stitched borders,Elements with visible stitching along edges,Sewing craft
+128,UI Component,Stamped elements,Elements with rubber stamp impression marks,Stamping craft
+129,UI Component,Wax seal accents,Elements with wax seal details,Traditional correspondence
+130,UI Component,Handwritten labels,Labels in handwriting font with slight variation,Personal note
+131,UI Component,Tag and string elements,Elements with attached paper tags and string,Product labeling
+132,UI Component,Envelope-style containers,Containers styled like physical envelopes,Mail craft
+133,UI Component,Notebook paper backgrounds,Backgrounds with ruled notebook lines,Study aesthetic
+134,UI Component,Sticky note elements,Elements styled as sticky notes with slight curl,Office supply
+135,UI Component,Index card layout,Elements arranged like index cards,Research organization
+136,UI Component,File folder tabs,Tabs styled like manila folder tabs,Filing system
+137,UI Component,Postage stamp borders,Borders with perforated stamp edges,Postal craft
+138,UI Component,Bookmark elements,Bookmark-shaped UI elements,Reading accessory
+139,UI Component,Library card elements,Elements styled like vintage library cards,Institutional nostalgia
+140,UI Component,Receipt-style elements,Elements styled like printed receipts,Everyday object
+141,Navigation,Hand-drawn menu items,Navigation items with hand-drawn underline or highlight,Sketchy feel
+142,Navigation,Organic menu animation,Menu items that flow in with organic motion,Natural movement
+143,Navigation,Scattered navigation,Nav items arranged in a scattered organic pattern,Casual arrangement
+144,Navigation,Handwritten navigation,Navigation labels in handwriting style,Personal touch
+145,Navigation,Icon-based navigation,Navigation using hand-drawn icon illustrations,Visual language
+146,Navigation,Scroll-based navigation,Navigation that appears as you scroll,Revelation pacing
+147,Navigation,Hover-reveal submenus,Submenus that unfold organically on hover,Natural unfolding
+148,Navigation,Magnetic cursor nav,Cursor that magnetically snaps to nav items,Physical attraction
+149,Navigation,Gesture-based navigation,Navigation controlled by swipe or drag gestures,Physical interaction
+150,Navigation,Progressive disclosure nav,Navigation that reveals itself gradually,Conversation pacing
+151,Navigation,Contextual navigation,Navigation that changes based on where you are,Adaptive thinking
+152,Navigation,Visual breadcrumb trail,Breadcrumbs styled as a physical trail or path,Journey metaphor
+153,Navigation,Map-style navigation,Navigation styled like a map with waypoints,Wayfinding
+154,Navigation,Book-style chapters,Navigation styled as book chapters,Reading metaphor
+155,Navigation,Playlist-style nav,Navigation styled like a music playlist,Curated sequence
+156,Navigation,Gallery-style navigation,Navigation as a browsable gallery,Art viewing
+157,Navigation,Timeline navigation,Navigation arranged along a visual timeline,Chronological story
+158,Navigation,Card stack navigation,Navigation as a stack of explorable cards,Physical deck
+159,Navigation,Wheel navigation,Circular navigation wheel you rotate,Physical dial
+160,Navigation,Drawer-style navigation,Navigation that slides out like a physical drawer,Furniture metaphor
+161,Scroll Effect,Parallax storytelling,Elements moving at different speeds to tell a story,Layered narrative
+162,Scroll Effect,Scroll-triggered animations,Elements that animate into view as you scroll,Revelation timing
+163,Scroll Effect,Horizontal scroll sections,Sections that scroll horizontally within vertical flow,Breaking convention
+164,Scroll Effect,Scroll-linked typography,Text that changes size or style based on scroll position,Responsive expression
+165,Scroll Effect,Progressive image reveal,Images that gradually reveal as you scroll,Curtain reveal
+166,Scroll Effect,Scroll-driven color shifts,Background colors that shift as you scroll,Mood transition
+167,Scroll Effect,Sticky scroll sections,Sections that pin and transform while scrolling,Stage performance
+168,Scroll Effect,Scroll velocity reactions,Elements that react to how fast you scroll,Energy response
+169,Scroll Effect,Diagonal scroll paths,Content that moves along diagonal scroll paths,Breaking the vertical
+170,Scroll Effect,3D scroll depth,Elements that move in 3D space as you scroll,Spatial navigation
+171,Scroll Effect,Scroll-triggered drawing,SVG paths that draw themselves on scroll,Active creation
+172,Scroll Effect,Morphing scroll transitions,Sections that morph into each other organically,Shape-shifting
+173,Scroll Effect,Scroll-based sound,Subtle audio that changes with scroll position,Multisensory
+174,Scroll Effect,Particle scroll trails,Particles that follow your scroll movement,Energy trail
+175,Scroll Effect,Scroll-driven narrative,Story that unfolds chapter by chapter on scroll,Book reading
+176,Scroll Effect,Infinite scroll with variation,Infinite content that changes style as you scroll,Evolving landscape
+177,Scroll Effect,Scroll snap with personality,Snap points with bounce and character,Physical detent
+178,Scroll Effect,Layered scroll reveals,Background layers that reveal on scroll,Peeling back
+179,Scroll Effect,Scroll-controlled video,Video playback controlled by scroll position,Manual projection
+180,Scroll Effect,Parallax illustration layers,Illustration layers moving at different speeds,Shadow puppet
+181,Hover State,Hand-drawn hover underline,Underline that draws itself on hover,Active marking
+182,Hover State,Color temperature shift,Elements warm up on hover like body heat,Human warmth
+183,Hover State,Organic scale change,Elements that grow with organic easing,Natural growth
+184,Hover State,Shadow depth increase,Shadows that deepen on hover like lifting,Physical lift
+185,Hover State,Texture reveal,Hidden texture that appears on hover,Discovery moment
+186,Hover State,Handwritten tooltip,Tooltips in handwriting style,Personal note
+187,Hover State,Magnetic attraction,Cursor that pulls toward hoverable elements,Magnetic force
+188,Hover State,Ripple from cursor position,Ripple originating from exact cursor position,Touch point
+189,Hover State,Sketch outline on hover,Elements get a sketchy outline on hover,Drafting feel
+190,Hover State,Ink bleed on hover,Colors that appear to bleed on hover,Wet paint
+191,Hover State,Paper lift effect,Elements that appear to lift off the page,Physical paper
+192,Hover State,Glow from within,Elements that glow from inside on hover,Inner light
+193,Hover State,Rotation on hover,Slight rotation on hover like being picked up,Handling
+194,Hover State,Layer separation,Overlapping layers that separate on hover,Peeling apart
+195,Hover State,Hand-drawn arrow pointer,Arrow that draws itself pointing at element,Guiding gesture
+196,Hover State,Stamp effect on hover,Rubber stamp impression appears on hover,Marking
+197,Hover State,Highlighter effect,Text highlighted like with a marker pen,Study gesture
+198,Hover State,Crosshatch reveal,Crosshatch pattern fills element on hover,Drawing technique
+199,Hover State,Watercolor wash on hover,Watercolor wash spreads across element on hover,Paint spreading
+200,Hover State,Emboss on hover,Element appears embossed on hover,Printing technique
+201,Loading,Hand-drawn spinner,Loading spinner that looks hand-drawn,Sketchy animation
+202,Loading,Progressive sketch reveal,Content sketches itself in during loading,Active drawing
+203,Loading,Paint filling loader,Loader that fills like paint being poured,Liquid filling
+204,Loading,Handwritten loading text,Loading message in handwriting,Personal message
+205,Loading,Organic shape morphing,Loader that morphs between organic shapes,Living form
+206,Loading,Page flip loader,Loader styled as pages flipping,Book reading
+207,Loading,Pencil drawing progress,Progress shown as pencil drawing itself,Active creation
+208,Loading,Watercolor spreading,Loading animation as watercolor spreading on paper,Paint behavior
+209,Loading,Ink drop loading,Ink drops falling and spreading as loading indicator,Fluid motion
+210,Loading,Hand-crank animation,Loader styled as a hand-cranked mechanism,Manual effort
+211,Loading,Typewriter text loading,Text appearing letter by letter like typewriter,Manual typing
+212,Loading,Stamp collection loader,Loading stamps collecting to complete the page,Stamp collecting
+213,Loading,Puzzle piece assembly,Content assembling like puzzle pieces,Physical assembly
+214,Loading,Weaving animation,Content weaving itself together like fabric,Textile craft
+215,Loading,Clay molding loader,Loader shaped like clay being molded,Sculpting
+216,Loading,Origami folding,Content folding itself into place like origami,Paper folding
+217,Loading,Seed growing animation,Loader as a seed growing into a plant,Natural growth
+218,Loading,Hand-stitching progress,Progress shown as thread stitching elements,Sewing
+219,Loading,Paint brush strokes,Content revealed by paint brush strokes,Painting action
+220,Loading,Charcoal sketching in,Content sketching in with charcoal texture,Drawing process
+221,Form Design,Hand-drawn input borders,Input fields with hand-drawn border lines,Sketchy input
+222,Form Design,Handwriting-style inputs,Input text appears in handwriting as you type,Personal writing
+223,Form Design,Organic checkbox,Checkboxes with hand-drawn check marks,Manual marking
+224,Form Design,Radio button pencil dots,Radio buttons filled with pencil dot texture,Drawing fill
+225,Form Design,Sketched form labels,Form labels that look hand-labeled,Annotation
+226,Form Design,Paper form aesthetic,Digital forms styled like paper forms,Physical form
+227,Form Design,Handwritten validation messages,Error messages in handwriting style,Personal correction
+228,Form Design,Ink pen cursor in inputs,Cursor styled as a pen nib in input fields,Writing tool
+229,Form Design,Rough-edged textareas,Textareas with torn or rough paper edges,Physical paper
+230,Form Design,Stamp-style submit button,Submit button styled as a rubber stamp,Stamping action
+231,Form Design,Progressive form reveal,Form fields that appear one at a time,Conversation flow
+232,Form Design,Hand-drawn focus state,Focus ring that looks hand-drawn around input,Manual highlighting
+233,Form Design,Notebook-style form,Form styled like a notebook page,Study aesthetic
+234,Form Design,Postcard-style form,Form styled like a postcard being written,Correspondence
+235,Form Design,Label maker style,Form labels styled like label maker tape,Vintage office
+236,Form Design,Hand-stamped validation,Validation marks that look hand-stamped,Official marking
+237,Form Design,Red pen corrections,Error corrections shown in red pen style,Teacher feedback
+238,Form Design,Highlighter focus,Focus state as highlighter marker stroke,Study tool
+239,Form Design,Clipboard form aesthetic,Form styled as content on a clipboard,Field work
+240,Form Design,Handwritten placeholder,Placeholder text in handwriting style,Personal note
+241,Button,Hand-drawn button borders,Buttons with sketchy hand-drawn borders,Drawing gesture
+242,Button,Organic button shapes,Buttons with slightly irregular organic shapes,Hand-cut feel
+243,Button,Stamp-style buttons,Buttons styled as rubber stamps,Stamping action
+244,Button,Hand-painted buttons,Buttons with visible brush stroke textures,Paint application
+245,Button,Stitched button borders,Buttons with visible stitching around edges,Sewing craft
+246,Button,Pressed button effect,Buttons that appear physically pressed when clicked,Physical interaction
+247,Button,Wax seal buttons,Buttons styled as wax seals,Traditional craft
+248,Button,Wooden button texture,Buttons with visible wood grain texture,Woodworking
+249,Button,Fabric button texture,Buttons with fabric or textile texture,Textile craft
+250,Button,Hand-lettered button text,Button text in hand-lettered style,Calligraphy
+251,Button,Rough-edge button,Buttons with torn or rough-cut edges,Hand-cut paper
+252,Button,Ink-stamped button,Buttons with ink stamp impression effect,Stamping
+253,Button,Sketch-to-fill button,Button fills with sketch lines on hover,Active drawing
+254,Button,Watercolor button,Buttons with watercolor wash fill,Paint medium
+255,Button,Charcoal button,Buttons with charcoal texture and smudged edges,Drawing medium
+256,Button,Neon tube button,Buttons styled as bent neon tubes,Sign making
+257,Button,Ceramic button texture,Buttons with glazed ceramic appearance,Pottery
+258,Button,Leather button texture,Buttons with leather grain and stitching,Leatherwork
+259,Button,Metal embossed button,Buttons with embossed metal appearance,Metalwork
+260,Button,Hand-carved button,Buttons that look hand-carved from wood,Wood carving
+261,Card Design,Hand-drawn card borders,Cards with sketchy irregular borders,Manual drawing
+262,Card Design,Torn paper cards,Cards with torn paper edge effects,Physical tearing
+263,Card Design,Polaroid-style cards,Cards styled as polaroid photos,Nostalgic photography
+264,Card Design,Postcard cards,Cards styled as vintage postcards,Mail craft
+265,Card Design,Playing card style,Cards styled as playing cards,Game aesthetic
+266,Card Design,Trading card design,Cards with trading card layout and borders,Collectible feel
+267,Card Design,Index card design,Cards styled as library index cards,Research tool
+268,Card Design,Sticky note cards,Cards styled as sticky notes,Office supply
+269,Card Design,Scrapbook cards,Cards with scrapbook layering and embellishments,Memory keeping
+270,Card Design,Business card style,Cards styled as artisan business cards,Professional craft
+271,Card Design,Tag-style cards,Cards styled as product tags with string,Product labeling
+272,Card Design,Book cover cards,Cards styled as miniature book covers,Bookbinding
+273,Card Design,Photo album cards,Cards styled as photo album pages,Memory display
+274,Card Design,Newspaper clipping cards,Cards styled as newspaper clippings,Press archive
+275,Card Design,Recipe card style,Cards styled as handwritten recipe cards,Family tradition
+276,Card Design,Field note cards,Cards styled as field research notes,Scientific observation
+277,Card Design,Museum label cards,Cards styled as museum exhibit labels,Curatorial display
+278,Card Design,Herbarium cards,Cards styled as pressed flower specimens,Botanical collection
+279,Card Design,Stamp collection cards,Cards styled as stamp album pages,Philately
+280,Card Design,Sketchbook page cards,Cards styled as sketchbook pages,Artist process
+281,Header,Hand-lettered logo,Logo in hand-lettered typography,Calligraphy
+282,Header,Sketch-style header,Header with hand-drawn elements and borders,Sketchy aesthetic
+283,Header,Painted header background,Header with visible paint stroke background,Paint application
+284,Header,Textured header bar,Header with paper or fabric texture,Material presence
+285,Header,Hand-drawn divider,Header divider lines that look hand-drawn,Manual marking
+286,Header,Stamped header elements,Header elements with rubber stamp effect,Stamping
+287,Header,Collage header,Header as a visual collage of elements,Physical assembly
+288,Header,Watercolor header,Header with watercolor wash background,Paint medium
+289,Header,Handwritten tagline,Tagline in handwriting style,Personal message
+290,Header,Organic header shape,Header with irregular organic bottom edge,Hand-cut feel
+291,Header,Torn paper header,Header with torn paper bottom edge,Physical tearing
+292,Header,Brush stroke header,Header with visible brush stroke marks,Painting gesture
+293,Header,Ink wash header,Header with ink wash gradient effect,Ink medium
+294,Header,Charcoal header texture,Header with charcoal texture background,Drawing medium
+295,Header,Woodcut header illustration,Header with woodcut style illustration,Relief printing
+296,Header,Hand-drawn navigation,Header navigation with hand-drawn indicators,Sketchy navigation
+297,Header,Stamped date element,Header date styled as a postmark or stamp,Postal marking
+298,Header,Handwritten search,Search bar with handwriting-style placeholder,Personal query
+299,Header,Organic header transition,Header that morphs organically on scroll,Living element
+300,Header,Layered header depth,Header with multiple visual depth layers,Physical layering
+301,Footer,Hand-drawn footer border,Footer with sketchy top border,Manual drawing
+302,Footer,Textured footer background,Footer with paper or fabric texture,Material presence
+303,Footer,Handwritten footer text,Footer text in handwriting style,Personal signature
+304,Footer,Stamped footer elements,Footer with rubber stamp style elements,Stamping
+305,Footer,Organic footer shape,Footer with irregular organic top edge,Hand-cut feel
+306,Footer,Torn paper footer,Footer with torn paper top edge,Physical tearing
+307,Footer,Watercolor footer wash,Footer with watercolor background wash,Paint medium
+308,Footer,Hand-drawn social icons,Footer social icons in hand-drawn style,Sketchy icons
+309,Footer,Brush stroke footer,Footer with visible brush stroke marks,Painting gesture
+310,Footer,Ink wash footer,Footer with ink wash gradient,Ink medium
+311,Footer,Charcoal footer texture,Footer with charcoal texture,Drawing medium
+312,Footer,Woodcut footer illustration,Footer with woodcut illustration,Relief printing
+313,Footer,Hand-drawn sitemap,Footer sitemap with hand-drawn connectors,Sketchy diagram
+314,Footer,Stamped copyright,Footer copyright styled as a stamp,Official marking
+315,Footer,Handwritten newsletter signup,Newsletter signup in handwriting style,Personal invitation
+316,Footer,Organic footer transition,Footer that appears with organic animation,Natural emergence
+317,Footer,Layered footer depth,Footer with multiple visual depth layers,Physical layering
+318,Footer,Hand-drawn divider lines,Footer section dividers that look hand-drawn,Manual marking
+319,Footer,Sketch-style footer links,Footer links with hand-drawn underline,Sketchy links
+320,Footer,Textured footer pattern,Footer with hand-drawn pattern background,Pattern craft
+321,Background,Hand-drawn pattern backgrounds,Backgrounds with hand-drawn repeating patterns,Pattern design
+322,Background,Watercolor wash backgrounds,Backgrounds with watercolor wash effects,Paint medium
+323,Background,Paper texture backgrounds,Backgrounds with visible paper grain,Material authenticity
+324,Background,Canvas texture backgrounds,Backgrounds with canvas weave texture,Painter surface
+325,Background,Cork board backgrounds,Backgrounds styled as cork bulletin boards,Community space
+326,Background,Chalkboard backgrounds,Backgrounds styled as chalkboards,Classroom feel
+327,Background,Notebook paper backgrounds,Backgrounds with ruled notebook lines,Study aesthetic
+328,Background,Graph paper backgrounds,Backgrounds with graph paper grid,Technical drawing
+329,Background,Kraft paper backgrounds,Backgrounds with kraft brown paper texture,Packaging material
+330,Background,Handmade paper backgrounds,Backgrounds with handmade paper fiber texture,Artisan paper
+331,Background,Concrete wall backgrounds,Backgrounds with raw concrete texture,Brutalist material
+332,Background,Plaster wall backgrounds,Backgrounds with plaster wall texture,Interior finish
+333,Background,Wood panel backgrounds,Backgrounds with wood panel grain,Woodworking
+334,Background,Fabric texture backgrounds,Backgrounds with woven fabric texture,Textile craft
+335,Background,Leather texture backgrounds,Backgrounds with leather grain,Luxury craft
+336,Background,Stone texture backgrounds,Backgrounds with natural stone veining,Geology
+337,Background,Watercolor paper backgrounds,Backgrounds with cold-press paper texture,Art supply
+338,Background,Newsprint backgrounds,Backgrounds with newspaper print texture,Press material
+339,Background,Cardboard backgrounds,Backgrounds with corrugated cardboard texture,Packaging
+340,Background,Hand-painted backgrounds,Backgrounds with visible brush strokes,Painterly
+341,Pattern,Hand-drawn repeating patterns,Patterns with visible hand-drawn variation,Manual repetition
+342,Pattern,Block print patterns,Patterns with block print texture and imperfection,Block printing
+343,Pattern,Screen print patterns,Patterns with screen print halftone dots,Screen printing
+344,Pattern,Watercolor pattern wash,Patterns with watercolor wash fills,Paint medium
+345,Pattern,Ink pattern drawing,Patterns drawn with ink pen lines,Ink drawing
+346,Pattern,Charcoal pattern sketch,Patterns sketched in charcoal,Drawing medium
+347,Pattern,Embroidery patterns,Patterns that look hand-embroidered,Needlework
+348,Pattern,Weaving patterns,Patterns that look hand-woven,Textile weaving
+349,Pattern,Tile patterns,Patterns with hand-painted tile appearance,Ceramic craft
+350,Pattern,Wallpaper patterns,Patterns with vintage wallpaper feel,Interior design
+351,Pattern,Textile patterns,Patterns inspired by traditional textiles,Cultural craft
+352,Pattern,Pottery patterns,Patterns inspired by hand-painted pottery,Ceramic painting
+353,Pattern,Quilt patterns,Patterns inspired by quilt patchwork,Quilting craft
+354,Pattern,Mosaic patterns,Patterns with hand-cut mosaic tile appearance,Mosaic art
+355,Pattern,Stenciled patterns,Patterns with visible stencil edges,Stencil craft
+356,Pattern,Stamp patterns,Patterns made with rubber stamp impressions,Stamping
+357,Pattern,Lino cut patterns,Patterns with linocut carved texture,Relief printing
+358,Pattern,Etching patterns,Patterns with etched line quality,Printmaking
+359,Pattern,Batik patterns,Patterns inspired by batik wax resist dyeing,Textile dyeing
+360,Pattern,Ikat patterns,Patterns inspired by ikat weaving technique,Traditional weaving
+361,Icon,Hand-drawn icon set,Icons with visible pen stroke variation,Drawing process
+362,Icon,Sketch-style icons,Icons with construction lines and sketchy feel,Design process
+363,Icon,Ink-drawn icons,Icons drawn with ink pen lines,Ink medium
+364,Icon,Watercolor icons,Icons with watercolor wash fills,Paint medium
+365,Icon,Charcoal icons,Icons drawn in charcoal with smudged edges,Drawing medium
+366,Icon,Woodcut icons,Icons with woodcut carved appearance,Relief printing
+367,Icon,Stamp-style icons,Icons styled as rubber stamp impressions,Stamping
+368,Icon,Chalk-drawn icons,Icons drawn in chalk on dark backgrounds,Chalkboard
+369,Icon,Neon tube icons,Icons styled as bent neon tubes,Sign making
+370,Icon,Embroidered icons,Icons that look hand-embroidered,Needlework
+371,Icon,Carved wood icons,Icons that look hand-carved from wood,Wood carving
+372,Icon,Clay icons,Icons styled as molded clay shapes,Pottery
+373,Icon,Metal etched icons,Icons with metal etched appearance,Metalwork
+374,Icon,Paper cut icons,Icons styled as layered paper cutouts,Paper craft
+375,Icon,Origami icons,Icons styled as folded paper shapes,Origami
+376,Icon,Paint stroke icons,Icons made from visible paint strokes,Painterly
+377,Icon,Marker pen icons,Icons drawn with marker pen strokes,Everyday tool
+378,Icon,Crayon icons,Icons drawn in crayon,Childhood craft
+379,Icon,Pencil sketch icons,Icons sketched in pencil with visible grain,Drawing tool
+380,Icon,Hand-lettered icons,Icons incorporating hand-lettered elements,Calligraphy
+381,Photography,Vintage film treatment,Photos with film grain and color cast,Analog photography
+382,Photography,Instant photo aesthetic,Photos styled as polaroid or instant prints,Instant photography
+383,Photography,Darkroom print look,Photos with darkroom print characteristics,Darkroom craft
+384,Photography,Hand-tinted photos,Photos with hand-applied color tints,Hand coloring
+385,Photography,Contact sheet layout,Photos arranged as contact sheets,Photography process
+386,Photography,Photo album spread,Photos arranged as album pages,Memory keeping
+387,Photography,Light leak effects,Photos with analog light leak artifacts,Film artifact
+388,Photography,Double exposure,Photos with double exposure effect,In-camera technique
+389,Photography,Cyanotype treatment,Photos with cyanotype blue tone,Alternative process
+390,Photography,Sepia tone treatment,Photos with warm sepia toning,Historical process
+391,Photography,Torn photo edges,Photos with torn edge effects,Physical photo
+392,Photography,Photo corner mounting,Photos with visible mounting corners,Album craft
+393,Photography,Developing strip effect,Photos styled as film developing strips,Film processing
+394,Photography,Slide mount frames,Photos in slide mount frames,Slide projection
+395,Photography,Grainy black and white,High grain black and white treatment,Film photography
+396,Photography,Hand-developed look,Photos with uneven development marks,Manual processing
+397,Photography,Pinhole camera effect,Photos with pinhole camera softness,Alternative camera
+398,Photography,Lomo camera treatment,Photos with lomo camera vignette and color,Toy camera
+399,Photography,Daguerreotype treatment,Photos styled as daguerreotype plates,Early photography
+400,Photography,Photogram effect,Photos with photogram shadow silhouettes,Cameraless photography
+401,Animation,Hand-drawn frame animation,Animations with visible hand-drawn frames,Traditional animation
+402,Animation,Stop motion feel,Animations with stop motion step timing,Stop motion craft
+403,Animation,Claymation style,Animations styled as claymation,Clay animation
+404,Animation,Paper cutout animation,Animations styled as paper cutouts,Paper craft animation
+405,Animation,Puppet animation,Animations with puppet joint movement,Marionette
+406,Animation,Flip book animation,Animations with flip book page-turn feel,Flip book
+407,Animation,Whiteboard animation,Animations that look drawn on whiteboard,Whiteboard drawing
+408,Animation,Chalkboard animation,Animations drawn in chalk on chalkboard,Chalk drawing
+409,Animation,Ink wash animation,Animations with ink wash spreading effects,Ink medium
+410,Animation,Watercolor animation,Animations with watercolor wash effects,Paint animation
+411,Animation,Sand animation,Animations styled as sand art,Sand art
+412,Animation,Shadow puppet animation,Animations styled as shadow puppets,Shadow theater
+413,Animation,Embroidery animation,Animations with embroidery stitch effects,Needlework
+414,Animation,Weaving animation,Animations with weaving thread effects,Textile craft
+415,Animation,Pottery wheel animation,Animations styled as pottery wheel forming,Pottery
+416,Animation,Wood carving animation,Animations that look carved from wood,Wood carving
+417,Animation,Metal forging animation,Animations styled as metal being forged,Blacksmith
+418,Animation,Glass blowing animation,Animations styled as glass being blown,Glass craft
+419,Animation,Origami animation,Animations with paper folding movements,Origami
+420,Animation,Calligraphy animation,Animations of calligraphy being written,Writing art
+421,3D Depth,Hand-modeled 3D objects,3D objects with visible hand-modeling marks,Sculpting
+422,3D Depth,Clay render style,3D objects with clay material appearance,Clay modeling
+423,3D Depth,Wood texture 3D,3D objects with hand-carved wood texture,Wood carving
+424,3D Depth,Ceramic 3D objects,3D objects with glazed ceramic appearance,Pottery
+425,3D Depth,Fabric 3D objects,3D objects with woven fabric texture,Textile
+426,3D Depth,Paper 3D objects,3D objects styled as paper constructions,Paper craft
+427,3D Depth,Layered paper depth,Depth created through layered paper cutouts,Paper layering
+428,3D Depth,Shadow box depth,Depth styled as shadow box display,Shadow box
+429,3D Depth,Diorama style,3D scenes styled as miniature dioramas,Miniature craft
+430,3D Depth,Miniature world,3D objects styled as miniature models,Model making
+431,3D Depth,Isometric hand-drawn,Isometric views with hand-drawn quality,Technical drawing
+432,3D Depth,Hand-painted 3D textures,3D objects with hand-painted textures,Texture painting
+433,3D Depth,Imperfect 3D surfaces,3D surfaces with intentional imperfections,Hand-modeled
+434,3D Depth,Visible tool marks 3D,3D objects with visible sculpting tool marks,Sculpting process
+435,3D Depth,Organic 3D shapes,3D shapes with organic non-geometric forms,Natural forms
+436,3D Depth,Hand-assembled 3D,3D compositions that look hand-assembled,Physical assembly
+437,3D Depth,Tactile 3D surfaces,3D surfaces that invite touching,Tactile quality
+438,3D Depth,Rough 3D edges,3D objects with rough unfinished edges,Hand-finished
+439,3D Depth,Patina on 3D objects,3D objects with aged patina effects,Aging process
+440,3D Depth,Hand-polished 3D,3D objects with uneven hand-polished shine,Manual polishing
+441,Cursor,Custom hand-drawn cursor,Cursor styled as a hand-drawn arrow or pen,Drawing tool
+442,Cursor,Pen nib cursor,Cursor styled as a fountain pen nib,Writing instrument
+443,Cursor,Paintbrush cursor,Cursor styled as a paintbrush,Painting tool
+444,Cursor,Pencil cursor,Cursor styled as a pencil tip,Drawing tool
+445,Cursor,Hand pointer cursor,Cursor styled as a pointing hand,Gestural
+446,Cursor,Stamp cursor,Cursor styled as a rubber stamp,Stamping tool
+447,Cursor,Chalk cursor,Cursor styled as a piece of chalk,Chalk drawing
+448,Cursor,Needle cursor,Cursor styled as a sewing needle,Needlework
+449,Cursor,Carving tool cursor,Cursor styled as a carving tool,Sculpting
+450,Cursor,Magnifying glass cursor,Cursor styled as a vintage magnifier,Examination
+451,Cursor,Cursor trail drawing,Cursor leaves a drawn trail as it moves,Drawing gesture
+452,Cursor,Cursor trail particles,Cursor leaves particle trail as it moves,Energy trail
+453,Cursor,Cursor trail ink,Cursor leaves ink trail as it moves,Ink drawing
+454,Cursor,Cursor trail watercolor,Cursor leaves watercolor trail,Paint trail
+455,Cursor,Cursor interaction ripple,Cursor creates ripples on click,Water surface
+456,Cursor,Magnetic cursor effect,Cursor magnetically attracted to elements,Physical force
+457,Cursor,Cursor size change,Cursor changes size based on context,Adaptive tool
+458,Cursor,Cursor color shift,Cursor changes color over different elements,Contextual response
+459,Cursor,Cursor blend mode,Cursor blends with elements it hovers over,Optical mixing
+460,Cursor,Custom hover cursor,Cursor changes to context-specific tool,Tool switching
+461,Transition,Hand-drawn wipe transition,Page transitions with hand-drawn wipe effects,Manual wiping
+462,Transition,Paper fold transition,Page transitions styled as paper folding,Origami
+463,Transition,Page turn transition,Page transitions styled as book page turns,Book reading
+464,Transition,Paint wipe transition,Transitions styled as paint being wiped,Painting
+465,Transition,Ink wash transition,Transitions with ink wash spreading effects,Ink medium
+466,Transition,Watercolor transition,Transitions with watercolor bleeding,Paint medium
+467,Transition,Torn paper transition,Transitions with torn paper edge reveal,Physical tearing
+468,Transition,Curtain reveal transition,Transitions styled as curtain being pulled,Theater
+469,Transition,Slide transition,Transitions styled as slides being projected,Slide show
+470,Transition,Film strip transition,Transitions styled as film strip advancement,Film projection
+471,Transition,Flip book transition,Transitions with flip book page-turn feel,Flip book
+472,Transition,Morphing transition,Organic shape morphing between pages,Living transition
+473,Transition,Zoom through transition,Zooming through elements to next page,Spatial travel
+474,Transition,Layer peel transition,Peeling back layers to reveal next page,Peeling
+475,Transition,Stamp transition,Transition with rubber stamp impression,Stamping
+476,Transition,Brush stroke transition,Transition with paint brush stroke reveal,Painting
+477,Transition,Charcoal smudge transition,Transition with charcoal smudge effect,Drawing
+478,Transition,Collage transition,Transition as collage elements rearranging,Physical assembly
+479,Transition,Shadow transition,Transition through shadow movement,Shadow play
+480,Transition,Light reveal transition,Transition as light gradually reveals page,Illumination
+481,Empty State,Hand-drawn empty illustration,Empty state with hand-drawn illustration,Sketchy art
+482,Empty State,Handwritten empty message,Empty state message in handwriting,Personal note
+483,Empty State,Sketch placeholder,Empty state styled as a sketch placeholder,Design process
+484,Empty State,Blueprint empty state,Empty state styled as a blueprint,Technical drawing
+485,Empty State,Empty canvas feel,Empty state that feels like a blank canvas,Artist start
+486,Empty State,Empty notebook page,Empty state styled as blank notebook page,Study aesthetic
+487,Empty State,Empty photo frame,Empty state styled as empty picture frame,Waiting for memory
+488,Empty State,Empty shelf display,Empty state styled as empty shelf,Waiting to be filled
+489,Empty State,Empty garden,Empty state styled as empty garden plot,Growth potential
+490,Empty State,Empty workshop,Empty state styled as empty workshop,Ready to create
+491,Empty State,Hand-drawn arrow pointer,Empty state with hand-drawn arrow showing action,Guiding gesture
+492,Empty State,Sketchy call-to-action,Empty state CTA with sketchy border,Hand-drawn
+493,Empty State,Watercolor empty state,Empty state with watercolor wash background,Paint medium
+494,Empty State,Charcoal empty state,Empty state with charcoal illustration,Drawing medium
+495,Empty State,Ink empty state,Empty state with ink wash illustration,Ink medium
+496,Empty State,Stamp empty state,Empty state with rubber stamp illustration,Stamping
+497,Empty State,Clay empty state,Empty state with clay illustration style,Pottery
+498,Empty State,Paper cut empty state,Empty state with paper cut illustration,Paper craft
+499,Empty State,Embroidery empty state,Empty state with embroidered illustration,Needlework
+500,Empty State,Woodcut empty state,Empty state with woodcut illustration,Relief printing
+501,Error State,Hand-drawn error illustration,Error page with hand-drawn illustration,Sketchy art
+502,Error State,Handwritten error message,Error message in handwriting style,Personal apology
+503,Error State,Red pen correction,Error styled as red pen correction,Teacher feedback
+504,Error State,Torn page error,Error page with torn paper aesthetic,Physical damage
+505,Error State,Smudged ink error,Error with smudged ink effect,Mistake visual
+506,Error State,Crumpled paper error,Error styled as crumpled paper,Frustration metaphor
+507,Error State,Erased content error,Error showing erased content,Correction attempt
+508,Error State,Stamp rejected error,Error styled as rejected rubber stamp,Official rejection
+509,Error State,Spilled ink error,Error with spilled ink effect,Accident
+510,Error State,Broken pencil error,Error with broken pencil illustration,Tool failure
+511,Error State,Charcoal smudge error,Error with charcoal smudge,Drawing mistake
+512,Error State,Watercolor bleed error,Error with watercolor bleeding out of bounds,Paint accident
+513,Error State,Sketch crossed out,Error with hand-drawn cross-out,Manual rejection
+514,Error State,Typewriter jam error,Error styled as typewriter paper jam,Mechanical failure
+515,Error State,Paint spill error,Error with paint spill effect,Studio accident
+516,Error State,Thread tangle error,Error with tangled thread illustration,Sewing problem
+517,Error State,Clay crack error,Error with cracked clay illustration,Pottery flaw
+518,Error State,Wood splinter error,Error with wood splinter illustration,Woodworking error
+519,Error State,Metal rust error,Error with rust illustration,Aging problem
+520,Error State,Faded photo error,Error with faded photograph effect,Time damage
+521,Success State,Hand-drawn checkmark,Success with hand-drawn check mark,Manual approval
+522,Success State,Stamp approved,Success styled as approved rubber stamp,Official approval
+523,Success State,Handwritten success message,Success message in handwriting,Personal congratulations
+524,Success State,Gold star success,Success with hand-drawn gold star,Teacher reward
+525,Success State,Confetti burst,Success with hand-drawn confetti particles,Celebration
+526,Success State,Watercolor bloom success,Success with watercolor bloom effect,Flower opening
+527,Success State,Ink stamp success,Success with ink stamp impression,Marking completion
+528,Success State,Ribbon badge success,Success with hand-drawn ribbon badge,Award
+529,Success State,Seal of approval,Success with wax seal impression,Official seal
+530,Success State,Hand-drawn celebration,Success with hand-drawn party elements,Manual celebration
+531,Success State,Paint splash success,Success with paint splash effect,Creative burst
+532,Success State,Charcoal highlight success,Success with charcoal circle highlight,Marking achievement
+533,Success State,Embroidered success,Success with embroidered check mark,Needlework
+534,Success State,Clay sculpture success,Success with clay sculpture forming,Sculpting complete
+535,Success State,Wood carving success,Success with finished wood carving,Carving complete
+536,Success State,Origami success,Success with completed origami shape,Folding complete
+537,Success State,Weaving success,Success with completed weaving pattern,Textile complete
+538,Success State,Pottery success,Success with finished pottery piece,Pottery complete
+539,Success State,Sketch complete,Success with finished sketch illustration,Drawing complete
+540,Success State,Painting complete,Success with finished painting,Art complete
+541,Tooltip,Hand-drawn tooltip,Tooltip with hand-drawn border and arrow,Sketchy note
+542,Tooltip,Handwritten tooltip text,Tooltip text in handwriting style,Personal note
+543,Tooltip,Sticky note tooltip,Tooltip styled as a sticky note,Office supply
+544,Tooltip,Speech bubble tooltip,Tooltip styled as hand-drawn speech bubble,Conversation
+545,Tooltip,Label tag tooltip,Tooltip styled as a product tag with string,Product label
+546,Tooltip,Stamp tooltip,Tooltip styled as a rubber stamp impression,Stamping
+547,Tooltip,Chalk tooltip,Tooltip styled as chalk writing on dark background,Chalkboard
+548,Tooltip,Torn paper tooltip,Tooltip with torn paper edges,Physical paper
+549,Tooltip,Notebook annotation tooltip,Tooltip styled as notebook margin note,Study annotation
+550,Tooltip,Red pen tooltip,Tooltip styled as red pen annotation,Teacher note
+551,Tooltip,Highlighter tooltip,Tooltip styled as highlighter mark,Study tool
+552,Tooltip,Pencil note tooltip,Tooltip styled as pencil annotation,Drawing note
+553,Tooltip,Ink stamp tooltip,Tooltip styled as ink stamp,Official marking
+554,Tooltip,Watercolor tooltip,Tooltip with watercolor background wash,Paint medium
+555,Tooltip,Charcoal tooltip,Tooltip with charcoal texture background,Drawing medium
+556,Tooltip,Sketch tooltip,Tooltip with sketchy border lines,Sketchy feel
+557,Tooltip,Post-it tooltip,Tooltip styled as post-it note with slight curl,Adhesive note
+558,Tooltip,Bookmark tooltip,Tooltip styled as a bookmark,Reading marker
+559,Tooltip,Flag tooltip,Tooltip styled as a page flag,Page marker
+560,Tooltip,Pin tooltip,Tooltip styled as a map pin,Location marker
+561,Modal,Hand-drawn modal border,Modal with hand-drawn border outline,Sketchy container
+562,Modal,Paper overlay modal,Modal styled as paper placed over content,Physical overlay
+563,Modal,Tracing paper modal,Modal styled as tracing paper overlay,Technical drawing
+564,Modal,Frosted glass modal,Modal with frosted glass effect,Physical glass
+565,Modal,Parchment modal,Modal styled as parchment paper,Historical document
+566,Modal,Canvas overlay modal,Modal styled as canvas overlay,Painter surface
+567,Modal,Notebook page modal,Modal styled as notebook page,Study aesthetic
+568,Modal,Cardboard modal,Modal styled as cardboard overlay,Packaging material
+569,Modal,Acetate modal,Modal styled as acetate sheet overlay,Technical overlay
+570,Modal,Vellum modal,Modal styled as vellum paper overlay,Fine paper
+571,Modal,Hand-drawn close button,Modal close button hand-drawn,Sketchy control
+572,Modal,Stamp modal header,Modal header styled as rubber stamp,Stamping
+573,Modal,Watercolor modal background,Modal with watercolor wash background,Paint medium
+574,Modal,Charcoal modal texture,Modal with charcoal texture,Drawing medium
+575,Modal,Torn paper modal,Modal with torn paper edges,Physical paper
+576,Modal,Stitched modal border,Modal with stitched border,Sewing craft
+577,Modal,Wax seal modal close,Modal close button as wax seal,Traditional craft
+578,Modal,Handwritten modal title,Modal title in handwriting style,Personal heading
+579,Modal,Sketch modal animation,Modal appearing with sketch animation,Active drawing
+580,Modal,Paint reveal modal,Modal revealed by paint brush strokes,Painting
+581,Menu,Hand-drawn dropdown menu,Dropdown with hand-drawn border,Sketchy menu
+582,Menu,Sketchy hamburger icon,Hamburger menu icon hand-drawn,Sketchy icon
+583,Menu,Organic menu animation,Menu items flowing in organically,Natural movement
+584,Menu,Handwritten menu items,Menu items in handwriting style,Personal menu
+585,Menu,Stamp menu icons,Menu icons styled as rubber stamps,Stamping
+586,Menu,Watercolor menu background,Menu with watercolor background,Paint medium
+587,Menu,Charcoal menu texture,Menu with charcoal texture,Drawing medium
+588,Menu,Torn paper menu,Menu with torn paper edges,Physical paper
+589,Menu,Notebook menu,Menu styled as notebook page,Study aesthetic
+590,Menu,Recipe card menu,Menu styled as recipe card,Culinary tradition
+591,Menu,Chalkboard menu,Menu styled as chalkboard menu,Restaurant aesthetic
+592,Menu,Hand-lettered menu,Menu with hand-lettered items,Calligraphy
+593,Menu,Sketch menu animation,Menu appearing with sketch animation,Active drawing
+594,Menu,Paint brush menu reveal,Menu revealed by paint strokes,Painting
+595,Menu,Ink wash menu,Menu with ink wash background,Ink medium
+596,Menu,Woodcut menu icons,Menu icons in woodcut style,Relief printing
+597,Menu,Embroidered menu items,Menu items with embroidered appearance,Needlework
+598,Menu,Clay menu items,Menu items styled as clay shapes,Pottery
+599,Menu,Paper menu,Menu styled as paper document,Paper craft
+600,Menu,Leather menu texture,Menu with leather grain texture,Luxury craft
+601,Pagination,Hand-drawn page numbers,Pagination numbers hand-drawn,Sketchy numbers
+602,Pagination,Sketchy page arrows,Pagination arrows hand-drawn,Sketchy navigation
+603,Pagination,Stamp page numbers,Page numbers styled as rubber stamps,Stamping
+604,Pagination,Handwritten pagination,Pagination in handwriting style,Personal numbering
+605,Pagination,Book page pagination,Pagination styled as book page numbers,Book design
+606,Pagination,Newspaper pagination,Pagination styled as newspaper page refs,Press design
+607,Pagination,Chapter marker pagination,Pagination styled as chapter markers,Book chapters
+608,Pagination,Bookmark pagination,Pagination styled as bookmarks,Reading markers
+609,Pagination,Index card pagination,Pagination styled as index card numbers,Research tool
+610,Pagination,Folio number style,Pagination in traditional folio style,Bookbinding
+611,Pagination,Watercolor pagination,Pagination with watercolor number backgrounds,Paint medium
+612,Pagination,Charcoal pagination,Pagination with charcoal number texture,Drawing medium
+613,Pagination,Ink stamp pagination,Pagination with ink stamped numbers,Stamping
+614,Pagination,Sketchy pagination dots,Pagination dots hand-drawn,Sketchy dots
+615,Pagination,Torn paper pagination,Pagination on torn paper strips,Physical paper
+616,Pagination,Woodcut pagination,Pagination in woodcut style,Relief printing
+617,Pagination,Embroidered pagination,Pagination with embroidered numbers,Needlework
+618,Pagination,Clay number pagination,Pagination numbers styled as clay,Pottery
+619,Pagination,Metal type pagination,Pagination styled as metal type letters,Letterpress
+620,Pagination,Hand-carved pagination,Pagination styled as carved wood numbers,Wood carving
+621,Search,Hand-drawn search bar,Search input with hand-drawn border,Sketchy input
+622,Search,Handwritten search placeholder,Search placeholder in handwriting,Personal query
+623,Search,Sketchy search icon,Search icon hand-drawn,Sketchy icon
+624,Search,Magnifying glass search,Search styled as vintage magnifying glass,Examination tool
+625,Search,Stamp search button,Search button styled as rubber stamp,Stamping
+626,Search,Watercolor search bar,Search bar with watercolor background,Paint medium
+627,Search,Charcoal search texture,Search with charcoal texture,Drawing medium
+628,Search,Notebook search,Search styled as notebook index lookup,Study tool
+629,Search,Card catalog search,Search styled as library card catalog,Library system
+630,Search,Index search,Search styled as book index lookup,Reference tool
+631,Search,Hand-drawn search results,Search results with hand-drawn dividers,Sketchy results
+632,Search,Stamp search results,Search results with stamp-style highlights,Stamping
+633,Search,Highlighter search results,Search terms highlighted like marker,Study tool
+634,Search,Red pen search results,Search corrections in red pen style,Teacher feedback
+635,Search,Sketchy search animation,Search appearing with sketch animation,Active drawing
+636,Search,Ink wash search,Search with ink wash background,Ink medium
+637,Search,Torn paper search results,Search results on torn paper strips,Physical paper
+638,Search,Woodcut search icon,Search icon in woodcut style,Relief printing
+639,Search,Embroidered search,Search elements with embroidered appearance,Needlework
+640,Search,Clay search button,Search button styled as clay shape,Pottery
+641,Filter,Hand-drawn filter chips,Filter chips with hand-drawn borders,Sketchy filters
+642,Filter,Sketchy filter toggle,Filter toggles hand-drawn,Sketchy controls
+643,Filter,Stamp filter active,Active filter styled as rubber stamp,Stamping
+644,Filter,Handwritten filter labels,Filter labels in handwriting,Personal labels
+645,Filter,Tag filter style,Filters styled as hand-written tags,Labeling
+646,Filter,Watercolor filter chips,Filter chips with watercolor fill,Paint medium
+647,Filter,Charcoal filter texture,Filter elements with charcoal texture,Drawing medium
+648,Filter,Torn paper filter,Filter elements on torn paper,Physical paper
+649,Filter,Notebook filter,Filter styled as notebook annotations,Study tool
+650,Filter,Stamp collection filter,Filters styled as stamp collection,Philately
+651,Filter,Hand-drawn filter animation,Filter appearing with sketch animation,Active drawing
+652,Filter,Ink wash filter,Filter with ink wash background,Ink medium
+653,Filter,Woodcut filter icons,Filter icons in woodcut style,Relief printing
+654,Filter,Embroidered filter,Filter elements with embroidered look,Needlework
+655,Filter,Clay filter chips,Filter chips styled as clay shapes,Pottery
+656,Filter,Metal tag filter,Filter tags styled as metal tags,Metalwork
+657,Filter,Leather filter chips,Filter chips with leather texture,Luxury craft
+658,Filter,Fabric filter chips,Filter chips with fabric texture,Textile craft
+659,Filter,Wood filter chips,Filter chips with wood grain texture,Woodworking
+660,Filter,Ceramic filter chips,Filter chips with ceramic appearance,Pottery
+661,Tag,Hand-drawn tag,Tags with hand-drawn borders and text,Sketchy tag
+662,Tag,Handwritten tag text,Tag text in handwriting style,Personal label
+663,Tag,Product tag style,Tags styled as product hang tags,Product labeling
+664,Tag,Luggage tag style,Tags styled as luggage tags,Travel aesthetic
+665,Tag,Price tag style,Tags styled as vintage price tags,Retail aesthetic
+666,Tag,Stamp tag,Tags styled as rubber stamp impressions,Stamping
+667,Tag,Watercolor tag,Tags with watercolor fill,Paint medium
+668,Tag,Charcoal tag,Tags with charcoal texture,Drawing medium
+669,Tag,Torn paper tag,Tags with torn paper edges,Physical paper
+670,Tag,Notebook tag,Tags styled as notebook labels,Study aesthetic
+671,Tag,Ink stamp tag,Tags with ink stamp effect,Stamping
+672,Tag,Woodcut tag,Tags in woodcut style,Relief printing
+673,Tag,Embroidered tag,Tags with embroidered appearance,Needlework
+674,Tag,Clay tag,Tags styled as clay shapes,Pottery
+675,Tag,Metal tag,Tags styled as metal tags,Metalwork
+676,Tag,Leather tag,Tags with leather texture,Luxury craft
+677,Tag,Fabric tag,Tags with fabric texture,Textile craft
+678,Tag,Wood tag,Tags with wood grain texture,Woodworking
+679,Tag,Ceramic tag,Tags with ceramic appearance,Pottery
+680,Tag,Wax seal tag,Tags styled as wax seals,Traditional craft
+681,Badge,Hand-drawn badge,Badges with hand-drawn borders,Sketchy badge
+682,Badge,Ribbon badge,Badges styled as ribbons,Award ribbon
+683,Badge,Stamp badge,Badges styled as rubber stamps,Stamping
+684,Badge,Handwritten badge,Badges with handwritten text,Personal badge
+685,Badge,Wax seal badge,Badges styled as wax seals,Traditional craft
+686,Badge,Watercolor badge,Badges with watercolor fill,Paint medium
+687,Badge,Charcoal badge,Badges with charcoal texture,Drawing medium
+688,Badge,Embroidered badge,Badges with embroidered appearance,Needlework
+689,Badge,Metal badge,Badges styled as metal badges,Metalwork
+690,Badge,Woodcut badge,Badges in woodcut style,Relief printing
+691,Badge,Clay badge,Badges styled as clay shapes,Pottery
+692,Badge,Fabric badge,Badges with fabric texture,Textile craft
+693,Badge,Leather badge,Badges with leather texture,Luxury craft
+694,Badge,Wood badge,Badges with wood grain,Woodworking
+695,Badge,Ceramic badge,Badges with ceramic appearance,Pottery
+696,Badge,Neon badge,Badges styled as neon signs,Sign making
+697,Badge,Paint stroke badge,Badges with paint stroke fill,Painterly
+698,Badge,Ink stamp badge,Badges with ink stamp effect,Stamping
+699,Badge,Torn paper badge,Badges on torn paper,Physical paper
+700,Badge,Sketchy badge animation,Badges appearing with sketch animation,Active drawing
+701,Progress,Hand-drawn progress bar,Progress bar with hand-drawn fill,Sketchy progress
+702,Progress,Paint fill progress,Progress shown as paint filling a shape,Paint filling
+703,Progress,Ink spread progress,Progress shown as ink spreading,Ink medium
+704,Progress,Watercolor progress,Progress shown as watercolor wash spreading,Paint medium
+705,Progress,Charcoal fill progress,Progress shown as charcoal filling area,Drawing medium
+706,Progress,Thread winding progress,Progress shown as thread winding,Spinning
+707,Progress,Weaving progress,Progress shown as fabric being woven,Textile craft
+708,Progress,Clay building progress,Progress shown as clay being built up,Pottery
+709,Progress,Wood stacking progress,Progress shown as wood pieces stacking,Woodworking
+710,Progress,Seed growing progress,Progress shown as plant growing,Natural growth
+711,Progress,Hand-stitching progress,Progress shown as stitches being added,Sewing
+712,Progress,Brick laying progress,Progress shown as bricks being laid,Masonry
+713,Progress,Puzzle assembly progress,Progress shown as puzzle pieces fitting,Puzzle
+714,Progress,Origami folding progress,Progress shown as paper being folded,Origami
+715,Progress,Pottery wheel progress,Progress shown as clay forming on wheel,Pottery
+716,Progress,Hand-carving progress,Progress shown as wood being carved,Wood carving
+717,Progress,Metal forging progress,Progress shown as metal being shaped,Blacksmith
+718,Progress,Glass blowing progress,Progress shown as glass being shaped,Glass craft
+719,Progress,Book filling progress,Progress shown as book pages filling,Writing
+720,Progress,Canvas painting progress,Progress shown as canvas being painted,Painting
+721,Chart,Hand-drawn chart,Charts with hand-drawn lines and labels,Sketchy data
+722,Chart,Sketchy bar chart,Bar chart with hand-drawn bars,Sketchy bars
+723,Chart,Watercolor chart,Charts with watercolor fills,Paint medium
+724,Chart,Ink chart,Charts drawn with ink lines,Ink medium
+725,Chart,Charcoal chart,Charts drawn in charcoal,Drawing medium
+726,Chart,Embroidered chart,Charts with embroidered appearance,Needlework
+727,Chart,Woodcut chart,Charts in woodcut style,Relief printing
+728,Chart,Clay chart,Charts styled as clay shapes,Pottery
+729,Chart,Paper cut chart,Charts styled as paper cutouts,Paper craft
+730,Chart,Hand-lettered chart labels,Chart labels in hand-lettered style,Calligraphy
+731,Chart,Stamp chart elements,Chart elements styled as stamps,Stamping
+732,Chart,Torn paper chart,Chart on torn paper background,Physical paper
+733,Chart,Notebook chart,Chart styled as notebook sketch,Study aesthetic
+734,Chart,Blueprint chart,Chart styled as blueprint drawing,Technical drawing
+735,Chart,Chalkboard chart,Chart styled as chalkboard drawing,Chalkboard
+736,Chart,Fabric chart,Chart with fabric texture fills,Textile craft
+737,Chart,Leather chart,Chart with leather texture fills,Luxury craft
+738,Chart,Wood chart,Chart with wood grain fills,Woodworking
+739,Chart,Ceramic chart,Chart with ceramic appearance,Pottery
+740,Chart,Paint stroke chart,Chart with paint stroke fills,Painterly
+741,Table,Hand-drawn table borders,Table with hand-drawn grid lines,Sketchy table
+742,Table,Sketchy table headers,Table headers with hand-drawn style,Sketchy headers
+743,Table,Handwritten table data,Table data in handwriting style,Personal data
+744,Table,Notebook table,Table styled as notebook grid,Study aesthetic
+745,Table,Ledger table,Table styled as accounting ledger,Bookkeeping
+746,Table,Stamp table highlights,Table highlights styled as stamps,Stamping
+747,Table,Watercolor table rows,Table rows with watercolor alternating fills,Paint medium
+748,Table,Charcoal table texture,Table with charcoal texture,Drawing medium
+749,Table,Torn paper table,Table on torn paper background,Physical paper
+750,Table,Ink table lines,Table with ink-drawn grid lines,Ink medium
+751,Table,Woodcut table,Table in woodcut style,Relief printing
+752,Table,Embroidered table,Table with embroidered appearance,Needlework
+753,Table,Clay table cells,Table cells styled as clay shapes,Pottery
+754,Table,Paper table,Table styled as paper document,Paper craft
+755,Table,Leather table texture,Table with leather texture,Luxury craft
+756,Table,Wood table texture,Table with wood grain texture,Woodworking
+757,Table,Ceramic table,Table with ceramic appearance,Pottery
+758,Table,Hand-drawn sort arrows,Table sort arrows hand-drawn,Sketchy arrows
+759,Table,Stamp table pagination,Table pagination styled as stamps,Stamping
+760,Table,Sketchy table animation,Table appearing with sketch animation,Active drawing
+761,Avatar,Hand-drawn avatar,Avatar with hand-drawn border,Sketchy avatar
+762,Avatar,Sketch portrait avatar,Avatar styled as sketch portrait,Portrait drawing
+763,Avatar,Watercolor avatar,Avatar with watercolor frame,Paint medium
+764,Avatar,Charcoal avatar,Avatar with charcoal portrait,Drawing medium
+765,Avatar,Ink avatar,Avatar with ink portrait,Ink medium
+766,Avatar,Woodcut avatar,Avatar in woodcut style,Relief printing
+767,Avatar,Embroidered avatar,Avatar with embroidered frame,Needlework
+768,Avatar,Clay avatar,Avatar styled as clay bust,Pottery
+769,Avatar,Paper cut avatar,Avatar styled as paper cutout,Paper craft
+770,Avatar,Stamp avatar,Avatar with rubber stamp frame,Stamping
+771,Avatar,Polaroid avatar,Avatar styled as polaroid photo,Instant photography
+772,Avatar,Torn photo avatar,Avatar with torn photo edges,Physical photo
+773,Avatar,Chalk portrait avatar,Avatar styled as chalk portrait,Chalk drawing
+774,Avatar,Pencil sketch avatar,Avatar styled as pencil sketch,Drawing tool
+775,Avatar,Paint portrait avatar,Avatar styled as paint portrait,Painterly
+776,Avatar,Neon avatar frame,Avatar with neon tube frame,Sign making
+777,Avatar,Wood frame avatar,Avatar with carved wood frame,Wood carving
+778,Avatar,Metal frame avatar,Avatar with metal frame,Metalwork
+779,Avatar,Fabric frame avatar,Avatar with fabric frame,Textile craft
+780,Avatar,Leather frame avatar,Avatar with leather frame,Luxury craft
+781,Social,Hand-drawn share buttons,Share buttons hand-drawn,Sketchy buttons
+782,Social,Sketchy social icons,Social media icons hand-drawn,Sketchy icons
+783,Social,Stamp social icons,Social icons styled as stamps,Stamping
+784,Social,Watercolor social buttons,Social buttons with watercolor fill,Paint medium
+785,Social,Charcoal social icons,Social icons in charcoal,Drawing medium
+786,Social,Ink social icons,Social icons in ink style,Ink medium
+787,Social,Woodcut social icons,Social icons in woodcut style,Relief printing
+788,Social,Embroidered social icons,Social icons with embroidered look,Needlework
+789,Social,Clay social buttons,Social buttons styled as clay,Pottery
+790,Social,Paper cut social icons,Social icons as paper cutouts,Paper craft
+791,Social,Hand-lettered share text,Share text in hand-lettered style,Calligraphy
+792,Social,Torn paper share buttons,Share buttons on torn paper,Physical paper
+793,Social,Notebook social icons,Social icons as notebook doodles,Study aesthetic
+794,Social,Chalk social icons,Social icons in chalk style,Chalkboard
+795,Social,Neon social icons,Social icons as neon signs,Sign making
+796,Social,Paint stroke social icons,Social icons as paint strokes,Painterly
+797,Social,Marker social icons,Social icons as marker drawings,Everyday tool
+798,Social,Crayon social icons,Social icons as crayon drawings,Childhood craft
+799,Social,Pencil social icons,Social icons as pencil sketches,Drawing tool
+800,Social,Stamp collection social,Social icons as stamp collection,Philately
+801,Onboarding,Hand-drawn onboarding steps,Onboarding with hand-drawn illustrations,Sketchy guide
+802,Onboarding,Sketchy tutorial steps,Tutorial steps with sketchy illustrations,Design process
+803,Onboarding,Handwritten onboarding text,Onboarding text in handwriting,Personal guide
+804,Onboarding,Watercolor onboarding,Onboarding with watercolor illustrations,Paint medium
+805,Onboarding,Charcoal onboarding,Onboarding with charcoal illustrations,Drawing medium
+806,Onboarding,Ink onboarding,Onboarding with ink illustrations,Ink medium
+807,Onboarding,Woodcut onboarding,Onboarding with woodcut illustrations,Relief printing
+808,Onboarding,Embroidery onboarding,Onboarding with embroidered illustrations,Needlework
+809,Onboarding,Clay onboarding,Onboarding with clay illustrations,Pottery
+810,Onboarding,Paper cut onboarding,Onboarding with paper cut illustrations,Paper craft
+811,Onboarding,Notebook onboarding,Onboarding styled as notebook guide,Study aesthetic
+812,Onboarding,Blueprint onboarding,Onboarding styled as blueprint guide,Technical drawing
+813,Onboarding,Chalkboard onboarding,Onboarding styled as chalkboard lesson,Chalkboard
+814,Onboarding,Stamp onboarding,Onboarding with stamp illustrations,Stamping
+815,Onboarding,Torn paper onboarding,Onboarding on torn paper aesthetic,Physical paper
+816,Onboarding,Paint onboarding,Onboarding with paint illustrations,Painterly
+817,Onboarding,Marker onboarding,Onboarding with marker illustrations,Everyday tool
+818,Onboarding,Crayon onboarding,Onboarding with crayon illustrations,Childhood craft
+819,Onboarding,Pencil onboarding,Onboarding with pencil illustrations,Drawing tool
+820,Onboarding,Origami onboarding,Onboarding with origami illustrations,Origami
+821,Accessibility,Hand-drawn focus rings,Focus indicators hand-drawn,Sketchy focus
+822,Accessibility,High contrast hand-drawn,High contrast mode with hand-drawn elements,Accessible craft
+823,Accessibility,Sketchy aria labels,Aria labels styled as handwritten notes,Accessible annotation
+824,Accessibility,Hand-drawn skip links,Skip navigation links hand-drawn,Sketchy navigation
+825,Accessibility,Watercolor focus state,Focus state with watercolor highlight,Paint medium
+826,Accessibility,Charcoal focus state,Focus state with charcoal highlight,Drawing medium
+827,Accessibility,Ink focus state,Focus state with ink highlight,Ink medium
+828,Accessibility,Stamp focus indicator,Focus indicator styled as stamp,Stamping
+829,Accessibility,Handwritten alt text,Alt text display in handwriting style,Accessible description
+830,Accessibility,Sketchy error indicators,Error indicators hand-drawn,Sketchy warning
+831,Accessibility,Hand-drawn progress indicator,Progress indicator hand-drawn,Sketchy progress
+832,Accessibility,Tactile visual cues,Visual cues that suggest tactile interaction,Tactile suggestion
+833,Accessibility,Hand-drawn breadcrumbs,Breadcrumb navigation hand-drawn,Sketchy path
+834,Accessibility,Sketchy form validation,Form validation with hand-drawn indicators,Sketchy feedback
+835,Accessibility,Handwritten instructions,Instructions in handwriting style,Personal guidance
+836,Accessibility,Stamp required fields,Required field indicators as stamps,Stamping
+837,Accessibility,Watercolor active state,Active state with watercolor highlight,Paint medium
+838,Accessibility,Charcoal visited state,Visited state with charcoal mark,Drawing medium
+839,Accessibility,Ink hover indicator,Hover indicator with ink effect,Ink medium
+840,Accessibility,Hand-drawn keyboard hints,Keyboard shortcut hints hand-drawn,Sketchy hints
+841,Organic Shape,Hand-drawn blob shapes,Blob shapes with hand-drawn quality,Organic drawing
+842,Organic Shape,Watercolor blob,Shapes with watercolor fill and bleed,Paint medium
+843,Organic Shape,Ink wash blob,Shapes with ink wash texture,Ink medium
+844,Organic Shape,Charcoal blob,Shapes with charcoal texture,Drawing medium
+845,Organic Shape,Paint stroke shape,Shapes made from visible paint strokes,Painterly
+846,Organic Shape,Clay blob shape,Shapes styled as molded clay,Pottery
+847,Organic Shape,Paper cut organic,Organic shapes as paper cutouts,Paper craft
+848,Organic Shape,Fabric organic shape,Organic shapes with fabric texture,Textile craft
+849,Organic Shape,Leather organic shape,Organic shapes with leather texture,Luxury craft
+850,Organic Shape,Wood organic shape,Organic shapes with wood grain,Woodworking
+851,Organic Shape,Stone organic shape,Organic shapes with stone texture,Geology
+852,Organic Shape,Ceramic organic shape,Organic shapes with ceramic appearance,Pottery
+853,Organic Shape,Metal organic shape,Organic shapes with metal texture,Metalwork
+854,Organic Shape,Glass organic shape,Organic shapes with glass appearance,Glass craft
+855,Organic Shape,Wax organic shape,Organic shapes with wax texture,Candle craft
+856,Organic Shape,Soap organic shape,Organic shapes with soap texture,Soap making
+857,Organic Shape,Dough organic shape,Organic shapes with dough texture,Baking
+858,Organic Shape,Cloud organic shape,Organic shapes with cloud texture,Atmospheric
+859,Organic Shape,Leaf organic shape,Organic shapes with leaf texture,Botanical
+860,Organic Shape,Petal organic shape,Organic shapes with petal texture,Floral
+861,Brutalist,Raw concrete elements,Elements with raw concrete texture,Brutalist material
+862,Brutalist,Exposed structure,Visible structural elements like beams and joints,Structural honesty
+863,Brutalist,Monospace typography,Monospace fonts for raw technical feel,Technical aesthetic
+864,Brutalist,High contrast black white,Stark black and white contrast,Graphic boldness
+865,Brutalist,Intentional misalignment,Elements deliberately misaligned,Anti-perfection
+866,Brutalist,Visible grid lines,Grid lines left visible as design element,Process exposure
+867,Brutalist,Raw HTML aesthetic,Design that looks like raw HTML,Code honesty
+868,Brutalist,System font usage,Using system default fonts intentionally,Anti-design
+869,Brutalist,Default browser elements,Styled default browser elements,Raw aesthetic
+870,Brutalist,Intentional overflow,Content intentionally overflowing boundaries,Rule breaking
+871,Brutalist,Harsh shadows,Harsh unblurred shadows,Graphic boldness
+872,Brutalist,Bold borders,Thick bold borders around elements,Graphic weight
+873,Brutalist,Clashing colors,Intentionally clashing color combinations,Anti-harmony
+874,Brutalist,Asymmetric chaos,Deliberately chaotic asymmetric layout,Controlled chaos
+875,Brutalist,Raw photography,Unedited raw photography,Authentic imagery
+876,Brutalist,Typographic aggression,Aggressive oversized typography,Visual impact
+877,Brutalist,Visible scrollbars,Scrollbars left visible and styled,Functional honesty
+878,Brutalist,Default cursor,Intentionally using default cursor,Anti-polish
+879,Brutalist,Hard edges,Sharp unrounded edges everywhere,Geometric rawness
+880,Brutalist,No transitions,Absence of smooth transitions,Immediate response
+881,Craft Material,Thread and stitching,Visible thread and stitching on elements,Sewing craft
+882,Craft Material,Embroidery details,Embroidered details on UI elements,Needlework
+883,Craft Material,Knitting patterns,Knitted texture patterns on elements,Knitting
+884,Craft Material,Weaving texture,Woven texture on UI surfaces,Textile weaving
+885,Craft Material,Paper folding,Origami and paper fold effects,Paper craft
+886,Craft Material,Paper cutting,Layered paper cutout effects,Paper craft
+887,Craft Material,Wood carving,Carved wood texture and effects,Woodworking
+888,Craft Material,Clay and pottery,Clay and ceramic textures,Pottery
+889,Craft Material,Metal forging,Forged metal texture and effects,Blacksmith
+890,Craft Material,Glass blowing,Blown glass texture and effects,Glass craft
+891,Craft Material,Leather working,Leather texture and tooling,Luxury craft
+892,Craft Material,Stone carving,Carved stone texture and effects,Masonry
+893,Craft Material,Wax and candle,Wax texture and drip effects,Candle craft
+894,Craft Material,Soap carving,Carved soap texture and effects,Soap craft
+895,Craft Material,Bread and baking,Bread crust and baking textures,Baking
+896,Craft Material,Ceramic glaze,Ceramic glaze texture and effects,Pottery
+897,Craft Material,Mosaic tile,Mosaic tile patterns and effects,Mosaic art
+898,Craft Material,Stained glass,Stained glass texture and effects,Glass craft
+899,Craft Material,Macrame,Macrame knot patterns and texture,Knot craft
+900,Craft Material,Basket weaving,Basket weave patterns and texture,Basket craft
+901,Imperfection,Intentional wobble,Elements with intentional wobble,Hand-drawn feel
+902,Imperfection,Rough edges,Elements with rough unfinished edges,Hand-finished
+903,Imperfection,Visible seams,Visible construction seams,Assembly honesty
+904,Imperfection,Misregistration,Intentional color misregistration,Print process
+905,Imperfection,Inconsistent spacing,Intentionally inconsistent spacing,Human rhythm
+906,Imperfection,Visible construction lines,Construction lines left visible,Design process
+907,Imperfection,Hand-drawn grid,Grid lines that look hand-drawn,Manual layout
+908,Imperfection,Asymmetric elements,Deliberately asymmetric elements,Human balance
+909,Imperfection,Varied line weights,Lines with varying thickness,Hand-drawn quality
+910,Imperfection,Intentional smudges,Intentional smudge marks,Physical interaction
+911,Imperfection,Hand-cut appearance,Elements that look hand-cut,Scissor craft
+912,Imperfection,Uneven fills,Fills with uneven coverage,Hand application
+913,Imperfection,Visible brush strokes,Visible paint brush strokes,Painterly
+914,Imperfection,Ink splatter,Intentional ink splatter marks,Ink medium
+915,Imperfection,Pencil marks,Visible pencil construction marks,Drawing process
+916,Imperfection,Eraser marks,Visible eraser marks,Correction process
+917,Imperfection,Fingerprints,Intentional fingerprint marks,Physical handling
+918,Imperfection,Wear and tear,Intentional wear and tear effects,Usage history
+919,Imperfection,Aging effects,Intentional aging and patina,Time passage
+920,Imperfection,Repair marks,Visible repair and mending marks,Kintsugi philosophy
+921,Sound Design,Hand-drawn sound visualization,Sound visualized as hand-drawn waves,Sketchy audio
+922,Sound Design,Typewriter key sounds,Typewriter key click sounds,Typing craft
+923,Sound Design,Paper rustle sounds,Paper rustling interaction sounds,Physical paper
+924,Sound Design,Pencil scratching sounds,Pencil on paper sounds,Drawing sound
+925,Sound Design,Paint brush sounds,Brush on canvas sounds,Painting sound
+926,Sound Design,Stamp thud sounds,Rubber stamp impression sounds,Stamping sound
+927,Sound Design,Chalk on board sounds,Chalk on chalkboard sounds,Chalk drawing
+928,Sound Design,Scissors cutting sounds,Scissors cutting paper sounds,Scissor craft
+929,Sound Design,Sewing machine sounds,Sewing machine interaction sounds,Needlework
+930,Sound Design,Wood carving sounds,Chisel on wood sounds,Wood carving
+931,Sound Design,Clay shaping sounds,Hands on clay sounds,Pottery
+932,Sound Design,Metal hammering sounds,Hammer on metal sounds,Blacksmith
+933,Sound Design,Page turning sounds,Book page turning sounds,Reading
+934,Sound Design,Ink pen scratching,Fountain pen on paper sounds,Writing
+935,Sound Design,Wax seal pressing,Wax seal pressing sounds,Traditional craft
+936,Sound Design,Origami folding sounds,Paper folding sounds,Origami
+937,Sound Design,Weaving loom sounds,Loom weaving sounds,Textile craft
+938,Sound Design,Pottery wheel sounds,Pottery wheel spinning sounds,Pottery
+939,Sound Design,Watercolor brush sounds,Wet brush on paper sounds,Painting
+940,Sound Design,Charcoal drawing sounds,Charcoal on paper sounds,Drawing
+941,Spacing,Hand-measured spacing,Spacing that feels hand-measured not calculated,Human measurement
+942,Spacing,Organic rhythm spacing,Spacing with organic not mathematical rhythm,Natural pacing
+943,Spacing,Intentional crowding,Dense areas creating visual tension,Human composition
+944,Spacing,Breathing room pauses,Generous pauses between content sections,Thoughtful pause
+945,Spacing,Varied vertical rhythm,Inconsistent but intentional vertical spacing,Human rhythm
+946,Spacing,Asymmetric margins,Intentionally asymmetric margins,Human balance
+947,Spacing,Hand-placed gaps,Gaps that look manually placed,Human placement
+948,Spacing,Notebook margin spacing,Spacing mimicking notebook margins,Study aesthetic
+949,Spacing,Collage spacing,Spacing mimicking physical collage assembly,Physical assembly
+950,Spacing,Gallery wall spacing,Spacing mimicking gallery wall arrangement,Curated display
+951,Border,Hand-drawn border,Borders that look drawn with pen or brush,Manual drawing
+952,Border,Rough-cut border,Borders with rough hand-cut edges,Scissor craft
+953,Border,Torn paper border,Borders with torn paper edges,Physical tearing
+954,Border,Stitched border,Borders with visible stitching,Sewing craft
+955,Border,Stamp border,Borders with rubber stamp effect,Stamping
+956,Border,Ink wash border,Borders with ink wash texture,Ink medium
+957,Border,Watercolor border,Borders with watercolor wash,Paint medium
+958,Border,Charcoal border,Borders with charcoal texture,Drawing medium
+959,Border,Embroidered border,Borders with embroidered appearance,Needlework
+960,Border,Woodcut border,Borders in woodcut style,Relief printing
+961,Border,Brush stroke border,Borders with visible brush strokes,Painting
+962,Border,Pencil sketch border,Borders sketched in pencil,Drawing tool
+963,Border,Marker border,Borders drawn with marker pen,Everyday tool
+964,Border,Crayon border,Borders drawn in crayon,Childhood craft
+965,Border,Chalk border,Borders drawn in chalk,Chalkboard
+966,Border,Neon tube border,Borders styled as neon tubes,Sign making
+967,Border,Wax seal border,Borders with wax seal accents,Traditional craft
+968,Border,Thread border,Borders with visible thread,Sewing
+969,Border,Carved wood border,Borders styled as carved wood,Wood carving
+970,Border,Metal etched border,Borders with metal etched appearance,Metalwork
+971,Shadow,Hand-drawn shadow,Shadows that look hand-drawn,Sketchy shadow
+972,Shadow,Organic shadow shape,Shadows with organic irregular shapes,Natural shadow
+973,Shadow,Multiple shadow layers,Multiple offset shadows creating depth,Physical layering
+974,Shadow,Colored shadows,Shadows with color not just gray,Colored light
+975,Shadow,Watercolor shadow,Shadows with watercolor texture,Paint medium
+976,Shadow,Ink wash shadow,Shadows with ink wash texture,Ink medium
+977,Shadow,Charcoal shadow,Shadows with charcoal texture,Drawing medium
+978,Shadow,Paint shadow,Shadows with visible paint texture,Painterly
+979,Shadow,Pencil shadow,Shadows sketched in pencil,Drawing tool
+980,Shadow,Stamp shadow,Shadows with stamp impression effect,Stamping
+981,Shadow,Torn paper shadow,Shadows with torn paper edges,Physical paper
+982,Shadow,Embroidered shadow,Shadows with embroidered texture,Needlework
+983,Shadow,Woodcut shadow,Shadows in woodcut style,Relief printing
+984,Shadow,Clay shadow,Shadows styled as clay forms,Pottery
+985,Shadow,Paper cut shadow,Shadows styled as paper cutout layers,Paper craft
+986,Shadow,Neon glow shadow,Shadows with neon glow effect,Sign making
+987,Shadow,Candlelight shadow,Shadows mimicking candlelight,Warm light
+988,Shadow,Firelight shadow,Shadows mimicking firelight,Flickering light
+989,Shadow,Sunlight shadow,Shadows mimicking natural sunlight,Natural light
+990,Shadow,Moonlight shadow,Shadows mimicking moonlight,Night light
+991,Feedback,Hand-drawn success check,Success feedback with hand-drawn check,Sketchy approval
+992,Feedback,Stamp approval feedback,Feedback styled as approved stamp,Stamping
+993,Feedback,Handwritten feedback,Feedback messages in handwriting,Personal response
+994,Feedback,Red pen correction feedback,Feedback styled as red pen correction,Teacher feedback
+995,Feedback,Watercolor success feedback,Success with watercolor bloom,Paint medium
+996,Feedback,Ink stamp feedback,Feedback with ink stamp effect,Stamping
+997,Feedback,Charcoal error feedback,Error with charcoal smudge,Drawing medium
+998,Feedback,Sketchy loading feedback,Loading with sketch animation,Active drawing
+999,Feedback,Paint splash feedback,Feedback with paint splash effect,Painterly
+1000,Feedback,Embroidered completion,Completion feedback with embroidered check,Needlework
