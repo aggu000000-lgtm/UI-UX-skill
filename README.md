@@ -46,7 +46,33 @@ The AI pushes back because correctness matters more than making you feel good. T
 
 ## Quick Start
 
-### Option A: AI Editors (Cursor, Windsurf, Claude Code)
+### Option 1: npx skills (Recommended)
+
+Install all skills to your project with one command:
+
+```bash
+npx skills add aggu000000-lgtm/UI-UX-skills
+```
+
+Install specific skills:
+
+```bash
+npx skills add aggu000000-lgtm/UI-UX-skills --skill ui-ux-skill --skill design-choreography
+```
+
+Install globally:
+
+```bash
+npx skills add aggu000000-lgtm/UI-UX-skills --global -y
+```
+
+List available skills:
+
+```bash
+npx skills add aggu000000-lgtm/UI-UX-skills --list
+```
+
+### Option 2: AI Editors (Cursor, Windsurf, Claude Code)
 
 Place `SKILL.md` in your project root or `.claude/skills/` and reference it:
 
@@ -54,11 +80,11 @@ Place `SKILL.md` in your project root or `.claude/skills/` and reference it:
 @SKILL.md
 ```
 
-### Option B: Chat-based AI
+### Option 3: Chat-based AI
 
 Paste the contents of `SKILL.md` at the start of your conversation, then describe your UI task.
 
-### Option C: API Integration
+### Option 4: API Integration
 
 Include `SKILL.md` as a system prompt when calling LLM APIs for UI generation tasks.
 
@@ -81,14 +107,14 @@ Include `SKILL.md` as a system prompt when calling LLM APIs for UI generation ta
 
 | File | Purpose |
 |------|---------|
-| [`references/accessibility-checklist.md`](references/accessibility-checklist.md) | Complete WCAG 2.1 AA 2026 checklist (50 checks) |
-| [`references/performance-budgets.md`](references/performance-budgets.md) | Core Web Vitals thresholds and optimization strategies |
-| [`references/typography-scale.md`](references/typography-scale.md) | Type scale systems, fluid typography, font loading |
-| [`references/color-systems.md`](references/color-systems.md) | Palette construction, contrast math, dark mode |
-| [`references/interaction-physics.md`](references/interaction-physics.md) | Easing curves, spring animations, scroll-driven motion |
-| [`references/responsive-engineering.md`](references/responsive-engineering.md) | Breakpoints, fluid layouts, container queries |
-| [`references/design-tokens.md`](references/design-tokens.md) | Token architecture, component API, naming conventions |
-| [`references/industry-benchmarks.md`](references/industry-benchmarks.md) | Engineering pattern breakdowns for Linear, Stripe, Apple, and more |
+| [`skills/web-dev-frontend-skill/references/accessibility-checklist.md`](skills/web-dev-frontend-skill/references/accessibility-checklist.md) | Complete WCAG 2.1 AA 2026 checklist (50 checks) |
+| [`skills/web-dev-frontend-skill/references/performance-budgets.md`](skills/web-dev-frontend-skill/references/performance-budgets.md) | Core Web Vitals thresholds and optimization strategies |
+| [`skills/web-dev-frontend-skill/references/typography-scale.md`](skills/web-dev-frontend-skill/references/typography-scale.md) | Type scale systems, fluid typography, font loading |
+| [`skills/web-dev-frontend-skill/references/color-systems.md`](skills/web-dev-frontend-skill/references/color-systems.md) | Palette construction, contrast math, dark mode |
+| [`skills/web-dev-frontend-skill/references/interaction-physics.md`](skills/web-dev-frontend-skill/references/interaction-physics.md) | Easing curves, spring animations, scroll-driven motion |
+| [`skills/web-dev-frontend-skill/references/responsive-engineering.md`](skills/web-dev-frontend-skill/references/responsive-engineering.md) | Breakpoints, fluid layouts, container queries |
+| [`skills/web-dev-frontend-skill/references/design-tokens.md`](skills/web-dev-frontend-skill/references/design-tokens.md) | Token architecture, component API, naming conventions |
+| [`skills/web-dev-frontend-skill/references/industry-benchmarks.md`](skills/web-dev-frontend-skill/references/industry-benchmarks.md) | Engineering pattern breakdowns for Linear, Stripe, Apple, and more |
 
 ## Industry Benchmarks
 
@@ -182,7 +208,7 @@ All three skills coordinate — engineering ensures it's built correctly, choreo
 
 | File | Purpose |
 |------|---------|
-| [`design-skill/references/choreography-patterns.md`](design-skill/references/choreography-patterns.md) | Complete specs for cascade, converge, diverge, wave, stack, unfold patterns |
-| [`design-skill/references/motion-timing-scale.md`](design-skill/references/motion-timing-scale.md) | Mathematical timing system, easing curves, spring physics per personality |
-| [`design-skill/references/prompt-interpretation-guide.md`](design-skill/references/prompt-interpretation-guide.md) | How to decompose vague prompts into design briefs with examples |
-| [`design-skill/references/design-persona-tones.md`](design-skill/references/design-persona-tones.md) | Tone guidelines with good/bad examples, vocabulary guide |
+| [`skills/design-skill/references/choreography-patterns.md`](skills/design-skill/references/choreography-patterns.md) | Complete specs for cascade, converge, diverge, wave, stack, unfold patterns |
+| [`skills/design-skill/references/motion-timing-scale.md`](skills/design-skill/references/motion-timing-scale.md) | Mathematical timing system, easing curves, spring physics per personality |
+| [`skills/design-skill/references/prompt-interpretation-guide.md`](skills/design-skill/references/prompt-interpretation-guide.md) | How to decompose vague prompts into design briefs with examples |
+| [`skills/design-skill/references/design-persona-tones.md`](skills/design-skill/references/design-persona-tones.md) | Tone guidelines with good/bad examples, vocabulary guide |
