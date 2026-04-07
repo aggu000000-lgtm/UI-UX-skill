@@ -318,3 +318,4 @@ Your role in cinematic projects:
 - Design data structures that enable the frontend's choreography (proper pagination for staggered reveals, real-time endpoints for pulse-motion dashboards, progress endpoints for dopamine mapping)
 - Support the frontend's performance budgets with efficient queries, caching, and response optimization
 - When the frontend uses scroll-driven or real-time experiences, ensure the backend can handle the increased request patterns
+- Support the frontend's human-made design requirements by serving font files efficiently, caching texture assets, and optimizing image delivery for human-crafted visual elements

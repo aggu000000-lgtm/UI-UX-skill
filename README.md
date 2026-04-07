@@ -41,6 +41,9 @@
 | **⚡ Performance Budgets** | Core Web Vitals targets enforced — LCP < 2.5s, INP < 200ms, CLS < 0.1 — verified before shipping |
 | **🔒 Security-First Backend** | OWASP Top 10, parameterized queries, argon2id, JWT rotation, CORS whitelisting, secrets management |
 | **👤 Human Touch Protocol** | Anti-AI patterns — asymmetric layouts, organic data, brand-specific motion, unexpected interactions, texture and imperfection |
+| **📝 1000 Human-Made Design Elements** | Exhaustive CSV of handcrafted design patterns across 50+ categories — typography, texture, color, layout, micro-interactions, illustration, and more |
+| **🔤 1000 Underrated Google Fonts** | Curated font database with use cases, mood profiles, AI-avoidance reasons, and pairing suggestions — zero Inter/Poppins/Roboto defaults |
+| **🎬 MotionSites.ai Choreography Bible** | Complete analysis of MotionSites.ai hero section patterns — timing values, easing curves, prompt templates, and anti-AI detection checklist |
 
 ---
 
@@ -139,6 +142,18 @@ Before writing any code, the skill enforces:
 4. **SELECT** — Choose the single best path. State it. State why it wins. No alternatives.
 5. **VERIFY DOCS** — Check the latest official documentation. Current year is 2026.
 6. **EXECUTE** — Write production-ready code immediately.
+
+### Triple-Reference Compliance Protocol
+
+Before outputting ANY design, frontend, or animation code, you MUST cross-reference ALL THREE resources:
+
+1. **1000-human-made-design-elements.csv** — Does this design element feel handcrafted? Which CSV entry does it match?
+2. **1000-underrated-google-fonts.csv** — Is this font from the CSV? Why was it chosen over AI defaults?
+3. **motionsites-analysis.md** — Does this animation follow proven choreography patterns? Are timing values correct?
+
+If any of the three checks fails, STOP. Fix it. Then proceed.
+
+**NO EXCEPTIONS. NO SHORTCUTS. ALL THREE REFERENCES. EVERY TIME.**
 
 ### Self-Verification & Accountability Protocol
 
@@ -338,6 +353,14 @@ Before declaring any task complete, the AI verifies:
 | [`skills/web-dev-backend-skill/references/testing-strategy.md`](skills/web-dev-backend-skill/references/testing-strategy.md) | Unit, integration, E2E, contract, load, and security testing |
 | [`skills/web-dev-backend-skill/references/deployment-ops.md`](skills/web-dev-backend-skill/references/deployment-ops.md) | CI/CD, IaC, monitoring, alerting, incident response, disaster recovery |
 | [`skills/web-dev-backend-skill/references/data-modeling.md`](skills/web-dev-backend-skill/references/data-modeling.md) | Entity design, relationships, audit patterns, event sourcing, CQRS |
+
+### Human-Made Design References
+
+| File | Purpose |
+|------|---------|
+| [`1000-human-made-design-elements.csv`](1000-human-made-design-elements.csv) | 1000 handcrafted design elements across 50+ categories — typography, texture, color, layout, micro-interactions, illustration, UI components, navigation, scroll effects, hover states, loading states, form design, buttons, cards, headers, footers, backgrounds, patterns, icons, animations, cursors, transitions, empty/error/success states, tooltips, modals, menus, pagination, search, filters, tags, badges, progress, charts, tables, avatars, social, onboarding, accessibility, organic shapes, brutalist, craft materials, imperfection, sound design, spacing, borders, shadows, feedback |
+| [`1000-underrated-google-fonts.csv`](1000-underrated-google-fonts.csv) | 1000 real Google Fonts AI rarely uses — with classification, use case, mood/personality, why AI avoids it, when to use, and pairing suggestions |
+| [`skills/design-skill/references/motionsites-analysis.md`](skills/design-skill/references/motionsites-analysis.md) | Complete MotionSites.ai analysis — prompt structure anatomy, 15+ animation patterns, timing values table, custom cubic-bezier easing curves, choreography rules, human-feel motion principles, prompt templates, anti-AI detection checklist, implementation guides for GSAP/Framer Motion/CSS |
 
 ---
 

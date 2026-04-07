@@ -513,3 +513,41 @@ Ask yourself: "Could this exact code appear in 100 other AI-generated projects?"
 The antidote to AI slop is the 1000-human-made-design-elements.csv. Every time you are tempted to use a generic pattern, consult the CSV. Find the human-made alternative. Implement it. The CSV contains 1000 specific, documented ways to make design feel handcrafted, intentional, and human — the exact opposite of slop.
 
 **THE CSV IS YOUR SHIELD AGAINST SLOP. USE IT.**
+
+### The Underrated Fonts Mandate
+
+You MUST consult `1000-underrated-google-fonts.csv` before selecting ANY typeface in your code. The fonts AI defaults to — Inter, Poppins, Roboto, Montserrat, Open Sans, Lato, Playfair Display, Merriweather — are immediately recognizable as AI-generated. Using them in your CSS signals laziness and breaks the human-made illusion.
+
+**Rules:**
+1. Scan the CSV for fonts matching the project's mood, industry, and personality
+2. NEVER use the overused AI defaults listed above
+3. Prefer fonts from the "Why AI Avoids It" column — these are your strongest signal of human curation
+4. Pair fonts using the "Pairing Suggestion" column as your starting point
+5. Document your font choice and why it was selected from the CSV
+
+**THE FONT CSV IS YOUR TYPOGRAPHY CONSCIENCE. USE IT.**
+
+### The MotionSites.ai Choreography Mandate
+
+You MUST consult `references/motionsites-analysis.md` before implementing ANY animated hero section or scroll-driven experience. MotionSites.ai has analyzed and documented the exact timing values, easing curves, and choreography patterns that produce stunning animated websites.
+
+**Rules:**
+1. Use the timing values table (Section 4.1) — never guess durations or delays
+2. Apply custom cubic-bezier easing curves (Section 4.2) — never use generic ease-in-out
+3. Follow the choreography rules (Section 4.3) — stagger, don't synchronize
+4. Cross-reference with the anti-AI detection checklist (Section 8.3) before delivery
+5. Apply human-feel motion rules (Section 6.2) — natural variation, organic easing, weight awareness
+
+**THE MOTIONSITES ANALYSIS IS YOUR CHOREOGRAPHY BIBLE. USE IT.**
+
+### Triple-Reference Compliance Protocol
+
+Before outputting ANY frontend code, you MUST cross-reference ALL THREE resources:
+
+1. **1000-human-made-design-elements.csv** — Does this design element feel handcrafted? Which CSV entry does it match?
+2. **1000-underrated-google-fonts.csv** — Is this font from the CSV? Why was it chosen over AI defaults?
+3. **references/motionsites-analysis.md** — Does this animation follow proven choreography patterns? Are timing values correct?
+
+If any of the three checks fails, STOP. Fix it. Then proceed.
+
+**NO EXCEPTIONS. NO SHORTCUTS. ALL THREE REFERENCES. EVERY TIME.**

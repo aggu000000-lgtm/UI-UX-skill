@@ -1,0 +1,1004 @@
+ID,Font Name,Google Fonts URL,Classification,Use Case,Mood/Personality,Why AI Avoids It,When To Use,Pairing Suggestion
+1,Instrument Sans,https://fonts.google.com/specimen/Instrument+Sans,Sans Serif,Tech startup body text,Quiet confidence,Released 2023 too new for AI defaults,Modern SaaS landing pages,Instrument Serif
+2,Instrument Serif,https://fonts.google.com/specimen/Instrument+Serif,Serif,Editorial headlines,Elegant authority,Newer font not in AI training top picks,Luxury brand websites,Instrument Sans
+3,Bricolage Grotesque,https://fonts.google.com/specimen/Bricolage+Grotesque,Sans Serif,Creative agency display,Playful precision,Lower download count despite quality,Portfolio sites,Space Grotesk
+4,Fraunces,https://fonts.google.com/specimen/Fraunces,Serif,Artisan brand identity,Warm softness,Variable font complexity scares AI,Craft food brands,Literata
+5,Young Serif,https://fonts.google.com/specimen/Young+Serif,Serif,Literary blog body text,Classic warmth,Newer addition to Google Fonts,Author websites,Inter
+6,Red Rose,https://fonts.google.com/specimen/Red+Rose,Display,Romantic brand headers,Delicate beauty,Niche aesthetic not mainstream,Wedding planners,Cormorant
+7,Aboreto,https://fonts.google.com/specimen/Aboreto,Display,Luxury fashion headers,Geometric elegance,Unusual proportions confuse AI,High fashion brands,Tenor Sans
+8,Asul,https://fonts.google.com/specimen/Asul,Sans Serif,Minimalist tech UI,Clean neutrality,Low visibility despite quality,Dashboards,Newsreader
+9,Salsa,https://fonts.google.com/specimen/Salsa,Display,Latin brand identity,Rhythmic energy,Cultural specificity limits AI use,Hispanic brands,Work Sans
+10,Andika,https://fonts.google.com/specimen/Andika,Sans Serif,Education platform body,Accessible clarity,Designed for literacy not aesthetics,E-learning platforms,EB Garamond
+11,Marmelad,https://fonts.google.com/specimen/Marmelad,Sans Serif,Ukrainian brand identity,Gentle warmth,Cultural origin limits AI exposure,Eastern European brands,PT Serif
+12,Tenor Sans,https://fonts.google.com/specimen/Tenor+Sans,Sans Serif,Fashion editorial headers,Airy sophistication,Underused despite elegance,Lookbook sites,Cormorant Garamond
+13,Epilogue,https://fonts.google.com/specimen/Epilogue,Sans Serif,Modern corporate identity,Geometric warmth,Overlooked for Inter/Poppins,Tech company sites,Source Serif 4
+14,Outfit,https://fonts.google.com/specimen/Outfit,Sans Serif,Startup landing pages,Friendly geometry,Newer font not yet overused,SaaS products,Lora
+15,Plus Jakarta Sans,https://fonts.google.com/specimen/Plus+Jakarta+Sans,Sans Serif,Indonesian tech brand,Tropical modernism,Regional origin limits AI defaults,Southeast Asian brands,Playfair Display
+16,Mona Sans,https://fonts.google.com/specimen/Mona+Sans,Sans Serif,Design system typography,Swiss precision with warmth,GitHub font not widely known,Design tokens docs,Hubot Sans
+17,Hubot Sans,https://fonts.google.com/specimen/Hubot+Sans,Sans Serif,Developer tool UI,Friendly technicality,Robot-themed name deters AI,Dev tool interfaces,DM Serif Display
+18,Urbanist,https://fonts.google.com/specimen/Urbanist,Sans Serif,Urban lifestyle brand,Modern city energy,Growing popularity but not saturated,Streetwear brands,Newsreader
+19,Averia Serif Libre,https://fonts.google.com/specimen/Averia+Serif+Libre,Serif,Creative blog body text,Hand-drawn warmth,Unusual texture confuses AI,Art blogs,Questrial
+20,Besley,https://fonts.google.com/specimen/Besley,Serif,Modern editorial content,Contemporary serif elegance,Slab serif not AI default,Online magazines,Source Sans 3
+21,Trocchi,https://fonts.google.com/specimen/Trocchi,Serif,Vintage brand identity,Aged character,Older font overlooked by AI,Antique shops,Lato
+22,Old Standard TT,https://fonts.google.com/specimen/Old+Standard+TT,Serif,Academic journal headers,Scholarly authority,Academic niche limits AI use,Research publications,Source Sans 3
+23,Nanum Myeongjo,https://fonts.google.com/specimen/Nanum+Myeongjo,Serif,Korean brand identity,East Asian elegance,Cultural specificity limits AI,Korean cultural sites,Noto Sans KR
+24,Eczar,https://fonts.google.com/specimen/Eczar,Serif,Indian brand identity,Devanagari-influenced serif,Cultural origin limits AI use,South Asian brands,Rajdhani
+25,Inknut Antiqua,https://fonts.google.com/specimen/Inknut+Antiqua,Serif,Dark themed editorial,Dramatic gothic character,Unusual weight distribution,A dark mode sites,Space Grotesk
+26,BioRhyme,https://fonts.google.com/specimen/BioRhyme,Serif,Science publication headers,Technical authority,Narrow proportions not AI default,Research journals,Source Sans 3
+27,Archivo Narrow,https://fonts.google.com/specimen/Archivo+Narrow,Sans Serif,Data-dense interfaces,Condensed clarity,Condensed fonts rarely AI default,Dashboards with data,Spectral
+28,Proza Libre,https://fonts.google.com/specimen/Proza+Libre,Sans Serif,Dutch design portfolio,Humanist warmth,European origin limits AI use,Design portfolios,Merriweather
+29,Spectral,https://fonts.google.com/specimen/Spectral,Serif,Long-form reading content,Reading-optimized elegance,Designed for screens not print,E-book readers,IBM Plex Sans
+30,Chivo,https://fonts.google.com/specimen/Chivo,Sans Serif,Mexican government sites,Civic authority,Regional use limits AI exposure,Latin American institutions,Chivo Mono
+31,Neuton,https://fonts.google.com/specimen/Neuton,Serif,Personal blog body text,Gentle readability,Low profile despite quality,Personal websites,Ubuntu
+32,Cardo,https://fonts.google.com/specimen/Cardo,Serif,Classical studies content,Scholarly tradition,Academic niche limits AI use,Classics departments,Gentium Plus
+33,Rubik,https://fonts.google.com/specimen/Rubik,Sans Serif,Playful brand identity,Rounded friendliness,Associated with puzzle not design,Children's brands,Nunito
+34,Inconsolata,https://fonts.google.com/specimen/Inconsolata,Monospace,Code documentation,Technical clarity,Monospace rarely used for UI,Developer docs,Source Sans 3
+35,Raleway,https://fonts.google.com/specimen/Raleway,Sans Serif,Luxury brand headers,Elegant thin weights,Overused in 2010s now avoided by AI,Wedding sites,Crimson Text
+36,Merriweather,https://fonts.google.com/specimen/Merriweather,Serif,News site body text,Reading comfort,Common but not AI default anymore,News portals,Open Sans
+37,Space Grotesk,https://fonts.google.com/specimen/Space+Grotesk,Sans Serif,Space tech branding,Futuristic geometry,Space theme limits general use,Aerospace companies,Space Mono
+38,Syne,https://fonts.google.com/specimen/Syne,Sans Serif,Art gallery identity,Artistic distortion,Unusual proportions scare AI,Contemporary art sites,IBM Plex Serif
+39,Libre Franklin,https://fonts.google.com/specimen/Libre+Franklin,Sans Serif,Open source project UI,Neutral reliability,Open source association,FOSS projects,Libre Baskerville
+40,Cormorant,https://fonts.google.com/specimen/Cormorant,Serif,Poetry publication headers,Literary elegance,High contrast not AI default,Poetry sites,Work Sans
+41,Fira Sans,https://fonts.google.com/specimen/Fira+Sans,Sans Serif,Mozilla ecosystem UI,Technical warmth,Firefox association limits use,Open source projects,Fira Mono
+42,Alegreya Sans,https://fonts.google.com/specimen/Alegreya+Sans,Sans Serif,Humanist body text,Calligraphic warmth,Humanist style not AI default,Cultural sites,Alegreya
+43,Alegreya,https://fonts.google.com/specimen/Alegreya,Serif,Humanist serif content,Calligraphic serif elegance,Calligraphic origin limits AI,Humanities sites,Alegreya Sans
+44,Source Sans 3,https://fonts.google.com/specimen/Source+Sans+3,Sans Serif,Adobe ecosystem UI,Professional neutrality,Adobe association limits use,Corporate sites,Source Serif 4
+45,Source Serif 4,https://fonts.google.com/specimen/Source+Serif+4,Serif,Editorial body text,Editorial elegance,Adobe association limits use,News sites,Source Sans 3
+46,Manrope,https://fonts.google.com/specimen/Manrope,Sans Serif,Modern startup UI,Geometric clarity,Newer font not yet saturated,App landing pages,DM Serif Text
+47,Karla,https://fonts.google.com/specimen/Karla,Sans Serif,Grotesque body text,Grotesque warmth,Grotesque style not AI default,Design agencies,Lora
+48,PT Sans,https://fonts.google.com/specimen/PT+Sans,Sans Serif,Russian brand identity,Cyrillic-influenced design,Regional origin limits AI use,Russian language sites,PT Serif
+49,PT Serif,https://fonts.google.com/specimen/PT+Serif,Serif,Eastern European content,Transitional serif elegance,Regional use limits AI exposure,Eastern European sites,PT Sans
+50,Zilla Slab,https://fonts.google.com/specimen/Zilla+Slab,Serif,Mozilla brand content,Industrial slab warmth,Mozilla association limits use,Open source docs,Open Sans
+51,Overpass,https://fonts.google.com/specimen/Overpass,Sans Serif,Red Hat ecosystem UI,Highway sign clarity,Corporate association limits use,Enterprise software,Overpass Mono
+52,Josefin Sans,https://fonts.google.com/specimen/Josefin+Sans,Sans Serif,Geometric display headers,Vintage geometric charm,Geometric style not AI default,Retro brands,Josefin Slab
+53,Josefin Slab,https://fonts.google.com/specimen/Josefin+Slab,Serif,Geometric slab headers,Vintage slab character,Geometric slab rare in AI,Retro brands,Josefin Sans
+54,Gentium Plus,https://fonts.google.com/specimen/Gentium+Plus,Serif,Multilingual academic content,Linguistic versatility,Academic focus limits AI use,Language learning sites,Noto Sans
+55,Varela Round,https://fonts.google.com/specimen/Varela+Round,Sans Serif,Rounded friendly UI,Soft approachability,Rounded style not AI default,Health apps,Merriweather
+56,Rajdhani,https://fonts.google.com/specimen/Rajdhani,Sans Serif,Indian tech branding,Squared technicality,Indian origin limits AI use,Indian tech companies,Rajdhani
+57,Bitter,https://fonts.google.com/specimen/Bitter,Serif,Screen-optimized serif,Robust screen readability,Slab serif not AI default,E-reading apps,Open Sans
+58,Nunito Sans,https://fonts.google.com/specimen/Nunito+Sans,Sans Serif,Rounded body text,Soft friendliness,Rounded style not AI default,Wellness apps,Nunito
+59,Familjen Grotesk,https://fonts.google.com/specimen/Familjen+Grotesk,Sans Serif,Family brand identity,Warm grotesque character,Newer font not widely known,Family-oriented brands,Newsreader
+60,Azeret Mono,https://fonts.google.com/specimen/Azeret+Mono,Monospace,Modern code editor,Contemporary monospace clarity,Newer monospace not AI default,Dev tools,Inter
+61,Spartan,https://fonts.google.com/specimen/Spartan,Sans Serif,Bold brand identity,Strong geometric presence,Bold name deters subtle use,Fitness brands,DM Serif Display
+62,DM Serif Text,https://fonts.google.com/specimen/DM+Serif+Text,Serif,Body text serif,Readable serif warmth,DM family less known than others,Editorial sites,DM Sans
+63,DM Serif Display,https://fonts.google.com/specimen/DM+Serif+Display,Serif,Display serif headers,Elegant display serif,Display serif not AI default,Luxury brands,DM Sans
+64,Literata,https://fonts.google.com/specimen/Literata,Serif,E-book body text,Reading-optimized serif,Designed for Google Play Books,Reading apps,Roboto
+65,Newsreader,https://fonts.google.com/specimen/Newsreader,Serif,News publication body,Journalistic elegance,Newer serif not yet overused,News sites,Inter
+66,Roboto Serif,https://fonts.google.com/specimen/Roboto+Serif,Serif,Material Design serif,Material system warmth,Material association limits use,Android apps,Roboto
+67,Commissioner,https://fonts.google.com/specimen/Commissioner,Sans Serif,European institution UI,Civic clarity,EU commission origin limits AI,Government sites,Mulish
+68,Mulish,https://fonts.google.com/specimen/Mulish,Sans Serif,Startup body text,Clean approachability,Rebranded from Muli confuses AI,SaaS products,Merriweather
+69,Barlow,https://fonts.google.com/specimen/Barlow,Sans Serif,Condensed UI text,Condensed clarity,Condensed style not AI default,Data tables,Barlow Condensed
+70,Barlow Condensed,https://fonts.google.com/specimen/Barlow+Condensed,Sans Serif,Narrow interface text,Space-efficient clarity,Condensed fonts rarely AI default,Dashboards,Barlow
+71,Pathway Gothic One,https://fonts.google.com/specimen/Pathway+Gothic+One,Sans Serif,Gothic display headers,Narrow gothic character,Single weight limits AI use,Poster designs,Open Sans
+72,Fjalla One,https://fonts.google.com/specimen/Fjalla+One,Sans Serif,Condensed display headers,Strong condensed presence,Single weight limits AI use,Headline designs,Merriweather
+73,Oswald,https://fonts.google.com/specimen/Oswald,Sans Serif,Condensed brand headers,Industrial condensed strength,Common but not AI default anymore,News headers,Merriweather
+74,Abril Fatface,https://fonts.google.com/specimen/Abril+Fatface,Display,Display poster headers,Dramatic high contrast,Single weight limits AI use,Poster designs,Open Sans
+75,Rozha One,https://fonts.google.com/specimen/Rozha+One,Serif,Indian display serif,High contrast Indian serif,Cultural origin limits AI use,South Asian brands,Lato
+76,Ultra,https://fonts.google.com/specimen/Ultra,Serif,Bold slab display headers,Heavy slab presence,Slab serif not AI default,Western brands,Open Sans
+77,UnifrakturMaguntia,https://fonts.google.com/specimen/UnifrakturMaguntia,Display,Blackletter headers,German blackletter tradition,Cultural specificity limits AI use,German heritage sites,Lato
+78,UnifrakturCook,https://fonts.google.com/specimen/UnifrakturCook,Display,Blackletter display,Historical blackletter character,Cultural niche limits AI use,Historical sites,Open Sans
+79,Pirata One,https://fonts.google.com/specimen/Pirata+One,Display,Pirate themed headers,Playful blackletter character,Themed font limits general use,Themed websites,Lato
+80,New Rocker,https://fonts.google.com/specimen/New+Rocker,Display,Rock poster headers,Rock and roll energy,Themed font limits general use,Music event sites,Open Sans
+81,Germania One,https://fonts.google.com/specimen/Germania+One,Display,Germanic display headers,Germanic blackletter warmth,Cultural specificity limits AI use,German cultural sites,Lato
+82,Fruktur,https://fonts.google.com/specimen/Fruktur,Display,Playful brand headers,Bubbly rounded character,Unusual proportions scare AI,Children brands,Open Sans
+83,Tangerine,https://fonts.google.com/specimen/Tangerine,Script,Elegant script headers,Flowing script elegance,Script fonts rarely AI default,Wedding sites,Dancing Script
+84,Dancing Script,https://fonts.google.com/specimen/Dancing+Script,Script,Casual script headers,Playful script energy,Script fonts rarely AI default,Personal blogs,Open Sans
+85,Bad Script,https://fonts.google.com/specimen/Bad+Script,Script,Casual handwritten headers,Russian handwritten character,Cultural origin limits AI use,Russian personal sites,Open Sans
+86,Sacramento,https://fonts.google.com/specimen/Sacramento,Script,Monoline script headers,Clean monoline script,Monoline style not AI default,Elegant brands,Open Sans
+87,La Belle Aurore,https://fonts.google.com/specimen/La+Belle+Aurore,Script,French handwritten headers,French handwriting charm,Cultural specificity limits AI use,French brands,Lato
+88,Felipa,https://fonts.google.com/specimen/Felipa,Script,Calligraphic script headers,Calligraphic script elegance,Calligraphic style not AI default,Luxury brands,Open Sans
+89,Great Vibes,https://fonts.google.com/specimen/Great+Vibes,Script,Formal script headers,Formal script grandeur,Script fonts rarely AI default,Invitation sites,Open Sans
+90,Pinyon Script,https://fonts.google.com/specimen/Pinyon+Script,Script,Romantic script headers,Romantic script elegance,Romantic style limits general use,Romance brands,Lato
+91,Alex Brush,https://fonts.google.com/specimen/Alex+Brush,Script,Brush script headers,Brush script fluidity,Brush style not AI default,Art brands,Open Sans
+92,Oregano,https://fonts.google.com/specimen/Oregano,Script,Decorative script headers,Decorative script charm,Decorative style limits general use,Culinary brands,Lato
+93,Birthstone,https://fonts.google.com/specimen/Birthstone,Script,Elegant script headers,Elegant script sophistication,Elegant style not AI default,Luxury brands,Open Sans
+94,Birthstone Bounce,https://fonts.google.com/specimen/Birthstone+Bounce,Script,Playful script headers,Playful script bounce,Playful style limits formal use,Casual brands,Lato
+95,Playwrite,https://fonts.google.com/specimen/Playwrite,Script,Handwriting simulation,Authentic handwriting character,Handwriting fonts rarely AI default,Personal sites,Inter
+96,Borel,https://fonts.google.com/specimen/Borel,Script,Narrow script headers,Narrow script elegance,Narrow proportions not AI default,Fashion brands,Open Sans
+97,Smooch,https://fonts.google.com/specimen/Smooch,Script,Romantic script headers,Romantic script warmth,Romantic style limits general use,Wedding sites,Lato
+98,Kablamo,https://fonts.google.com/specimen/Kablamo,Display,Comic book headers,Comic book energy,Themed font limits general use,Comic sites,Open Sans
+99,Spicy Rice,https://fonts.google.com/specimen/Spicy+Rice,Display,Spicy brand headers,Spicy playful character,Themed font limits general use,Food brands,Lato
+100,Silkscreen,https://fonts.google.com/specimen/Silkscreen,Monospace,Pixel art headers,Pixel art nostalgia,Pixel style not AI default,Retro gaming sites,Inter
+101,Slackey,https://fonts.google.com/specimen/Slackey,Display,Casual display headers,Casual relaxed character,Casual style limits formal use,Casual brands,Open Sans
+102,Mouse Memoirs,https://fonts.google.com/specimen/Mouse+Memoirs,Sans Serif,Condensed cute headers,Cute condensed character,Cute style limits professional use,Children sites,Lato
+103,Playwrite MX Guides,https://fonts.google.com/specimen/Playwrite+MX+Guides,Script,Mexican handwriting simulation,Mexican handwriting character,Cultural specificity limits AI use,Mexican brands,Inter
+104,Moo Lah Lah,https://fonts.google.com/specimen/Moo+Lah+Lah,Display,Playful display headers,Playful cow-themed character,Themed font limits general use,Farm brands,Open Sans
+105,Fontdiner Swanky,https://fonts.google.com/specimen/Fontdiner+Swanky,Display,Retro diner headers,Retro diner nostalgia,Themed font limits general use,Diner sites,Lato
+106,IBM Plex Mono,https://fonts.google.com/specimen/IBM+Plex+Mono,Monospace,Technical documentation,Technical monospace clarity,Monospace rarely used for UI,Technical docs,IBM Plex Sans
+107,Space Mono,https://fonts.google.com/specimen/Space+Mono,Monospace,Space-themed code display,Futuristic monospace character,Themed monospace limits general use,Space tech sites,Space Grotesk
+108,DM Mono,https://fonts.google.com/specimen/DM+Mono,Monospace,Modern code display,Contemporary monospace clarity,DM family less known than others,Dev tools,DM Sans
+109,JetBrains Mono,https://fonts.google.com/specimen/JetBrains+Mono,Monospace,IDE code display,Developer-optimized clarity,IDE association limits general use,Developer tools,Inter
+110,IBM Plex Sans,https://fonts.google.com/specimen/IBM+Plex+Sans,Sans Serif,Corporate UI text,Corporate technical warmth,IBM association limits use,Enterprise software,IBM Plex Serif
+111,IBM Plex Serif,https://fonts.google.com/specimen/IBM+Plex+Serif,Serif,Corporate editorial content,Corporate editorial elegance,IBM association limits use,Enterprise blogs,IBM Plex Sans
+112,Fira Mono,https://fonts.google.com/specimen/Fira+Mono,Monospace,Mozilla code display,Open source monospace clarity,Mozilla association limits use,Open source projects,Fira Sans
+113,Chivo Mono,https://fonts.google.com/specimen/Chivo+Mono,Monospace,Mexican institutional code,Civic monospace authority,Regional origin limits AI use,Latin American institutions,Chivo
+114,Overpass Mono,https://fonts.google.com/specimen/Overpass+Mono,Monospace,Red Hat code display,Corporate monospace clarity,Corporate association limits use,Enterprise dev tools,Overpass
+115,Noto Serif,https://fonts.google.com/specimen/Noto+Serif,Serif,Multilingual serif body,Universal serif clarity,Google Noto association limits use,Multilingual sites,Noto Sans
+116,Lora,https://fonts.google.com/specimen/Lora,Serif,Blog body text,Calligraphic serif warmth,Common but not AI default anymore,Personal blogs,Open Sans
+117,EB Garamond,https://fonts.google.com/specimen/EB+Garamond,Serif,Classical editorial content,Classical Garamond elegance,Classical style not AI default,Academic sites,Open Sans
+118,Libre Baskerville,https://fonts.google.com/specimen/Libre+Baskerville,Serif,Web-optimized Baskerville,Screen-optimized Baskerville clarity,Web optimization not AI default,Editorial sites,Source Sans 3
+119,Work Sans,https://fonts.google.com/specimen/Work+Sans,Sans Serif,Design agency UI,Design-forward sans clarity,Design community association limits use,Design agencies,Source Serif 4
+120,Questrial,https://fonts.google.com/specimen/Questrial,Sans Serif,Minimalist body text,Minimalist sans neutrality,Minimalist style limits expressive use,Minimal brands,Merriweather
+121,News Cycle,https://fonts.google.com/specimen/News+Cycle,Sans Serif,News headline text,News headline urgency,News association limits general use,News sites,Merriweather
+122,Inter,https://fonts.google.com/specimen/Inter,Sans Serif,UI body text,Screen-optimized clarity,Extremely common now AI avoids it,Modern UIs,DM Serif Display
+123,DM Sans,https://fonts.google.com/specimen/DM+Sans,Sans Serif,Modern UI body text,Geometric UI clarity,Common but still quality choice,App interfaces,DM Serif Text
+124,Open Sans,https://fonts.google.com/specimen/Open+Sans,Sans Serif,General body text,Universal readability,Extremely common now AI avoids it,General websites,Merriweather
+125,Roboto,https://fonts.google.com/specimen/Roboto,Sans Serif,Android UI text,Android system clarity,Android association limits use,Android apps,Roboto Serif
+126,Poppins,https://fonts.google.com/specimen/Poppins,Sans Serif,Geometric brand text,Geometric friendliness,Extremely common now AI avoids it,Modern brands,Merriweather
+127,Montserrat,https://fonts.google.com/specimen/Montserrat,Sans Serif,Brand header text,Urban geometric character,Extremely common now AI avoids it,Brand sites,Merriweather
+128,Lato,https://fonts.google.com/specimen/Lato,Sans Serif,Corporate body text,Corporate sans warmth,Common but still quality choice,Corporate sites,Merriweather
+129,Playfair Display,https://fonts.google.com/specimen/Playfair+Display,Serif,Luxury header text,Luxury serif elegance,Extremely common now AI avoids it,Luxury brands,Source Sans 3
+130,Merriweather,https://fonts.google.com/specimen/Merriweather,Serif,Reading-optimized body,Reading comfort serif,Common but still quality choice,Reading apps,Open Sans
+131,Noto Sans,https://fonts.google.com/specimen/Noto+Sans,Sans Serif,Multilingual body text,Universal sans clarity,Google Noto association limits use,Multilingual sites,Noto Serif
+132,Ubuntu,https://fonts.google.com/specimen/Ubuntu,Sans Serif,Linux ecosystem UI,Linux system warmth,Linux association limits use,Linux apps,Merriweather
+133,Oxygen,https://fonts.google.com/specimen/Oxygen,Sans Serif,KDE ecosystem UI,KDE system clarity,Linux association limits use,Linux desktop apps,Merriweather
+134,Cantarell,https://fonts.google.com/specimen/Cantarell,Sans Serif,GNOME ecosystem UI,GNOME system warmth,Linux association limits use,Linux desktop apps,Merriweather
+135,DejaVu Sans,https://fonts.google.com/specimen/DejaVu+Sans,Sans Serif,Open source UI text,Open source sans clarity,Open source association limits use,FOSS projects,DejaVu Serif
+136,Libre Baskerville,https://fonts.google.com/specimen/Libre+Baskerville,Serif,Web Baskerville body,Screen-optimized Baskerville,Web optimization not AI default,Editorial sites,Source Sans 3
+137,Crimson Text,https://fonts.google.com/specimen/Crimson+Text,Serif,Academic body text,Academic serif elegance,Academic niche limits AI use,Academic sites,Open Sans
+138,Crimson Pro,https://fonts.google.com/specimen/Crimson+Pro,Serif,Professional editorial content,Professional serif elegance,Professional niche limits AI use,Professional blogs,Source Sans 3
+139,Vollkorn,https://fonts.google.com/specimen/Vollkorn,Serif,German editorial body,German serif warmth,German origin limits AI use,German sites,Open Sans
+140,Domine,https://fonts.google.com/specimen/Domine,Serif,Slab serif body text,Slab serif readability,Slab serif not AI default,Blog sites,Open Sans
+141,Arvo,https://fonts.google.com/specimen/Arvo,Serif,Slab serif headers,Slab serif strength,Slab serif not AI default,Western brands,Open Sans
+142,Rokkitt,https://fonts.google.com/specimen/Rokkitt,Serif,Slab serif body text,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+143,Slabo 27px,https://fonts.google.com/specimen/Slabo+27px,Serif,Slab serif display,Slab serif presence,Slab serif not AI default,Display sites,Open Sans
+144,Merriweather Sans,https://fonts.google.com/specimen/Merriweather+Sans,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Blog sites,Merriweather
+145,Sorts Mill Goudy,https://fonts.google.com/specimen/Sorts+Mill+Goudy,Serif,Old style serif body,Old style serif elegance,Old style not AI default,Classical sites,Open Sans
+146,Cormorant Garamond,https://fonts.google.com/specimen/Cormorant+Garamond,Serif,Elegant Garamond body,Elegant Garamond sophistication,High contrast not AI default,Luxury sites,Work Sans
+147,EB Garamond,https://fonts.google.com/specimen/EB+Garamond,Serif,Classical Garamond body,Classical Garamond tradition,Classical style not AI default,Academic sites,Open Sans
+148,Libre Caslon Text,https://fonts.google.com/specimen/Libre+Caslon+Text,Serif,Caslon body text,Caslon serif tradition,Caslon style not AI default,Historical sites,Open Sans
+149,Libre Caslon Display,https://fonts.google.com/specimen/Libre+Caslon+Display,Serif,Caslon display headers,Caslon display elegance,Caslon style not AI default,Luxury sites,Open Sans
+150,IM Fell English,https://fonts.google.com/specimen/IM+Fell+English,Serif,Historical English body,Historical serif character,Historical style limits AI use,Historical sites,Open Sans
+151,IM Fell Double Pica,https://fonts.google.com/specimen/IM+Fell+Double+Pica,Serif,Historical display serif,Historical display character,Historical style limits AI use,Historical sites,Open Sans
+152,IM Fell DW Pica,https://fonts.google.com/specimen/IM+Fell+DW+Pica,Serif,Historical body serif,Historical body character,Historical style limits AI use,Historical sites,Open Sans
+153,IM Fell French Canon,https://fonts.google.com/specimen/IM+Fell+French+Canon,Serif,French historical serif,French historical character,Cultural specificity limits AI use,French historical sites,Open Sans
+154,IM Fell Great Primer,https://fonts.google.com/specimen/IM+Fell+Great+Primer,Serif,Historical primer serif,Historical primer character,Historical style limits AI use,Historical sites,Open Sans
+155,Cinzel,https://fonts.google.com/specimen/Cinzel,Serif,Roman inscription headers,Roman inscription authority,Roman style not AI default,Historical sites,Open Sans
+156,Cinzel Decorative,https://fonts.google.com/specimen/Cinzel+Decorative,Display,Roman decorative headers,Roman decorative grandeur,Roman style not AI default,Luxury sites,Open Sans
+157,Trajan Pro,https://fonts.google.com/specimen/Trajan+Pro,Serif,Cinematic headers,Cinematic Roman authority,Cinematic association limits use,Film sites,Open Sans
+158,Philosopher,https://fonts.google.com/specimen/Philosopher,Sans Serif,Philosophical content headers,Philosophical sans warmth,Philosophical niche limits AI use,Philosophy sites,Open Sans
+159,Poiret One,https://fonts.google.com/specimen/Poiret+One,Display,Art deco display headers,Art deco geometric elegance,Art deco style not AI default,Fashion sites,Open Sans
+160,Marcellus,https://fonts.google.com/specimen/Marcellus,Serif,Roman serif body,Roman serif authority,Roman style not AI default,Historical sites,Open Sans
+161,Marcellus SC,https://fonts.google.com/specimen/Marcellus+SC,Serif,Roman small caps,Roman small caps elegance,Roman style not AI default,Historical sites,Open Sans
+162,Faustina,https://fonts.google.com/specimen/Faustina,Serif,Contemporary serif body,Contemporary serif warmth,Contemporary style not AI default,Modern blogs,Open Sans
+163,Alata,https://fonts.google.com/specimen/Alata,Sans Serif,Rounded sans body,Rounded sans friendliness,Rounded style not AI default,Wellness sites,Open Sans
+164,Arimo,https://fonts.google.com/specimen/Arimo,Sans Serif,Helvetica alternative body,Helvetica alternative clarity,Alternative status limits AI use,General sites,Merriweather
+165,Tinos,https://fonts.google.com/specimen/Tinos,Serif,Times New Roman alternative,Times alternative tradition,Alternative status limits AI use,General sites,Arimo
+166,Cousine,https://fonts.google.com/specimen/Cousine,Monospace,Courier alternative mono,Courier alternative clarity,Alternative status limits AI use,General sites,Arimo
+167,Cuprum,https://fonts.google.com/specimen/Cuprum,Sans Serif,Russian sans body,Russian sans character,Cultural origin limits AI use,Russian sites,Open Sans
+168,Jost,https://fonts.google.com/specimen/Jost,Sans Serif,Futura-inspired body,Futura-inspired geometric charm,Futura inspiration not AI default,Modern sites,Merriweather
+169,Manrope,https://fonts.google.com/specimen/Manrope,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+170,Red Hat Display,https://fonts.google.com/specimen/Red+Hat+Display,Sans Serif,Red Hat brand headers,Corporate brand character,Corporate association limits use,Enterprise sites,Red Hat Text
+171,Red Hat Text,https://fonts.google.com/specimen/Red+Hat+Text,Sans Serif,Red Hat brand body,Corporate brand warmth,Corporate association limits use,Enterprise sites,Red Hat Display
+172,Red Hat Mono,https://fonts.google.com/specimen/Red+Hat+Mono,Monospace,Red Hat code display,Corporate monospace clarity,Corporate association limits use,Enterprise dev tools,Red Hat Text
+173,Assistant,https://fonts.google.com/specimen/Assistant,Sans Serif,Hebrew-friendly sans,Hebrew-friendly clarity,Cultural origin limits AI use,Hebrew sites,Open Sans
+174,Heebo,https://fonts.google.com/specimen/Heebo,Sans Serif,Hebrew UI sans,Hebrew UI clarity,Cultural origin limits AI use,Hebrew apps,Open Sans
+175,Frank Ruhl Libre,https://fonts.google.com/specimen/Frank+Ruhl+Libre,Serif,Hebrew serif body,Hebrew serif tradition,Cultural origin limits AI use,Hebrew editorial sites,Open Sans
+176,Miriam Libre,https://fonts.google.com/specimen/Miriam+Libre,Sans Serif,Hebrew modern sans,Hebrew modern clarity,Cultural origin limits AI use,Hebrew modern sites,Open Sans
+177,David Libre,https://fonts.google.com/specimen/David+Libre,Serif,Hebrew serif body,Hebrew serif warmth,Cultural origin limits AI use,Hebrew editorial sites,Open Sans
+178,Amatic SC,https://fonts.google.com/specimen/Amatic+SC,Display,Hand-drawn display headers,Hand-drawn display charm,Hand-drawn style limits AI use,Casual sites,Open Sans
+179,Patrick Hand,https://fonts.google.com/specimen/Patrick+Hand,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+180,Caveat,https://fonts.google.com/specimen/Caveat,Handwriting,Marker handwriting body,Marker handwriting energy,Handwriting fonts rarely AI default,Personal sites,Open Sans
+181,Shadows Into Light,https://fonts.google.com/specimen/Shadows+Into+Light,Handwriting,Pencil handwriting body,Pencil handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+182,Indie Flower,https://fonts.google.com/specimen/Indie+Flower,Handwriting,Casual handwriting body,Casual handwriting charm,Handwriting fonts rarely AI default,Personal sites,Open Sans
+183,Architects Daughter,https://fonts.google.com/specimen/Architects+Daughter,Handwriting,Architectural handwriting,Architectural handwriting character,Themed handwriting limits AI use,Architecture sites,Open Sans
+184,Coming Soon,https://fonts.google.com/specimen/Coming+Soon,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+185,Reenie Beanie,https://fonts.google.com/specimen/Reenie+Beanie,Handwriting,Bold handwriting headers,Bold handwriting character,Handwriting fonts rarely AI default,Casual sites,Open Sans
+186,Kalam,https://fonts.google.com/specimen/Kalam,Handwriting,Indian handwriting body,Indian handwriting character,Cultural origin limits AI use,Indian personal sites,Open Sans
+187,Gloria Hallelujah,https://fonts.google.com/specimen/Gloria+Hallelujah,Handwriting,Marker handwriting body,Marker handwriting energy,Handwriting fonts rarely AI default,Personal sites,Open Sans
+188,Permanent Marker,https://fonts.google.com/specimen/Permanent+Marker,Handwriting,Marker display headers,Marker display energy,Handwriting fonts rarely AI default,Street art sites,Open Sans
+189,Satisfy,https://fonts.google.com/specimen/Satisfy,Script,Flowing script body,Flowing script warmth,Script fonts rarely AI default,Personal sites,Open Sans
+190,Allura,https://fonts.google.com/specimen/Allura,Script,Elegant script headers,Elegant script sophistication,Script fonts rarely AI default,Luxury sites,Open Sans
+191,Parisienne,https://fonts.google.com/specimen/Parisienne,Script,French script headers,French script elegance,Cultural specificity limits AI use,French sites,Open Sans
+192,Mr Dafoe,https://fonts.google.com/specimen/Mr+Dafoe,Script,Brush script headers,Brush script energy,Script fonts rarely AI default,Creative sites,Open Sans
+193,Grand Hotel,https://fonts.google.com/specimen/Grand+Hotel,Script,Hotel script headers,Hotel script elegance,Script fonts rarely AI default,Hospitality sites,Open Sans
+194,Kristi,https://fonts.google.com/specimen/Kristi,Script,Signature script headers,Signature script character,Script fonts rarely AI default,Personal sites,Open Sans
+195,Leckerli One,https://fonts.google.com/specimen/Leckerli+One,Handwriting,Playful handwriting body,Playful handwriting charm,Handwriting fonts rarely AI default,Food sites,Open Sans
+196,Handlee,https://fonts.google.com/specimen/Handlee,Handwriting,Child-like handwriting,Child-like handwriting warmth,Handwriting fonts rarely AI default,Education sites,Open Sans
+197,Just Another Hand,https://fonts.google.com/specimen/Just+Another+Hand,Handwriting,Casual handwriting body,Casual handwriting character,Handwriting fonts rarely AI default,Personal sites,Open Sans
+198,Nothing You Could Do,https://fonts.google.com/specimen/Nothing+You+Could+Do,Handwriting,Messy handwriting body,Messy handwriting character,Handwriting fonts rarely AI default,Casual sites,Open Sans
+199,Waiting for the Sunrise,https://fonts.google.com/specimen/Waiting+for+the+Sunrise,Handwriting,Poetic handwriting body,Poetic handwriting warmth,Handwriting fonts rarely AI default,Poetry sites,Open Sans
+200,Yesteryear,https://fonts.google.com/specimen/Yesteryear,Script,Vintage script headers,Vintage script nostalgia,Script fonts rarely AI default,Vintage sites,Open Sans
+201,Alegreya SC,https://fonts.google.com/specimen/Alegreya+SC,Serif,Small caps editorial headers,Small caps elegance,Small caps style not AI default,Editorial sites,Alegreya Sans
+202,Aladin,https://fonts.google.com/specimen/Aladin,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+203,Alata,https://fonts.google.com/specimen/Alata,Sans Serif,Rounded sans body,Rounded sans friendliness,Rounded style not AI default,Wellness sites,Merriweather
+204,Albert Sans,https://fonts.google.com/specimen/Albert+Sans,Sans Serif,Modern geometric body,Geometric sans clarity,Newer font not widely known,Modern brands,DM Serif Text
+205,Aldrich,https://fonts.google.com/specimen/Aldrich,Sans Serif,Technical display headers,Technical display character,Technical style limits general use,Technical sites,Open Sans
+206,Alef,https://fonts.google.com/specimen/Alef,Sans Serif,Hebrew-friendly body,Hebrew-friendly clarity,Cultural origin limits AI use,Hebrew sites,Open Sans
+207,Alexandria,https://fonts.google.com/specimen/Alexandria,Sans Serif,Arabic modern UI,Arabic modern clarity,Cultural origin limits AI use,Arabic apps,Open Sans
+208,Alice,https://fonts.google.com/specimen/Alice,Serif,Book body text,Book serif warmth,Book style not AI default,Book sites,Open Sans
+209,Alike,https://fonts.google.com/specimen/Alike,Serif,Gentle serif body,Gentle serif warmth,Gentle style limits bold use,Gentle sites,Open Sans
+210,Alike Angular,https://fonts.google.com/specimen/Alike+Angular,Serif,Angular serif body,Angular serif character,Angular style not AI default,Editorial sites,Open Sans
+211,Almarai,https://fonts.google.com/specimen/Almarai,Sans Serif,Arabic corporate UI,Arabic corporate clarity,Cultural origin limits AI use,Arabic corporate sites,Open Sans
+212,Alpha Slab One,https://fonts.google.com/specimen/Alpha+Slab+One,Display,Heavy slab display headers,Heavy slab presence,Heavy style limits subtle use,Poster sites,Open Sans
+213,Amarante,https://fonts.google.com/specimen/Amarante,Display,Decorative serif headers,Decorative serif charm,Decorative style limits general use,Decorative sites,Open Sans
+214,Amaranth,https://fonts.google.com/specimen/Amaranth,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+215,Amethysta,https://fonts.google.com/specimen/Amethysta,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+216,Anaheim,https://fonts.google.com/specimen/Anaheim,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+217,Andada Pro,https://fonts.google.com/specimen/Andada+Pro,Serif,Literary serif body,Literary serif warmth,Literary style not AI default,Literary sites,Open Sans
+218,Annapurna SIL,https://fonts.google.com/specimen/Annapurna+SIL,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari sites,Open Sans
+219,Annie Use Your Telescope,https://fonts.google.com/specimen/Annie+Use+Your+Telescope,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+220,Anonymous Pro,https://fonts.google.com/specimen/Anonymous+Pro,Monospace,Code editor display,Code monospace clarity,Monospace rarely used for UI,Dev tools,Open Sans
+221,Antic,https://fonts.google.com/specimen/Antic,Sans Serif,Classic sans body,Classic sans warmth,Classic style not AI default,Classic sites,Merriweather
+222,Antic Didone,https://fonts.google.com/specimen/Antic+Didone,Serif,Didone display headers,Didone display elegance,Didone style not AI default,Luxury sites,Open Sans
+223,Antic Slab,https://fonts.google.com/specimen/Antic+Slab,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+224,Anton,https://fonts.google.com/specimen/Anton,Sans Serif,Impact display headers,Impact display strength,Impact style limits subtle use,Headline sites,Open Sans
+225,Antonio,https://fonts.google.com/specimen/Antonio,Sans Serif,Narrow display headers,Narrow display character,Narrow style not AI default,Display sites,Open Sans
+226,Anybody,https://fonts.google.com/specimen/Anybody,Variable,Variable display headers,Variable display flexibility,Variable complexity scares AI,Creative sites,Inter
+227,Arapey,https://fonts.google.com/specimen/Arapey,Serif,Elegant serif body,Elegant serif warmth,Elegant style not AI default,Elegant sites,Open Sans
+228,Arbutus,https://fonts.google.com/specimen/Arbutus,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+229,Arbutus Slab,https://fonts.google.com/specimen/Arbutus+Slab,Serif,Slab display headers,Slab display presence,Slab style not AI default,Display sites,Open Sans
+230,Architects Daughter,https://fonts.google.com/specimen/Architects+Daughter,Handwriting,Architectural handwriting,Architectural handwriting character,Themed handwriting limits AI use,Architecture sites,Open Sans
+231,Are You Serious,https://fonts.google.com/specimen/Are+You+Serious,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+232,Aref Ruqaa,https://fonts.google.com/specimen/Aref+Ruqaa,Serif,Arabic calligraphic serif,Arabic calligraphic elegance,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+233,Aref Ruqaa Ink,https://fonts.google.com/specimen/Aref+Ruqaa+Ink,Serif,Arabic ink serif,Arabic ink serif character,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+234,Arima,https://fonts.google.com/specimen/Arima,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+235,Arista Pro Alternative,https://fonts.google.com/specimen/Arima+Madurai,Display,Indian display headers,Indian display character,Cultural origin limits AI use,Indian sites,Open Sans
+236,Armata,https://fonts.google.com/specimen/Armata,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+237,Arsenal,https://fonts.google.com/specimen/Arsenal,Sans Serif,Ukrainian sans body,Ukrainian sans clarity,Cultural origin limits AI use,Ukrainian sites,Merriweather
+238,Artifika,https://fonts.google.com/specimen/Artifika,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+239,Arvo,https://fonts.google.com/specimen/Arvo,Serif,Slab serif headers,Slab serif strength,Slab serif not AI default,Western brands,Open Sans
+240,Arya,https://fonts.google.com/specimen/Arya,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+241,Asap,https://fonts.google.com/specimen/Asap,Sans Serif,Grotesque sans body,Grotesque sans warmth,Grotesque style not AI default,Modern sites,Merriweather
+242,Asap Condensed,https://fonts.google.com/specimen/Asap+Condensed,Sans Serif,Condensed grotesque body,Condensed grotesque clarity,Condensed style not AI default,Data sites,Merriweather
+243,Asar,https://fonts.google.com/specimen/Asar,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+244,Asset,https://fonts.google.com/specimen/Asset,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+245,Assistant,https://fonts.google.com/specimen/Assistant,Sans Serif,Hebrew-friendly sans,Hebrew-friendly clarity,Cultural origin limits AI use,Hebrew sites,Open Sans
+246,Astloch,https://fonts.google.com/specimen/Astloch,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+247,Asul,https://fonts.google.com/specimen/Asul,Sans Serif,Minimalist tech UI,Clean neutrality,Low visibility despite quality,Dashboards,Newsreader
+248,Athiti,https://fonts.google.com/specimen/Athiti,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+249,Atkinson Hyperlegible,https://fonts.google.com/specimen/Atkinson+Hyperlegible,Sans Serif,Accessibility-focused body,Accessibility clarity,Accessibility focus limits AI use,Accessible sites,Merriweather
+250,Atma,https://fonts.google.com/specimen/Atma,Serif,Bengali serif body,Bengali serif tradition,Cultural origin limits AI use,Bengali sites,Open Sans
+251,Atomic Age,https://fonts.google.com/specimen/Atomic+Age,Display,Retro atomic display headers,Retro atomic character,Themed font limits general use,Retro sites,Open Sans
+252,Aubrey,https://fonts.google.com/specimen/Aubrey,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+253,Audiowide,https://fonts.google.com/specimen/Audiowide,Display,Tech display headers,Tech display character,Tech style limits general use,Tech sites,Open Sans
+254,Autour One,https://fonts.google.com/specimen/Autour+One,Display,Rounded display headers,Rounded display charm,Rounded style limits general use,Casual sites,Open Sans
+255,Average,https://fonts.google.com/specimen/Average,Serif,Average serif body,Average serif warmth,Average style not AI default,General sites,Open Sans
+256,Average Sans,https://fonts.google.com/specimen/Average+Sans,Sans Serif,Average sans body,Average sans warmth,Average style not AI default,General sites,Merriweather
+257,Averia Gruesa Libre,https://fonts.google.com/specimen/Averia+Gruesa+Libre,Display,Heavy display headers,Heavy display presence,Heavy style limits subtle use,Display sites,Open Sans
+258,Averia Libre,https://fonts.google.com/specimen/Averia+Libre,Display,Textured display headers,Textured display character,Textured style limits general use,Display sites,Open Sans
+259,Averia Sans Libre,https://fonts.google.com/specimen/Averia+Sans+Libre,Sans Serif,Textured sans body,Textured sans warmth,Textured style not AI default,Textured sites,Merriweather
+260,Averia Serif Libre,https://fonts.google.com/specimen/Averia+Serif+Libre,Serif,Creative blog body text,Hand-drawn warmth,Unusual texture confuses AI,Art blogs,Questrial
+261,Azeret Mono,https://fonts.google.com/specimen/Azeret+Mono,Monospace,Modern code editor,Contemporary monospace clarity,Newer monospace not AI default,Dev tools,Inter
+262,Azeret Sans,https://fonts.google.com/specimen/Azeret+Sans,Sans Serif,Modern geometric body,Geometric sans clarity,Newer font not widely known,Modern sites,Merriweather
+263,B612,https://fonts.google.com/specimen/B612,Sans Serif,Aviation sans body,Aviation sans clarity,Themed font limits general use,Aviation sites,Open Sans
+264,B612 Mono,https://fonts.google.com/specimen/B612+Mono,Monospace,Aviation monospace,Aviation monospace clarity,Themed monospace limits general use,Aviation dev tools,Open Sans
+265,Babylonica,https://fonts.google.com/specimen/Babylonica,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+266,Bad Script,https://fonts.google.com/specimen/Bad+Script,Handwriting,Russian handwritten headers,Russian handwritten character,Cultural origin limits AI use,Russian personal sites,Open Sans
+267,Bahiana,https://fonts.google.com/specimen/Bahiana,Display,Brazilian display headers,Brazilian display character,Cultural origin limits AI use,Brazilian sites,Open Sans
+268,Bahianita,https://fonts.google.com/specimen/Bahianita,Display,Brazilian display headers,Brazilian display presence,Cultural origin limits AI use,Brazilian sites,Open Sans
+269,Bai Jamjuree,https://fonts.google.com/specimen/Bai+Jamjuree,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+270,Bakbak One,https://fonts.google.com/specimen/Bakbak+One,Display,Devanagari display headers,Devanagari display character,Cultural origin limits AI use,Devanagari sites,Open Sans
+271,Ballet,https://fonts.google.com/specimen/Ballet,Script,Elegant script headers,Elegant script sophistication,Script fonts rarely AI default,Luxury sites,Open Sans
+272,Baloo 2,https://fonts.google.com/specimen/Baloo+2,Display,Rounded display headers,Rounded display charm,Rounded style limits general use,Casual sites,Open Sans
+273,Baloo Bhai 2,https://fonts.google.com/specimen/Baloo+Bhai+2,Display,Gujarati rounded display,Gujarati rounded character,Cultural origin limits AI use,Gujarati sites,Open Sans
+274,Baloo Bhaijaan 2,https://fonts.google.com/specimen/Baloo+Bhaijaan+2,Display,Arabic rounded display,Arabic rounded character,Cultural origin limits AI use,Arabic sites,Open Sans
+275,Baloo Bhaina 2,https://fonts.google.com/specimen/Baloo+Bhaina+2,Display,Odia rounded display,Odia rounded character,Cultural origin limits AI use,Odia sites,Open Sans
+276,Baloo Chettan 2,https://fonts.google.com/specimen/Baloo+Chettan+2,Display,Malayalam rounded display,Malayalam rounded character,Cultural origin limits AI use,Malayalam sites,Open Sans
+277,Baloo Da 2,https://fonts.google.com/specimen/Baloo+Da+2,Display,Bengali rounded display,Bengali rounded character,Cultural origin limits AI use,Bengali sites,Open Sans
+278,Baloo Paaji 2,https://fonts.google.com/specimen/Baloo+Paaji+2,Display,Gurmukhi rounded display,Gurmukhi rounded character,Cultural origin limits AI use,Gurmukhi sites,Open Sans
+279,Baloo Tamma 2,https://fonts.google.com/specimen/Baloo+Tamma+2,Display,Kannada rounded display,Kannada rounded character,Cultural origin limits AI use,Kannada sites,Open Sans
+280,Baloo Tammudu 2,https://fonts.google.com/specimen/Baloo+Tammudu+2,Display,Telugu rounded display,Telugu rounded character,Cultural origin limits AI use,Telugu sites,Open Sans
+281,Baloo Thambi 2,https://fonts.google.com/specimen/Baloo+Thambi+2,Display,Tamil rounded display,Tamil rounded character,Cultural origin limits AI use,Tamil sites,Open Sans
+282,Balsamiq Sans,https://fonts.google.com/specimen/Balsamiq+Sans,Handwriting,Wireframe handwriting body,Wireframe handwriting character,Themed handwriting limits AI use,Wireframe sites,Open Sans
+283,Balthazar,https://fonts.google.com/specimen/Balthazar,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+284,Bangers,https://fonts.google.com/specimen/Bangers,Display,Comic display headers,Comic display energy,Themed font limits general use,Comic sites,Open Sans
+285,Barlow,https://fonts.google.com/specimen/Barlow,Sans Serif,Condensed UI text,Condensed clarity,Condensed style not AI default,Data tables,Barlow Condensed
+286,Barlow Condensed,https://fonts.google.com/specimen/Barlow+Condensed,Sans Serif,Narrow interface text,Space-efficient clarity,Condensed fonts rarely AI default,Dashboards,Barlow
+287,Barlow Semi Condensed,https://fonts.google.com/specimen/Barlow+Semi+Condensed,Sans Serif,Semi-condensed UI text,Semi-condensed clarity,Condensed style not AI default,Data sites,Barlow
+288,Barriecito,https://fonts.google.com/specimen/Barriecito,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+289,Barrio,https://fonts.google.com/specimen/Barrio,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+290,Basic,https://fonts.google.com/specimen/Basic,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+291,Baskervville,https://fonts.google.com/specimen/Baskervville,Serif,Baskerville-inspired body,Baskerville elegance,Baskerville style not AI default,Editorial sites,Open Sans
+292,Battambang,https://fonts.google.com/specimen/Battambang,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+293,Baumans,https://fonts.google.com/specimen/Baumans,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+294,Bayon,https://fonts.google.com/specimen/Bayon,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+295,Be Vietnam,https://fonts.google.com/specimen/Be+Vietnam,Sans Serif,Vietnamese sans body,Vietnamese sans clarity,Cultural origin limits AI use,Vietnamese sites,Open Sans
+296,Be Vietnam Pro,https://fonts.google.com/specimen/Be+Vietnam+Pro,Sans Serif,Vietnamese professional UI,Vietnamese professional clarity,Cultural origin limits AI use,Vietnamese professional sites,Merriweather
+297,Bebas Neue,https://fonts.google.com/specimen/Bebas+Neue,Sans Serif,Condensed display headers,Condensed display strength,Common but not AI default anymore,Poster sites,Open Sans
+298,Belgrano,https://fonts.google.com/specimen/Belgrano,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+299,Bellefair,https://fonts.google.com/specimen/Bellefair,Serif,Hebrew serif body,Hebrew serif tradition,Cultural origin limits AI use,Hebrew editorial sites,Open Sans
+300,Belleza,https://fonts.google.com/specimen/Belleza,Sans Serif,Elegant sans body,Elegant sans warmth,Elegant style not AI default,Elegant sites,Merriweather
+301,Bellota,https://fonts.google.com/specimen/Bellota,Display,Rounded display headers,Rounded display charm,Rounded style limits general use,Casual sites,Open Sans
+302,Bellota Text,https://fonts.google.com/specimen/Bellota+Text,Display,Rounded text display,Rounded text character,Rounded style limits general use,Casual sites,Open Sans
+303,BenchNine,https://fonts.google.com/specimen/BenchNine,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+304,Benne,https://fonts.google.com/specimen/Benne,Serif,Kannada serif body,Kannada serif tradition,Cultural origin limits AI use,Kannada sites,Open Sans
+305,Bentham,https://fonts.google.com/specimen/Bentham,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+306,Berkshire Swash,https://fonts.google.com/specimen/Berkshire+Swash,Display,Swash display headers,Swash display charm,Swash style limits general use,Decorative sites,Open Sans
+307,Besley,https://fonts.google.com/specimen/Besley,Serif,Modern editorial content,Contemporary serif elegance,Slab serif not AI default,Online magazines,Source Sans 3
+308,Beth Ellen,https://fonts.google.com/specimen/Beth+Ellen,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+309,Bevan,https://fonts.google.com/specimen/Bevan,Serif,Slab serif headers,Slab serif strength,Slab serif not AI default,Western brands,Open Sans
+310,BhuTuka Expanded One,https://fonts.google.com/specimen/BhuTuka+Expanded+One,Serif,Telugu expanded serif,Telugu expanded character,Cultural origin limits AI use,Telugu sites,Open Sans
+311,Big Shoulders Display,https://fonts.google.com/specimen/Big+Shoulders+Display,Display,Industrial display headers,Industrial display presence,Industrial style limits general use,Industrial sites,Open Sans
+312,Big Shoulders Inline Display,https://fonts.google.com/specimen/Big+Shoulders+Inline+Display,Display,Inline display headers,Inline display character,Inline style limits general use,Display sites,Open Sans
+313,Big Shoulders Inline Text,https://fonts.google.com/specimen/Big+Shoulders+Inline+Text,Sans Serif,Inline text body,Inline text character,Inline style limits general use,Text sites,Open Sans
+314,Big Shoulders Stencil Display,https://fonts.google.com/specimen/Big+Shoulders+Stencil+Display,Display,Stencil display headers,Stencil display character,Stencil style limits general use,Display sites,Open Sans
+315,Big Shoulders Stencil Text,https://fonts.google.com/specimen/Big+Shoulders+Stencil+Text,Sans Serif,Stencil text body,Stencil text character,Stencil style limits general use,Text sites,Open Sans
+316,Big Shoulders Text,https://fonts.google.com/specimen/Big+Shoulders+Text,Sans Serif,Industrial text body,Industrial text clarity,Industrial style limits general use,Industrial sites,Open Sans
+317,Bigelow Rules,https://fonts.google.com/specimen/Bigelow+Rules,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+318,Bigshot One,https://fonts.google.com/specimen/Bigshot+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+319,Bilbo,https://fonts.google.com/specimen/Bilbo,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+320,Bilbo Swash Caps,https://fonts.google.com/specimen/Bilbo+Swash+Caps,Script,Swash script headers,Swash script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+321,BioRhyme Expanded,https://fonts.google.com/specimen/BioRhyme+Expanded,Serif,Expanded slab headers,Expanded slab presence,Expanded style not AI default,Science sites,Open Sans
+322,Birthstone,https://fonts.google.com/specimen/Birthstone,Script,Elegant script headers,Elegant script sophistication,Elegant style not AI default,Luxury brands,Open Sans
+323,Birthstone Bounce,https://fonts.google.com/specimen/Birthstone+Bounce,Script,Playful script headers,Playful script bounce,Playful style limits formal use,Casual brands,Lato
+324,Biryani,https://fonts.google.com/specimen/Biryani,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+325,Bitter,https://fonts.google.com/specimen/Bitter,Serif,Screen-optimized serif,Robust screen readability,Slab serif not AI default,E-reading apps,Open Sans
+326,Black And White Picture,https://fonts.google.com/specimen/Black+And+White+Picture,Display,Korean display headers,Korean display character,Cultural origin limits AI use,Korean sites,Open Sans
+327,Black Han Sans,https://fonts.google.com/specimen/Black+Han+Sans,Sans Serif,Korean bold sans,Korean bold clarity,Cultural origin limits AI use,Korean bold sites,Open Sans
+328,Black Ops One,https://fonts.google.com/specimen/Black+Ops+One,Display,Military display headers,Military display character,Themed font limits general use,Military sites,Open Sans
+329,Blaka,https://fonts.google.com/specimen/Blaka,Display,Arabic decorative display,Arabic decorative character,Cultural origin limits AI use,Arabic decorative sites,Open Sans
+330,Blaka Hollow,https://fonts.google.com/specimen/Blaka+Hollow,Display,Arabic hollow display,Arabic hollow character,Cultural origin limits AI use,Arabic hollow sites,Open Sans
+331,Blaka Ink,https://fonts.google.com/specimen/Blaka+Ink,Display,Arabic ink display,Arabic ink character,Cultural origin limits AI use,Arabic ink sites,Open Sans
+332,Blinker,https://fonts.google.com/specimen/Blinker,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+333,Bodoni Moda,https://fonts.google.com/specimen/Bodoni+Moda,Serif,Modern Didone headers,Modern Didone elegance,Didone style not AI default,Luxury sites,Open Sans
+334,Bokor,https://fonts.google.com/specimen/Bokor,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+335,Bona Nova,https://fonts.google.com/specimen/Bona+Nova,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+336,Bona Nova SC,https://fonts.google.com/specimen/Bona+Nova+SC,Serif,Small caps serif,Small caps serif elegance,Small caps style not AI default,Editorial sites,Open Sans
+337,Bonbon,https://fonts.google.com/specimen/Bonbon,Handwriting,Cute handwriting body,Cute handwriting warmth,Handwriting fonts rarely AI default,Cute sites,Open Sans
+338,Bonheur Royale,https://fonts.google.com/specimen/Bonheur+Royale,Script,Elegant script headers,Elegant script sophistication,Script fonts rarely AI default,Luxury sites,Open Sans
+339,Boogaloo,https://fonts.google.com/specimen/Boogaloo,Display,Retro display headers,Retro display character,Retro style limits general use,Retro sites,Open Sans
+340,Bowlby One,https://fonts.google.com/specimen/Bowlby+One,Display,Heavy display headers,Heavy display presence,Heavy style limits subtle use,Display sites,Open Sans
+341,Bowlby One SC,https://fonts.google.com/specimen/Bowlby+One+SC,Display,Heavy small caps display,Heavy small caps presence,Small caps style not AI default,Display sites,Open Sans
+342,Brawler,https://fonts.google.com/specimen/Brawler,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+343,Bree Serif,https://fonts.google.com/specimen/Bree+Serif,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+344,Bricolage Grotesque,https://fonts.google.com/specimen/Bricolage+Grotesque,Sans Serif,Creative agency display,Playful precision,Lower download count despite quality,Portfolio sites,Space Grotesk
+345,Bruno Ace,https://fonts.google.com/specimen/Bruno+Ace,Display,Art deco display headers,Art deco display character,Art deco style not AI default,Art deco sites,Open Sans
+346,Bruno Ace SC,https://fonts.google.com/specimen/Bruno+Ace+SC,Display,Art deco small caps display,Art deco small caps character,Small caps style not AI default,Art deco sites,Open Sans
+347,Brygada 1918,https://fonts.google.com/specimen/Brygada+1918,Serif,Polish historical serif,Polish historical character,Cultural origin limits AI use,Polish historical sites,Open Sans
+348,Bubblegum Sans,https://fonts.google.com/specimen/Bubblegum+Sans,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+349,Bubbler One,https://fonts.google.com/specimen/Bubbler+One,Sans Serif,Rounded sans body,Rounded sans warmth,Rounded style not AI default,Rounded sites,Merriweather
+350,Buda,https://fonts.google.com/specimen/Buda,Display,Condensed display headers,Condensed display character,Condensed style not AI default,Condensed sites,Open Sans
+351,Buenard,https://fonts.google.com/specimen/Buenard,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+352,Bungee,https://fonts.google.com/specimen/Bungee,Display,Vertical display headers,Vertical display character,Vertical style limits general use,Display sites,Open Sans
+353,Bungee Hairline,https://fonts.google.com/specimen/Bungee+Hairline,Display,Hairline vertical display,Hairline vertical character,Hairline style limits general use,Display sites,Open Sans
+354,Bungee Inline,https://fonts.google.com/specimen/Bungee+Inline,Display,Inline vertical display,Inline vertical character,Inline style limits general use,Display sites,Open Sans
+355,Bungee Outline,https://fonts.google.com/specimen/Bungee+Outline,Display,Outline vertical display,Outline vertical character,Outline style limits general use,Display sites,Open Sans
+356,Bungee Shade,https://fonts.google.com/specimen/Bungee+Shade,Display,Shaded vertical display,Shaded vertical character,Shaded style limits general use,Display sites,Open Sans
+357,Bungee Spice,https://fonts.google.com/specimen/Bungee+Spice,Display,Spiced vertical display,Spiced vertical character,Spiced style limits general use,Display sites,Open Sans
+358,Butcherman,https://fonts.google.com/specimen/Butcherman,Display,Horror display headers,Horror display character,Themed font limits general use,Horror sites,Open Sans
+359,Butterfly Kids,https://fonts.google.com/specimen/Butterfly+Kids,Handwriting,Children handwriting body,Children handwriting warmth,Handwriting fonts rarely AI default,Children sites,Open Sans
+360,Cabin,https://fonts.google.com/specimen/Cabin,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+361,Cabin Condensed,https://fonts.google.com/specimen/Cabin+Condensed,Sans Serif,Condensed humanist body,Condensed humanist clarity,Condensed style not AI default,Condensed sites,Merriweather
+362,Cabin Sketch,https://fonts.google.com/specimen/Cabin+Sketch,Display,Sketch display headers,Sketch display character,Sketch style limits general use,Sketch sites,Open Sans
+363,Caesar Dressing,https://fonts.google.com/specimen/Caesar+Dressing,Display,Roman display headers,Roman display character,Roman style not AI default,Roman sites,Open Sans
+364,Cagliostro,https://fonts.google.com/specimen/Cagliostro,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+365,Cairo,https://fonts.google.com/specimen/Cairo,Sans Serif,Arabic geometric sans,Arabic geometric clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+366,Cairo Play,https://fonts.google.com/specimen/Cairo+Play,Sans Serif,Arabic playful sans,Arabic playful character,Cultural origin limits AI use,Arabic playful sites,Open Sans
+367,Caladea,https://fonts.google.com/specimen/Caladea,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+368,Calistoga,https://fonts.google.com/specimen/Calistoga,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+369,Calligraffitti,https://fonts.google.com/specimen/Calligraffitti,Handwriting,Calligraphic handwriting body,Calligraphic handwriting character,Handwriting fonts rarely AI default,Calligraphic sites,Open Sans
+370,Cambay,https://fonts.google.com/specimen/Cambay,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+371,Cambo,https://fonts.google.com/specimen/Cambo,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+372,Candal,https://fonts.google.com/specimen/Candal,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+373,Cantarell,https://fonts.google.com/specimen/Cantarell,Sans Serif,GNOME ecosystem UI,GNOME system warmth,Linux association limits use,Linux desktop apps,Merriweather
+374,Cantata One,https://fonts.google.com/specimen/Cantata+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+375,Cantora One,https://fonts.google.com/specimen/Cantora+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+376,Caprasimo,https://fonts.google.com/specimen/Caprasimo,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+377,Capriola,https://fonts.google.com/specimen/Capriola,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+378,Caramel,https://fonts.google.com/specimen/Caramel,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+379,Carattere,https://fonts.google.com/specimen/Carattere,Script,Italian script headers,Italian script character,Cultural origin limits AI use,Italian sites,Open Sans
+380,Cardo,https://fonts.google.com/specimen/Cardo,Serif,Classical studies content,Scholarly tradition,Academic niche limits AI use,Classics departments,Gentium Plus
+381,Carlito,https://fonts.google.com/specimen/Carlito,Sans Serif,Calibri alternative body,Calibri alternative clarity,Alternative status limits AI use,General sites,Merriweather
+382,Carme,https://fonts.google.com/specimen/Carme,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+383,Carrois Gothic,https://fonts.google.com/specimen/Carrois+Gothic,Sans Serif,Gothic sans body,Gothic sans warmth,Gothic style not AI default,Gothic sites,Merriweather
+384,Carrois Gothic SC,https://fonts.google.com/specimen/Carrois+Gothic+SC,Sans Serif,Gothic small caps sans,Gothic small caps character,Small caps style not AI default,Gothic sites,Open Sans
+385,Carter One,https://fonts.google.com/specimen/Carter+One,Display,Western display headers,Western display character,Themed font limits general use,Western sites,Open Sans
+386,Castoro,https://fonts.google.com/specimen/Castoro,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+387,Castoro Titling,https://fonts.google.com/specimen/Castoro+Titling,Serif,Transitional titling serif,Transitional titling character,Titling style not AI default,Titling sites,Open Sans
+388,Catamaran,https://fonts.google.com/specimen/Catamaran,Sans Serif,Tamil sans body,Tamil sans clarity,Cultural origin limits AI use,Tamil sites,Open Sans
+389,Caudex,https://fonts.google.com/specimen/Caudex,Serif,Greek serif body,Greek serif tradition,Cultural origin limits AI use,Greek sites,Open Sans
+390,Caveat,https://fonts.google.com/specimen/Caveat,Handwriting,Marker handwriting body,Marker handwriting energy,Handwriting fonts rarely AI default,Personal sites,Open Sans
+391,Caveat Brush,https://fonts.google.com/specimen/Caveat+Brush,Handwriting,Brush handwriting body,Brush handwriting energy,Handwriting fonts rarely AI default,Brush sites,Open Sans
+392,Cedarville Cursive,https://fonts.google.com/specimen/Cedarville+Cursive,Handwriting,Cursive handwriting body,Cursive handwriting warmth,Handwriting fonts rarely AI default,Cursive sites,Open Sans
+393,Ceviche One,https://fonts.google.com/specimen/Ceviche+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+394,Chakra Petch,https://fonts.google.com/specimen/Chakra+Petch,Sans Serif,Thai geometric sans,Thai geometric character,Cultural origin limits AI use,Thai geometric sites,Open Sans
+395,Changa,https://fonts.google.com/specimen/Changa,Sans Serif,Arabic rounded sans,Arabic rounded character,Cultural origin limits AI use,Arabic rounded sites,Open Sans
+396,Changa One,https://fonts.google.com/specimen/Changa+One,Display,Heavy display headers,Heavy display presence,Heavy style limits subtle use,Display sites,Open Sans
+397,Chango,https://fonts.google.com/specimen/Chango,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+398,Charis SIL,https://fonts.google.com/specimen/Charis+SIL,Serif,Linguistic serif body,Linguistic serif clarity,Linguistic focus limits AI use,Linguistic sites,Open Sans
+399,Charm,https://fonts.google.com/specimen/Charm,Handwriting,Thai handwriting body,Thai handwriting character,Cultural origin limits AI use,Thai handwriting sites,Open Sans
+400,Charmonman,https://fonts.google.com/specimen/Charmonman,Handwriting,Thai formal handwriting,Thai formal handwriting character,Cultural origin limits AI use,Thai formal sites,Open Sans
+401,Chathura,https://fonts.google.com/specimen/Chathura,Sans Serif,Sinhala sans body,Sinhala sans clarity,Cultural origin limits AI use,Sinhala sites,Open Sans
+402,Chau Philomene One,https://fonts.google.com/specimen/Chau+Philomene+One,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+403,Chela One,https://fonts.google.com/specimen/Chela+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+404,Chelsea Market,https://fonts.google.com/specimen/Chelsea+Market,Display,Retro display headers,Retro display character,Retro style limits general use,Retro sites,Open Sans
+405,Chenla,https://fonts.google.com/specimen/Chenla,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+406,Cherish,https://fonts.google.com/specimen/Cherish,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+407,Cherry Cream Soda,https://fonts.google.com/specimen/Cherry+Cream+Soda,Display,Retro soda display headers,Retro soda character,Themed font limits general use,Retro sites,Open Sans
+408,Cherry Swash,https://fonts.google.com/specimen/Cherry+Swash,Display,Swash display headers,Swash display charm,Swash style limits general use,Swash sites,Open Sans
+409,Chewy,https://fonts.google.com/specimen/Chewy,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+410,Chicle,https://fonts.google.com/specimen/Chicle,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+411,Chilanka,https://fonts.google.com/specimen/Chilanka,Handwriting,Malayalam handwriting body,Malayalam handwriting character,Cultural origin limits AI use,Malayalam handwriting sites,Open Sans
+412,Chivo,https://fonts.google.com/specimen/Chivo,Sans Serif,Mexican government sites,Civic authority,Regional use limits AI exposure,Latin American institutions,Chivo Mono
+413,Chivo Mono,https://fonts.google.com/specimen/Chivo+Mono,Monospace,Mexican institutional code,Civic monospace authority,Regional origin limits AI use,Latin American institutions,Chivo
+414,Chokokutai,https://fonts.google.com/specimen/Chokokutai,Display,Japanese display headers,Japanese display character,Cultural origin limits AI use,Japanese sites,Open Sans
+415,Chonburi,https://fonts.google.com/specimen/Chonburi,Display,Thai display headers,Thai display character,Cultural origin limits AI use,Thai display sites,Open Sans
+416,Cinzel,https://fonts.google.com/specimen/Cinzel,Serif,Roman inscription headers,Roman inscription authority,Roman style not AI default,Historical sites,Open Sans
+417,Cinzel Decorative,https://fonts.google.com/specimen/Cinzel+Decorative,Display,Roman decorative headers,Roman decorative grandeur,Roman style not AI default,Luxury sites,Open Sans
+418,Clear Sans,https://fonts.google.com/specimen/Clear+Sans,Sans Serif,Intel Clear UI,Intel UI clarity,Corporate association limits use,Intel-related sites,Open Sans
+419,Clicker Script,https://fonts.google.com/specimen/Clicker+Script,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+420,Coda,https://fonts.google.com/specimen/Coda,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+421,Codystar,https://fonts.google.com/specimen/Codystar,Display,Dot-matrix display headers,Dot-matrix display character,Dot-matrix style limits general use,Dot-matrix sites,Open Sans
+422,Coiny,https://fonts.google.com/specimen/Coiny,Display,Rounded display headers,Rounded display charm,Rounded style limits general use,Rounded sites,Open Sans
+423,Combo,https://fonts.google.com/specimen/Combo,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+424,Comfortaa,https://fonts.google.com/specimen/Comfortaa,Sans Serif,Rounded geometric sans,Rounded geometric charm,Rounded style not AI default,Rounded sites,Merriweather
+425,Comforter,https://fonts.google.com/specimen/Comforter,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+426,Comforter Brush,https://fonts.google.com/specimen/Comforter+Brush,Script,Brush script headers,Brush script energy,Script fonts rarely AI default,Brush sites,Open Sans
+427,Comic Neue,https://fonts.google.com/specimen/Comic+Neue,Handwriting,Comic-inspired handwriting,Comic-inspired warmth,Comic association limits AI use,Comic sites,Open Sans
+428,Coming Soon,https://fonts.google.com/specimen/Coming+Soon,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+429,Comme,https://fonts.google.com/specimen/Comme,Sans Serif,Fashion sans body,Fashion sans warmth,Fashion association limits use,Fashion sites,Merriweather
+430,Commissioner,https://fonts.google.com/specimen/Commissioner,Sans Serif,European institution UI,Civic clarity,EU commission origin limits AI,Government sites,Mulish
+431,Concert One,https://fonts.google.com/specimen/Concert+One,Display,Heavy display headers,Heavy display presence,Heavy style limits subtle use,Display sites,Open Sans
+432,Condiment,https://fonts.google.com/specimen/Condiment,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+433,Content,https://fonts.google.com/specimen/Content,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+434,Contrail One,https://fonts.google.com/specimen/Contrail+One,Display,Aviation display headers,Aviation display character,Themed font limits general use,Aviation sites,Open Sans
+435,Convergence,https://fonts.google.com/specimen/Convergence,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+436,Cookie,https://fonts.google.com/specimen/Cookie,Script,Casual script headers,Casual script warmth,Script fonts rarely AI default,Casual sites,Open Sans
+437,Copse,https://fonts.google.com/specimen/Copse,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+438,Corben,https://fonts.google.com/specimen/Corben,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+439,Corinthia,https://fonts.google.com/specimen/Corinthia,Script,Elegant script headers,Elegant script sophistication,Script fonts rarely AI default,Luxury sites,Open Sans
+440,Cormorant,https://fonts.google.com/specimen/Cormorant,Serif,Poetry publication headers,Literary elegance,High contrast not AI default,Poetry sites,Work Sans
+441,Cormorant Garamond,https://fonts.google.com/specimen/Cormorant+Garamond,Serif,Elegant Garamond body,Elegant Garamond sophistication,High contrast not AI default,Luxury sites,Work Sans
+442,Cormorant Infant,https://fonts.google.com/specimen/Cormorant+Infant,Serif,Infant Garamond body,Infant Garamond charm,Infant style limits general use,Infant sites,Open Sans
+443,Cormorant SC,https://fonts.google.com/specimen/Cormorant+SC,Serif,Small caps Garamond,Small caps Garamond elegance,Small caps style not AI default,Small caps sites,Open Sans
+444,Cormorant Unicase,https://fonts.google.com/specimen/Cormorant+Unicase,Serif,Unicase Garamond body,Unicase Garamond character,Unicase style not AI default,Unicase sites,Open Sans
+445,Cormorant Upright,https://fonts.google.com/specimen/Cormorant+Upright,Serif,Upright Garamond body,Upright Garamond character,Upright style not AI default,Upright sites,Open Sans
+446,Courgette,https://fonts.google.com/specimen/Courgette,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+447,Courier Prime,https://fonts.google.com/specimen/Courier+Prime,Monospace,Screenplay monospace,Screenplay monospace clarity,Screenplay association limits use,Screenplay sites,Open Sans
+448,Cousine,https://fonts.google.com/specimen/Cousine,Monospace,Courier alternative mono,Courier alternative clarity,Alternative status limits AI use,General sites,Arimo
+449,Coustard,https://fonts.google.com/specimen/Coustard,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+450,Covered By Your Grace,https://fonts.google.com/specimen/Covered+By+Your+Grace,Handwriting,Graceful handwriting body,Graceful handwriting warmth,Handwriting fonts rarely AI default,Graceful sites,Open Sans
+451,Crafty Girls,https://fonts.google.com/specimen/Crafty+Girls,Handwriting,Crafty handwriting body,Crafty handwriting warmth,Handwriting fonts rarely AI default,Crafty sites,Open Sans
+452,Creepster,https://fonts.google.com/specimen/Creepster,Display,Horror display headers,Horror display character,Themed font limits general use,Horror sites,Open Sans
+453,Crimson Pro,https://fonts.google.com/specimen/Crimson+Pro,Serif,Professional editorial content,Professional serif elegance,Professional niche limits AI use,Professional blogs,Source Sans 3
+454,Crimson Text,https://fonts.google.com/specimen/Crimson+Text,Serif,Academic body text,Academic serif elegance,Academic niche limits AI use,Academic sites,Open Sans
+455,Croissant One,https://fonts.google.com/specimen/Croissant+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+456,Crushed,https://fonts.google.com/specimen/Crushed,Display,Distressed display headers,Distressed display character,Distressed style limits general use,Distressed sites,Open Sans
+457,Cuprum,https://fonts.google.com/specimen/Cuprum,Sans Serif,Russian sans body,Russian sans character,Cultural origin limits AI use,Russian sites,Open Sans
+458,Cute Font,https://fonts.google.com/specimen/Cute+Font,Display,Korean cute display,Korean cute character,Cultural origin limits AI use,Korean cute sites,Open Sans
+459,Cutive,https://fonts.google.com/specimen/Cutive,Serif,Typewriter serif body,Typewriter serif character,Typewriter style not AI default,Typewriter sites,Open Sans
+460,Cutive Mono,https://fonts.google.com/specimen/Cutive+Mono,Monospace,Typewriter monospace,Typewriter monospace character,Typewriter style not AI default,Typewriter sites,Open Sans
+461,Dai Banna SIL,https://fonts.google.com/specimen/Dai+Banna+SIL,Serif,Tai Le serif body,Tai Le serif tradition,Cultural origin limits AI use,Tai Le sites,Open Sans
+462,Damion,https://fonts.google.com/specimen/Damion,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+463,Dancing Script,https://fonts.google.com/specimen/Dancing+Script,Script,Casual script headers,Playful script energy,Script fonts rarely AI default,Personal blogs,Open Sans
+464,Dangrek,https://fonts.google.com/specimen/Dangrek,Display,Thai display headers,Thai display character,Cultural origin limits AI use,Thai display sites,Open Sans
+465,Darker Grotesque,https://fonts.google.com/specimen/Darker+Grotesque,Sans Serif,Dark grotesque body,Dark grotesque character,Dark style limits general use,Dark sites,Merriweather
+466,David Libre,https://fonts.google.com/specimen/David+Libre,Serif,Hebrew serif body,Hebrew serif warmth,Cultural origin limits AI use,Hebrew editorial sites,Open Sans
+467,Dawning of a New Day,https://fonts.google.com/specimen/Dawning+of+a+New+Day,Handwriting,Optimistic handwriting body,Optimistic handwriting warmth,Handwriting fonts rarely AI default,Optimistic sites,Open Sans
+468,Days One,https://fonts.google.com/specimen/Days+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+469,Dekko,https://fonts.google.com/specimen/Dekko,Handwriting,Devanagari handwriting body,Devanagari handwriting character,Cultural origin limits AI use,Devanagari handwriting sites,Open Sans
+470,Dela Gothic One,https://fonts.google.com/specimen/Dela+Gothic+One,Sans Serif,Japanese bold gothic,Japanese bold character,Cultural origin limits AI use,Japanese bold sites,Open Sans
+471,Delicious Handrawn,https://fonts.google.com/specimen/Delicious+Handrawn,Handwriting,Handrawn body text,Handrawn warmth,Handwriting fonts rarely AI default,Handrawn sites,Open Sans
+472,Delius,https://fonts.google.com/specimen/Delius,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+473,Delius Swash Caps,https://fonts.google.com/specimen/Delius+Swash+Caps,Handwriting,Swash handwriting body,Swash handwriting character,Swash style limits general use,Swash sites,Open Sans
+474,Delius Unicase,https://fonts.google.com/specimen/Delius+Unicase,Handwriting,Unicase handwriting body,Unicase handwriting character,Unicase style not AI default,Unicase sites,Open Sans
+475,Della Respira,https://fonts.google.com/specimen/Della+Respira,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+476,Denk One,https://fonts.google.com/specimen/Denk+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+477,Devonshire,https://fonts.google.com/specimen/Devonshire,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+478,Dhurjati,https://fonts.google.com/specimen/Dhurjati,Sans Serif,Telugu sans body,Telugu sans clarity,Cultural origin limits AI use,Telugu sites,Open Sans
+479,Didact Gothic,https://fonts.google.com/specimen/Didact+Gothic,Sans Serif,Gothic sans body,Gothic sans warmth,Gothic style not AI default,Gothic sites,Merriweather
+480,Diphylleia,https://fonts.google.com/specimen/Diphylleia,Serif,Japanese serif body,Japanese serif tradition,Cultural origin limits AI use,Japanese editorial sites,Open Sans
+481,Diplomata,https://fonts.google.com/specimen/Diplomata,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+482,Diplomata SC,https://fonts.google.com/specimen/Diplomata+SC,Display,Small caps decorative display,Small caps decorative character,Small caps style not AI default,Small caps sites,Open Sans
+483,DM Mono,https://fonts.google.com/specimen/DM+Mono,Monospace,Modern code display,Contemporary monospace clarity,DM family less known than others,Dev tools,DM Sans
+484,DM Sans,https://fonts.google.com/specimen/DM+Sans,Sans Serif,Modern UI body text,Geometric UI clarity,Common but still quality choice,App interfaces,DM Serif Text
+485,DM Serif Display,https://fonts.google.com/specimen/DM+Serif+Display,Serif,Display serif headers,Elegant display serif,Display serif not AI default,Luxury brands,DM Sans
+486,DM Serif Text,https://fonts.google.com/specimen/DM+Serif+Text,Serif,Body text serif,Readable serif warmth,DM family less known than others,Editorial sites,DM Sans
+487,Do Hyeon,https://fonts.google.com/specimen/Do+Hyeon,Sans Serif,Korean sans body,Korean sans clarity,Cultural origin limits AI use,Korean sites,Open Sans
+488,Dokdo,https://fonts.google.com/specimen/Dokdo,Display,Korean display headers,Korean display character,Cultural origin limits AI use,Korean display sites,Open Sans
+489,Domine,https://fonts.google.com/specimen/Domine,Serif,Slab serif body text,Slab serif readability,Slab serif not AI default,Blog sites,Open Sans
+490,Donegal One,https://fonts.google.com/specimen/Donegal+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+491,Dongle,https://fonts.google.com/specimen/Dongle,Sans Serif,Korean light sans,Korean light character,Cultural origin limits AI use,Korean light sites,Open Sans
+492,Doppio One,https://fonts.google.com/specimen/Doppio+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+493,Dorsa,https://fonts.google.com/specimen/Dorsa,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+494,Dosis,https://fonts.google.com/specimen/Dosis,Sans Serif,Rounded geometric sans,Rounded geometric charm,Rounded style not AI default,Rounded sites,Merriweather
+495,Doto,https://fonts.google.com/specimen/Doto,Sans Serif,Rounded sans body,Rounded sans warmth,Rounded style not AI default,Rounded sites,Merriweather
+496,Dr Sugiyama,https://fonts.google.com/specimen/Dr+Sugiyama,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+497,Duru Sans,https://fonts.google.com/specimen/Duru+Sans,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+498,Dynalight,https://fonts.google.com/specimen/Dynalight,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+499,Eagle Lake,https://fonts.google.com/specimen/Eagle+Lake,Handwriting,Lake-inspired handwriting body,Lake-inspired handwriting warmth,Handwriting fonts rarely AI default,Lake sites,Open Sans
+500,East Sea Dokdo,https://fonts.google.com/specimen/East+Sea+Dokdo,Handwriting,Korean handwriting body,Korean handwriting character,Cultural origin limits AI use,Korean handwriting sites,Open Sans
+501,Eater,https://fonts.google.com/specimen/Eater,Display,Horror display headers,Horror display character,Themed font limits general use,Horror sites,Open Sans
+502,Economica,https://fonts.google.com/specimen/Economica,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+503,Eczar,https://fonts.google.com/specimen/Eczar,Serif,Indian brand identity,Devanagari-influenced serif,Cultural origin limits AI use,South Asian brands,Rajdhani
+504,Edo,https://fonts.google.com/specimen/Edo,Display,Japanese Edo display headers,Japanese Edo character,Cultural origin limits AI use,Japanese Edo sites,Open Sans
+505,Edun,https://fonts.google.com/specimen/Edun,Sans Serif,Minimalist sans body,Minimalist sans clarity,Minimalist style limits expressive use,Minimal sites,Merriweather
+506,El Messiri,https://fonts.google.com/specimen/El+Messiri,Sans Serif,Arabic sans body,Arabic sans clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+507,Electrolize,https://fonts.google.com/specimen/Electrolize,Sans Serif,Electronic sans body,Electronic sans character,Electronic style limits general use,Electronic sites,Merriweather
+508,Ellora,https://fonts.google.com/specimen/Ellora,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+509,Elsie,https://fonts.google.com/specimen/Elsie,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+510,Elsie Swash Caps,https://fonts.google.com/specimen/Elsie+Swash+Caps,Display,Swash decorative display,Swash decorative character,Swash style limits general use,Swash sites,Open Sans
+511,Emblema One,https://fonts.google.com/specimen/Emblema+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+512,Emilys Candy,https://fonts.google.com/specimen/Emilys+Candy,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+513,Encode Sans,https://fonts.google.com/specimen/Encode+Sans,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+514,Encode Sans Condensed,https://fonts.google.com/specimen/Encode+Sans+Condensed,Sans Serif,Condensed geometric body,Condensed geometric clarity,Condensed style not AI default,Condensed sites,Merriweather
+515,Encode Sans Expanded,https://fonts.google.com/specimen/Encode+Sans+Expanded,Sans Serif,Expanded geometric body,Expanded geometric character,Expanded style not AI default,Expanded sites,Merriweather
+516,Encode Sans SC,https://fonts.google.com/specimen/Encode+Sans+SC,Sans Serif,Small caps geometric sans,Small caps geometric character,Small caps style not AI default,Small caps sites,Open Sans
+517,Encode Sans Semi Condensed,https://fonts.google.com/specimen/Encode+Sans+Semi+Condensed,Sans Serif,Semi-condensed geometric body,Semi-condensed geometric clarity,Semi-condensed style not AI default,Semi-condensed sites,Merriweather
+518,Encode Sans Semi Expanded,https://fonts.google.com/specimen/Encode+Sans+Semi+Expanded,Sans Serif,Semi-expanded geometric body,Semi-expanded geometric character,Semi-expanded style not AI default,Semi-expanded sites,Merriweather
+519,Engagement,https://fonts.google.com/specimen/Engagement,Script,Romantic script headers,Romantic script warmth,Romantic style limits general use,Romantic sites,Open Sans
+520,Englebert,https://fonts.google.com/specimen/Englebert,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+521,Enriqueta,https://fonts.google.com/specimen/Enriqueta,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+522,Ephesis,https://fonts.google.com/specimen/Ephesis,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+523,Epilogue,https://fonts.google.com/specimen/Epilogue,Sans Serif,Modern corporate identity,Geometric warmth,Overlooked for Inter/Poppins,Tech company sites,Source Serif 4
+524,Erica One,https://fonts.google.com/specimen/Erica+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+525,Esteban,https://fonts.google.com/specimen/Esteban,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+526,Estonia,https://fonts.google.com/specimen/Estonia,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+527,Euphoria Script,https://fonts.google.com/specimen/Euphoria+Script,Script,Euphoric script headers,Euphoric script energy,Script fonts rarely AI default,Euphoric sites,Open Sans
+528,Ewert,https://fonts.google.com/specimen/Ewert,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+529,Exo,https://fonts.google.com/specimen/Exo,Sans Serif,Futuristic sans body,Futuristic sans character,Futuristic style limits general use,Futuristic sites,Merriweather
+530,Exo 2,https://fonts.google.com/specimen/Exo+2,Sans Serif,Futuristic sans body v2,Futuristic sans character v2,Futuristic style limits general use,Futuristic sites,Merriweather
+531,Expletus Sans,https://fonts.google.com/specimen/Expletus+Sans,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+532,Explora,https://fonts.google.com/specimen/Explora,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+533,Fahkwang,https://fonts.google.com/specimen/Fahkwang,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+534,Familjen Grotesk,https://fonts.google.com/specimen/Familjen+Grotesk,Sans Serif,Family brand identity,Warm grotesque character,Newer font not widely known,Family-oriented brands,Newsreader
+535,Fanwood Text,https://fonts.google.com/specimen/Fanwood+Text,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+536,Farro,https://fonts.google.com/specimen/Farro,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+537,Farsan,https://fonts.google.com/specimen/Farsan,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+538,Fascinate,https://fonts.google.com/specimen/Fascinate,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+539,Fascinate Inline,https://fonts.google.com/specimen/Fascinate+Inline,Display,Inline decorative display,Inline decorative character,Inline style limits general use,Inline sites,Open Sans
+540,Faster One,https://fonts.google.com/specimen/Faster+One,Display,Racing display headers,Racing display character,Themed font limits general use,Racing sites,Open Sans
+541,Fasthand,https://fonts.google.com/specimen/Fasthand,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+542,Fauna One,https://fonts.google.com/specimen/Fauna+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+543,Faustina,https://fonts.google.com/specimen/Faustina,Serif,Contemporary serif body,Contemporary serif warmth,Contemporary style not AI default,Modern blogs,Open Sans
+544,Federant,https://fonts.google.com/specimen/Federant,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+545,Federo,https://fonts.google.com/specimen/Federo,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+546,Felipa,https://fonts.google.com/specimen/Felipa,Script,Calligraphic script headers,Calligraphic script elegance,Calligraphic style not AI default,Luxury brands,Open Sans
+547,Fenix,https://fonts.google.com/specimen/Fenix,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+548,Festive,https://fonts.google.com/specimen/Festive,Handwriting,Festive handwriting body,Festive handwriting warmth,Handwriting fonts rarely AI default,Festive sites,Open Sans
+549,Figtree,https://fonts.google.com/specimen/Figtree,Sans Serif,Modern geometric body,Geometric sans clarity,Newer font not widely known,Modern sites,Merriweather
+550,Finger Paint,https://fonts.google.com/specimen/Finger+Paint,Display,Child-like display headers,Child-like display character,Themed font limits general use,Child sites,Open Sans
+551,Finlandica,https://fonts.google.com/specimen/Finlandica,Sans Serif,Finnish sans body,Finnish sans clarity,Cultural origin limits AI use,Finnish sites,Open Sans
+552,Fira Code,https://fonts.google.com/specimen/Fira+Code,Monospace,Code editor with ligatures,Code monospace with ligatures,Ligature complexity scares AI,Dev tools,Fira Sans
+553,Fira Mono,https://fonts.google.com/specimen/Fira+Mono,Monospace,Mozilla code display,Open source monospace clarity,Mozilla association limits use,Open source projects,Fira Sans
+554,Fira Sans,https://fonts.google.com/specimen/Fira+Sans,Sans Serif,Mozilla ecosystem UI,Technical warmth,Firefox association limits use,Open source projects,Fira Mono
+555,Fira Sans Condensed,https://fonts.google.com/specimen/Fira+Sans+Condensed,Sans Serif,Condensed technical body,Condensed technical clarity,Condensed style not AI default,Condensed sites,Fira Sans
+556,Fira Sans Extra Condensed,https://fonts.google.com/specimen/Fira+Sans+Extra+Condensed,Sans Serif,Extra condensed technical body,Extra condensed technical clarity,Extra condensed style not AI default,Extra condensed sites,Fira Sans
+557,Fjalla One,https://fonts.google.com/specimen/Fjalla+One,Sans Serif,Condensed display headers,Strong condensed presence,Single weight limits AI use,Headline designs,Merriweather
+558,Fjord One,https://fonts.google.com/specimen/Fjord+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+559,Flamenco,https://fonts.google.com/specimen/Flamenco,Display,Spanish display headers,Spanish display character,Cultural origin limits AI use,Spanish sites,Open Sans
+560,Flavors,https://fonts.google.com/specimen/Flavors,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+561,Fleur De Leah,https://fonts.google.com/specimen/Fleur+De+Leah,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+562,Flow Block,https://fonts.google.com/specimen/Flow+Block,Display,Block display headers,Block display character,Block style limits general use,Block sites,Open Sans
+563,Flow Circular,https://fonts.google.com/specimen/Flow+Circular,Display,Circular display headers,Circular display character,Circular style limits general use,Circular sites,Open Sans
+564,Flow Rounded,https://fonts.google.com/specimen/Flow+Rounded,Display,Rounded display headers,Rounded display character,Rounded style limits general use,Rounded sites,Open Sans
+565,Fondamento,https://fonts.google.com/specimen/Fondamento,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+566,Fontdiner Swanky,https://fonts.google.com/specimen/Fontdiner+Swanky,Display,Retro diner headers,Retro diner nostalgia,Themed font limits general use,Diner sites,Lato
+567,Forum,https://fonts.google.com/specimen/Forum,Serif,Roman serif body,Roman serif authority,Roman style not AI default,Historical sites,Open Sans
+568,Francois One,https://fonts.google.com/specimen/Francois+One,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+569,Frank Ruhl Libre,https://fonts.google.com/specimen/Frank+Ruhl+Libre,Serif,Hebrew serif body,Hebrew serif tradition,Cultural origin limits AI use,Hebrew editorial sites,Open Sans
+570,Fraunces,https://fonts.google.com/specimen/Fraunces,Serif,Artisan brand identity,Warm softness,Variable font complexity scares AI,Craft food brands,Literata
+571,Freckle Face,https://fonts.google.com/specimen/Freckle+Face,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+572,Fredericka the Great,https://fonts.google.com/specimen/Fredericka+the+Great,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+573,Fredoka,https://fonts.google.com/specimen/Fredoka,Sans Serif,Rounded sans body,Rounded sans warmth,Rounded style not AI default,Rounded sites,Merriweather
+574,Freehand,https://fonts.google.com/specimen/Freehand,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+575,Fresca,https://fonts.google.com/specimen/Fresca,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+576,Frijole,https://fonts.google.com/specimen/Frijole,Display,Western display headers,Western display character,Themed font limits general use,Western sites,Open Sans
+577,Fruktur,https://fonts.google.com/specimen/Fruktur,Display,Playful brand headers,Bubbly rounded character,Unusual proportions scare AI,Children brands,Open Sans
+578,Fugaz One,https://fonts.google.com/specimen/Fugaz+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+579,Fuggles,https://fonts.google.com/specimen/Fuggles,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+580,Fuzzy Bubbles,https://fonts.google.com/specimen/Fuzzy+Bubbles,Handwriting,Bubbly handwriting body,Bubbly handwriting warmth,Handwriting fonts rarely AI default,Bubbly sites,Open Sans
+581,Gabarito,https://fonts.google.com/specimen/Gabarito,Sans Serif,Modern geometric body,Geometric sans clarity,Newer font not widely known,Modern sites,Merriweather
+582,Gabriela,https://fonts.google.com/specimen/Gabriela,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+583,Gaegu,https://fonts.google.com/specimen/Gaegu,Handwriting,Korean handwriting body,Korean handwriting character,Cultural origin limits AI use,Korean handwriting sites,Open Sans
+584,Gafata,https://fonts.google.com/specimen/Gafata,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+585,Gajraj One,https://fonts.google.com/specimen/Gajraj+One,Display,Devanagari display headers,Devanagari display character,Cultural origin limits AI use,Devanagari sites,Open Sans
+586,Galada,https://fonts.google.com/specimen/Galada,Display,Bengali display headers,Bengali display character,Cultural origin limits AI use,Bengali sites,Open Sans
+587,Galdeano,https://fonts.google.com/specimen/Galdeano,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+588,Galindo,https://fonts.google.com/specimen/Galindo,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+589,Gamja Flower,https://fonts.google.com/specimen/Gamja+Flower,Handwriting,Korean handwriting body,Korean handwriting character,Cultural origin limits AI use,Korean handwriting sites,Open Sans
+590,Gantari,https://fonts.google.com/specimen/Gantari,Sans Serif,Indonesian sans body,Indonesian sans clarity,Cultural origin limits AI use,Indonesian sites,Open Sans
+591,Gasoek One,https://fonts.google.com/specimen/Gasoek+One,Sans Serif,Korean bold sans,Korean bold character,Cultural origin limits AI use,Korean bold sites,Open Sans
+592,Gayathri,https://fonts.google.com/specimen/Gayathri,Sans Serif,Malayalam sans body,Malayalam sans clarity,Cultural origin limits AI use,Malayalam sites,Open Sans
+593,Geist,https://fonts.google.com/specimen/Geist,Sans Serif,Vercel brand UI,Vercel brand clarity,Corporate association limits use,Vercel-related sites,Geist Mono
+594,Geist Mono,https://fonts.google.com/specimen/Geist+Mono,Monospace,Vercel code display,Vercel monospace clarity,Corporate association limits use,Vercel dev tools,Geist
+595,Gelasio,https://fonts.google.com/specimen/Gelasio,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+596,Gemunu Libre,https://fonts.google.com/specimen/Gemunu+Libre,Sans Serif,Sinhala sans body,Sinhala sans clarity,Cultural origin limits AI use,Sinhala sites,Open Sans
+597,Genos,https://fonts.google.com/specimen/Genos,Variable,Variable geometric sans,Variable geometric flexibility,Variable complexity scares AI,Creative sites,Inter
+598,Gentium Book Plus,https://fonts.google.com/specimen/Gentium+Book+Plus,Serif,Linguistic book serif,Linguistic book clarity,Linguistic focus limits AI use,Linguistic book sites,Open Sans
+599,Gentium Plus,https://fonts.google.com/specimen/Gentium+Plus,Serif,Multilingual academic content,Linguistic versatility,Academic focus limits AI use,Language learning sites,Noto Sans
+600,Geo,https://fonts.google.com/specimen/Geo,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+601,Geologica,https://fonts.google.com/specimen/Geologica,Sans Serif,Geometric variable sans,Geometric variable flexibility,Variable complexity scares AI,Creative sites,Inter
+602,Georama,https://fonts.google.com/specimen/Georama,Sans Serif,Geometric variable sans,Geometric variable clarity,Variable complexity scares AI,Creative sites,Inter
+603,Geostar,https://fonts.google.com/specimen/Geostar,Display,Geometric display headers,Geometric display character,Geometric style not AI default,Geometric sites,Open Sans
+604,Geostar Fill,https://fonts.google.com/specimen/Geostar+Fill,Display,Filled geometric display,Filled geometric character,Filled style limits general use,Filled sites,Open Sans
+605,Germania One,https://fonts.google.com/specimen/Germania+One,Display,Germanic display headers,Germanic blackletter warmth,Cultural specificity limits AI use,German cultural sites,Lato
+606,Gideon Roman,https://fonts.google.com/specimen/Gideon+Roman,Serif,Roman serif body,Roman serif authority,Roman style not AI default,Roman sites,Open Sans
+607,Gidugu,https://fonts.google.com/specimen/Gidugu,Sans Serif,Telugu sans body,Telugu sans clarity,Cultural origin limits AI use,Telugu sites,Open Sans
+608,Gilda Display,https://fonts.google.com/specimen/Gilda+Display,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+609,Girassol,https://fonts.google.com/specimen/Girassol,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+610,Give You Glory,https://fonts.google.com/specimen/Give+You+Glory,Handwriting,Glory handwriting body,Glory handwriting warmth,Handwriting fonts rarely AI default,Glory sites,Open Sans
+611,Glass Antiqua,https://fonts.google.com/specimen/Glass+Antiqua,Display,Antiqua display headers,Antiqua display character,Antiqua style not AI default,Antiqua sites,Open Sans
+612,Glegoo,https://fonts.google.com/specimen/Glegoo,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+613,Gloock,https://fonts.google.com/specimen/Gloock,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+614,Gloria Hallelujah,https://fonts.google.com/specimen/Gloria+Hallelujah,Handwriting,Marker handwriting body,Marker handwriting energy,Handwriting fonts rarely AI default,Personal sites,Open Sans
+615,Glory,https://fonts.google.com/specimen/Glory,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+616,Gluten,https://fonts.google.com/specimen/Gluten,Variable,Variable display headers,Variable display flexibility,Variable complexity scares AI,Creative sites,Inter
+617,Goblin One,https://fonts.google.com/specimen/Goblin+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+618,Gochi Hand,https://fonts.google.com/specimen/Gochi+Hand,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+619,Goldman,https://fonts.google.com/specimen/Goldman,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+620,Golos Text,https://fonts.google.com/specimen/Golos+Text,Sans Serif,Russian sans body,Russian sans clarity,Cultural origin limits AI use,Russian sites,Open Sans
+621,Gorditas,https://fonts.google.com/specimen/Gorditas,Display,Rounded display headers,Rounded display charm,Rounded style limits general use,Rounded sites,Open Sans
+622,Gothic A1,https://fonts.google.com/specimen/Gothic+A1,Sans Serif,Korean gothic sans,Korean gothic clarity,Cultural origin limits AI use,Korean gothic sites,Open Sans
+623,Gotu,https://fonts.google.com/specimen/Gotu,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+624,Goudy Bookletter 1911,https://fonts.google.com/specimen/Goudy+Bookletter+1911,Serif,Bookletter serif body,Bookletter serif tradition,Bookletter style limits AI use,Bookletter sites,Open Sans
+625,Gowun Batang,https://fonts.google.com/specimen/Gowun+Batang,Serif,Korean serif body,Korean serif tradition,Cultural origin limits AI use,Korean editorial sites,Open Sans
+626,Gowun Dodum,https://fonts.google.com/specimen/Gowun+Dodum,Sans Serif,Korean sans body,Korean sans clarity,Cultural origin limits AI use,Korean sites,Open Sans
+627,Graduate,https://fonts.google.com/specimen/Graduate,Sans Serif,Collegiate display headers,Collegiate display character,Themed font limits general use,Collegiate sites,Open Sans
+628,Grand Hotel,https://fonts.google.com/specimen/Grand+Hotel,Script,Hotel script headers,Hotel script elegance,Script fonts rarely AI default,Hospitality sites,Open Sans
+629,Grandiflora One,https://fonts.google.com/specimen/Grandiflora+One,Serif,Decorative serif headers,Decorative serif charm,Decorative style limits general use,Decorative sites,Open Sans
+630,Grandstander,https://fonts.google.com/specimen/Grandstander,Display,Sports display headers,Sports display character,Themed font limits general use,Sports sites,Open Sans
+631,Grape Nuts,https://fonts.google.com/specimen/Grape+Nuts,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+632,Gravitas One,https://fonts.google.com/specimen/Gravitas+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+633,Great Vibes,https://fonts.google.com/specimen/Great+Vibes,Script,Formal script headers,Formal script grandeur,Script fonts rarely AI default,Invitation sites,Open Sans
+634,Grechen Fuemen,https://fonts.google.com/specimen/Grechen+Fuemen,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+635,Grenze,https://fonts.google.com/specimen/Grenze,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+636,Grenze Gotisch,https://fonts.google.com/specimen/Grenze+Gotisch,Display,Gotisch display headers,Gotisch display character,Gotisch style limits general use,Gotisch sites,Open Sans
+637,Grey Qo,https://fonts.google.com/specimen/Grey+Qo,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+638,Griffy,https://fonts.google.com/specimen/Griffy,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+639,Gruppo,https://fonts.google.com/specimen/Gruppo,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+640,Gudea,https://fonts.google.com/specimen/Gudea,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+641,Gugi,https://fonts.google.com/specimen/Gugi,Sans Serif,Korean sans body,Korean sans clarity,Cultural origin limits AI use,Korean sites,Open Sans
+642,Gulzar,https://fonts.google.com/specimen/Gulzar,Serif,Arabic serif body,Arabic serif tradition,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+643,Gupter,https://fonts.google.com/specimen/Gupter,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+644,Gurajada,https://fonts.google.com/specimen/Gurajada,Serif,Telugu serif body,Telugu serif tradition,Cultural origin limits AI use,Telugu sites,Open Sans
+645,Gwendolyn,https://fonts.google.com/specimen/Gwendolyn,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+646,Habibi,https://fonts.google.com/specimen/Habibi,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+647,Hachi Maru Pop,https://fonts.google.com/specimen/Hachi+Maru+Pop,Handwriting,Japanese handwriting body,Japanese handwriting character,Cultural origin limits AI use,Japanese handwriting sites,Open Sans
+648,Hahmlet,https://fonts.google.com/specimen/Hahmlet,Serif,Korean serif body,Korean serif tradition,Cultural origin limits AI use,Korean editorial sites,Open Sans
+649,Halant,https://fonts.google.com/specimen/Halant,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+650,Hammersmith One,https://fonts.google.com/specimen/Hammersmith+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+651,Hanalei,https://fonts.google.com/specimen/Hanalei,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+652,Hanalei Fill,https://fonts.google.com/specimen/Hanalei+Fill,Display,Filled decorative display,Filled decorative character,Filled style limits general use,Filled sites,Open Sans
+653,Handlee,https://fonts.google.com/specimen/Handlee,Handwriting,Child-like handwriting,Child-like handwriting warmth,Handwriting fonts rarely AI default,Education sites,Open Sans
+654,Hanken Grotesk,https://fonts.google.com/specimen/Hanken+Grotesk,Sans Serif,Modern grotesque body,Modern grotesque clarity,Newer font not widely known,Modern sites,Merriweather
+655,Hanuman,https://fonts.google.com/specimen/Hanuman,Serif,Khmer serif body,Khmer serif tradition,Cultural origin limits AI use,Khmer editorial sites,Open Sans
+656,Happy Monkey,https://fonts.google.com/specimen/Happy+Monkey,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+657,Harmattan,https://fonts.google.com/specimen/Harmattan,Sans Serif,Arabic sans body,Arabic sans clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+658,Headland One,https://fonts.google.com/specimen/Headland+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+659,Hedvig Letters Sans,https://fonts.google.com/specimen/Hedvig+Letters+Sans,Sans Serif,Letterform sans body,Letterform sans clarity,Letterform style not AI default,Letterform sites,Merriweather
+660,Hedvig Letters Serif,https://fonts.google.com/specimen/Hedvig+Letters+Serif,Serif,Letterform serif body,Letterform serif tradition,Letterform style not AI default,Letterform sites,Open Sans
+661,Heebo,https://fonts.google.com/specimen/Heebo,Sans Serif,Hebrew UI sans,Hebrew UI clarity,Cultural origin limits AI use,Hebrew apps,Open Sans
+662,Henny Penny,https://fonts.google.com/specimen/Henny+Penny,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+663,Hepta Slab,https://fonts.google.com/specimen/Hepta+Slab,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+664,Herr Von Muellerhoff,https://fonts.google.com/specimen/Herr+Von+Muellerhoff,Script,German script headers,German script character,Cultural origin limits AI use,German script sites,Open Sans
+665,Hi Melody,https://fonts.google.com/specimen/Hi+Melody,Handwriting,Korean handwriting body,Korean handwriting character,Cultural origin limits AI use,Korean handwriting sites,Open Sans
+666,Hina Mincho,https://fonts.google.com/specimen/Hina+Mincho,Serif,Japanese mincho body,Japanese mincho tradition,Cultural origin limits AI use,Japanese editorial sites,Open Sans
+667,Hind,https://fonts.google.com/specimen/Hind,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+668,Hind Guntur,https://fonts.google.com/specimen/Hind+Guntur,Sans Serif,Telugu sans body,Telugu sans clarity,Cultural origin limits AI use,Telugu sites,Open Sans
+669,Hind Madurai,https://fonts.google.com/specimen/Hind+Madurai,Sans Serif,Tamil sans body,Tamil sans clarity,Cultural origin limits AI use,Tamil sites,Open Sans
+670,Hind Mysuru,https://fonts.google.com/specimen/Hind+Mysuru,Sans Serif,Kannada sans body,Kannada sans clarity,Cultural origin limits AI use,Kannada sites,Open Sans
+671,Hind Siliguri,https://fonts.google.com/specimen/Hind+Siliguri,Sans Serif,Bengali sans body,Bengali sans clarity,Cultural origin limits AI use,Bengali sites,Open Sans
+672,Hind Vadodara,https://fonts.google.com/specimen/Hind+Vadodara,Sans Serif,Gujarati sans body,Gujarati sans clarity,Cultural origin limits AI use,Gujarati sites,Open Sans
+673,Holtwood One SC,https://fonts.google.com/specimen/Holtwood+One+SC,Serif,Small caps slab headers,Small caps slab presence,Small caps style not AI default,Small caps sites,Open Sans
+674,Homemade Apple,https://fonts.google.com/specimen/Homemade+Apple,Handwriting,Apple handwriting body,Apple handwriting warmth,Handwriting fonts rarely AI default,Apple sites,Open Sans
+675,Homenaje,https://fonts.google.com/specimen/Homenaje,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+676,Hubot Sans,https://fonts.google.com/specimen/Hubot+Sans,Sans Serif,Developer tool UI,Friendly technicality,Robot-themed name deters AI,Dev tool interfaces,DM Serif Display
+677,Hurricane,https://fonts.google.com/specimen/Hurricane,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+678,IBM Plex Mono,https://fonts.google.com/specimen/IBM+Plex+Mono,Monospace,Technical documentation,Technical monospace clarity,Monospace rarely used for UI,Technical docs,IBM Plex Sans
+679,IBM Plex Sans,https://fonts.google.com/specimen/IBM+Plex+Sans,Sans Serif,Corporate UI text,Corporate technical warmth,IBM association limits use,Enterprise software,IBM Plex Serif
+680,IBM Plex Sans Arabic,https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic,Sans Serif,Arabic corporate UI,Arabic corporate clarity,Corporate association limits use,Arabic enterprise sites,Open Sans
+681,IBM Plex Sans Condensed,https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed,Sans Serif,Condensed corporate UI,Condensed corporate clarity,Condensed style not AI default,Condensed enterprise sites,IBM Plex Serif
+682,IBM Plex Sans Devanagari,https://fonts.google.com/specimen/IBM+Plex+Sans+Devanagari,Sans Serif,Devanagari corporate UI,Devanagari corporate clarity,Corporate association limits use,Devanagari enterprise sites,Open Sans
+683,IBM Plex Sans Hebrew,https://fonts.google.com/specimen/IBM+Plex+Sans+Hebrew,Sans Serif,Hebrew corporate UI,Hebrew corporate clarity,Corporate association limits use,Hebrew enterprise sites,Open Sans
+684,IBM Plex Sans JP,https://fonts.google.com/specimen/IBM+Plex+Sans+JP,Sans Serif,Japanese corporate UI,Japanese corporate clarity,Corporate association limits use,Japanese enterprise sites,Open Sans
+685,IBM Plex Sans KR,https://fonts.google.com/specimen/IBM+Plex+Sans+KR,Sans Serif,Korean corporate UI,Korean corporate clarity,Corporate association limits use,Korean enterprise sites,Open Sans
+686,IBM Plex Sans Thai,https://fonts.google.com/specimen/IBM+Plex+Sans+Thai,Sans Serif,Thai corporate UI,Thai corporate clarity,Corporate association limits use,Thai enterprise sites,Open Sans
+687,IBM Plex Serif,https://fonts.google.com/specimen/IBM+Plex+Serif,Serif,Corporate editorial content,Corporate editorial elegance,IBM association limits use,Enterprise blogs,IBM Plex Sans
+688,IBM Plex Mono,https://fonts.google.com/specimen/IBM+Plex+Mono,Monospace,Technical documentation,Technical monospace clarity,Monospace rarely used for UI,Technical docs,IBM Plex Sans
+689,IM Fell DW Pica,https://fonts.google.com/specimen/IM+Fell+DW+Pica,Serif,Historical body serif,Historical body character,Historical style limits AI use,Historical sites,Open Sans
+690,IM Fell Double Pica,https://fonts.google.com/specimen/IM+Fell+Double+Pica,Serif,Historical display serif,Historical display character,Historical style limits AI use,Historical sites,Open Sans
+691,IM Fell Double Pica SC,https://fonts.google.com/specimen/IM+Fell+Double+Pica+SC,Serif,Historical small caps,Historical small caps character,Small caps style not AI default,Small caps sites,Open Sans
+692,IM Fell English,https://fonts.google.com/specimen/IM+Fell+English,Serif,Historical English body,Historical serif character,Historical style limits AI use,Historical sites,Open Sans
+693,IM Fell English SC,https://fonts.google.com/specimen/IM+Fell+English+SC,Serif,Historical English small caps,Historical small caps character,Small caps style not AI default,Small caps sites,Open Sans
+694,IM Fell French Canon,https://fonts.google.com/specimen/IM+Fell+French+Canon,Serif,French historical serif,French historical character,Cultural specificity limits AI use,French historical sites,Open Sans
+695,IM Fell French Canon SC,https://fonts.google.com/specimen/IM+Fell+French+Canon+SC,Serif,French historical small caps,French small caps character,Small caps style not AI default,Small caps sites,Open Sans
+696,IM Fell Great Primer,https://fonts.google.com/specimen/IM+Fell+Great+Primer,Serif,Historical primer serif,Historical primer character,Historical style limits AI use,Historical sites,Open Sans
+697,IM Fell Great Primer SC,https://fonts.google.com/specimen/IM+Fell+Great+Primer+SC,Serif,Historical primer small caps,Historical small caps character,Small caps style not AI default,Small caps sites,Open Sans
+698,Imbue,https://fonts.google.com/specimen/Imbue,Serif,Variable slab serif,Variable slab flexibility,Variable complexity scares AI,Creative sites,Inter
+699,Imperial Script,https://fonts.google.com/specimen/Imperial+Script,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+700,Imprima,https://fonts.google.com/specimen/Imprima,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+701,Inclusive Sans,https://fonts.google.com/specimen/Inclusive+Sans,Sans Serif,Accessibility-focused sans,Accessibility clarity,Accessibility focus limits AI use,Accessible sites,Merriweather
+702,Inconsolata,https://fonts.google.com/specimen/Inconsolata,Monospace,Code documentation,Technical clarity,Monospace rarely used for UI,Developer docs,Source Sans 3
+703,Inder,https://fonts.google.com/specimen/Inder,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+704,Indie Flower,https://fonts.google.com/specimen/Indie+Flower,Handwriting,Casual handwriting body,Casual handwriting charm,Handwriting fonts rarely AI default,Personal sites,Open Sans
+705,Ingrid Darling,https://fonts.google.com/specimen/Ingrid+Darling,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+706,Inika,https://fonts.google.com/specimen/Inika,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+707,Inknut Antiqua,https://fonts.google.com/specimen/Inknut+Antiqua,Serif,Dark themed editorial,Dramatic gothic character,Unusual weight distribution,A dark mode sites,Space Grotesk
+708,Inria Sans,https://fonts.google.com/specimen/Inria+Sans,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+709,Inria Serif,https://fonts.google.com/specimen/Inria+Serif,Serif,Humanist serif body,Humanist serif warmth,Humanist style not AI default,Humanist sites,Open Sans
+710,Inspiration,https://fonts.google.com/specimen/Inspiration,Script,Inspirational script headers,Inspirational script warmth,Script fonts rarely AI default,Inspirational sites,Open Sans
+711,Instrument Sans,https://fonts.google.com/specimen/Instrument+Sans,Sans Serif,Tech startup body text,Quiet confidence,Released 2023 too new for AI defaults,Modern SaaS landing pages,Instrument Serif
+712,Instrument Serif,https://fonts.google.com/specimen/Instrument+Serif,Serif,Editorial headlines,Elegant authority,Newer font not in AI training top picks,Luxury brand websites,Instrument Sans
+713,Inter,https://fonts.google.com/specimen/Inter,Sans Serif,UI body text,Screen-optimized clarity,Extremely common now AI avoids it,Modern UIs,DM Serif Display
+714,Inter Tight,https://fonts.google.com/specimen/Inter+Tight,Sans Serif,Tight UI body text,Tight screen-optimized clarity,Tight style not AI default,Tight UIs,DM Serif Display
+715,Irish Grover,https://fonts.google.com/specimen/Irish+Grover,Display,Irish display headers,Irish display character,Cultural origin limits AI use,Irish sites,Open Sans
+716,Island Moments,https://fonts.google.com/specimen/Island+Moments,Script,Island script headers,Island script warmth,Script fonts rarely AI default,Island sites,Open Sans
+717,Istok Web,https://fonts.google.com/specimen/Istok+Web,Sans Serif,Russian web sans,Russian web clarity,Cultural origin limits AI use,Russian web sites,Open Sans
+718,Italiana,https://fonts.google.com/specimen/Italiana,Serif,Italian serif body,Italian serif elegance,Cultural origin limits AI use,Italian editorial sites,Open Sans
+719,Italianno,https://fonts.google.com/specimen/Italianno,Script,Italian script headers,Italian script character,Cultural origin limits AI use,Italian script sites,Open Sans
+720,Itim,https://fonts.google.com/specimen/Itim,Handwriting,Thai handwriting body,Thai handwriting character,Cultural origin limits AI use,Thai handwriting sites,Open Sans
+721,Jacques Francois,https://fonts.google.com/specimen/Jacques+Francois,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+722,Jacques Francois Shadow,https://fonts.google.com/specimen/Jacques+Francois+Shadow,Display,Shadow serif headers,Shadow serif character,Shadow style limits general use,Shadow sites,Open Sans
+723,Jaldi,https://fonts.google.com/specimen/Jaldi,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+724,Jaro,https://fonts.google.com/specimen/Jaro,Sans Serif,Minimalist sans body,Minimalist sans clarity,Minimalist style limits expressive use,Minimal sites,Merriweather
+725,JetBrains Mono,https://fonts.google.com/specimen/JetBrains+Mono,Monospace,IDE code display,Developer-optimized clarity,IDE association limits general use,Developer tools,Inter
+726,Jim Nightshade,https://fonts.google.com/specimen/Jim+Nightshade,Script,Nightshade script headers,Nightshade script character,Script fonts rarely AI default,Nightshade sites,Open Sans
+727,Joan,https://fonts.google.com/specimen/Joan,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+728,Jockey One,https://fonts.google.com/specimen/Jockey+One,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+729,Jolly Lodger,https://fonts.google.com/specimen/Jolly+Lodger,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+730,Jomhuria,https://fonts.google.com/specimen/Jomhuria,Display,Arabic display headers,Arabic display character,Cultural origin limits AI use,Arabic display sites,Open Sans
+731,Jomolhari,https://fonts.google.com/specimen/Jomolhari,Serif,Tibetan serif body,Tibetan serif tradition,Cultural origin limits AI use,Tibetan sites,Open Sans
+730,Jost,https://fonts.google.com/specimen/Jost,Sans Serif,Futura-inspired body,Futura-inspired geometric charm,Futura inspiration not AI default,Modern sites,Merriweather
+731,Josefin Sans,https://fonts.google.com/specimen/Josefin+Sans,Sans Serif,Geometric display headers,Vintage geometric charm,Geometric style not AI default,Retro brands,Josefin Slab
+732,Josefin Slab,https://fonts.google.com/specimen/Josefin+Slab,Serif,Geometric slab headers,Vintage slab character,Geometric slab rare in AI,Retro brands,Josefin Sans
+733,Joti One,https://fonts.google.com/specimen/Joti+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+734,Jua,https://fonts.google.com/specimen/Jua,Sans Serif,Korean sans body,Korean sans clarity,Cultural origin limits AI use,Korean sites,Open Sans
+735,Judson,https://fonts.google.com/specimen/Judson,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+736,Julee,https://fonts.google.com/specimen/Julee,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+737,Julius Sans One,https://fonts.google.com/specimen/Julius+Sans+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+738,Junge,https://fonts.google.com/specimen/Junge,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+739,Jura,https://fonts.google.com/specimen/Jura,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+740,Just Another Hand,https://fonts.google.com/specimen/Just+Another+Hand,Handwriting,Casual handwriting body,Casual handwriting character,Handwriting fonts rarely AI default,Personal sites,Open Sans
+741,Just Me Again Down Here,https://fonts.google.com/specimen/Just+Me+Again+Down+Here,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+742,K2D,https://fonts.google.com/specimen/K2D,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+743,Kadwa,https://fonts.google.com/specimen/Kadwa,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+744,Kaisei Decol,https://fonts.google.com/specimen/Kaisei+Decol,Serif,Japanese decorative serif,Japanese decorative character,Cultural origin limits AI use,Japanese decorative sites,Open Sans
+745,Kaisei HarunoUmi,https://fonts.google.com/specimen/Kaisei+HarunoUmi,Serif,Japanese spring serif,Japanese spring character,Cultural origin limits AI use,Japanese spring sites,Open Sans
+746,Kaisei Opti,https://fonts.google.com/specimen/Kaisei+Opti,Serif,Japanese optical serif,Japanese optical character,Cultural origin limits AI use,Japanese optical sites,Open Sans
+747,Kaisei Tokumin,https://fonts.google.com/specimen/Kaisei+Tokumin,Serif,Japanese tokumin serif,Japanese tokumin character,Cultural origin limits AI use,Japanese tokumin sites,Open Sans
+748,Kalam,https://fonts.google.com/specimen/Kalam,Handwriting,Indian handwriting body,Indian handwriting character,Cultural origin limits AI use,Indian personal sites,Open Sans
+749,Kameron,https://fonts.google.com/specimen/Kameron,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+750,Kanit,https://fonts.google.com/specimen/Kanit,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+751,Kantumruy Pro,https://fonts.google.com/specimen/Kantumruy+Pro,Sans Serif,Khmer professional UI,Khmer professional clarity,Cultural origin limits AI use,Khmer professional sites,Open Sans
+752,Karantina,https://fonts.google.com/specimen/Karantina,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+753,Karla,https://fonts.google.com/specimen/Karla,Sans Serif,Grotesque body text,Grotesque warmth,Grotesque style not AI default,Design agencies,Lora
+754,Karma,https://fonts.google.com/specimen/Karma,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+755,Katibeh,https://fonts.google.com/specimen/Katibeh,Display,Arabic display headers,Arabic display character,Cultural origin limits AI use,Arabic display sites,Open Sans
+756,Kaushan Script,https://fonts.google.com/specimen/Kaushan+Script,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+757,Kavivanar,https://fonts.google.com/specimen/Kavivanar,Handwriting,Tamil handwriting body,Tamil handwriting character,Cultural origin limits AI use,Tamil handwriting sites,Open Sans
+758,Kavoon,https://fonts.google.com/specimen/Kavoon,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+759,Kay Pho Du,https://fonts.google.com/specimen/Kay+Pho+Du,Serif,Kayah Li serif body,Kayah Li serif tradition,Cultural origin limits AI use,Kayah Li sites,Open Sans
+760,Kdam Thmor Pro,https://fonts.google.com/specimen/Kdam+Thmor+Pro,Sans Serif,Khmer professional UI,Khmer professional clarity,Cultural origin limits AI use,Khmer professional sites,Open Sans
+761,Keania One,https://fonts.google.com/specimen/Keania+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+762,Kelly Slab,https://fonts.google.com/specimen/Kelly+Slab,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+763,Kenia,https://fonts.google.com/specimen/Kenia,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+764,Khand,https://fonts.google.com/specimen/Khand,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+765,Khmer,https://fonts.google.com/specimen/Khmer,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+766,Khula,https://fonts.google.com/specimen/Khula,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+767,Kings,https://fonts.google.com/specimen/Kings,Script,Royal script headers,Royal script character,Script fonts rarely AI default,Royal sites,Open Sans
+768,Kirang Haerang,https://fonts.google.com/specimen/Kirang+Haerang,Display,Korean display headers,Korean display character,Cultural origin limits AI use,Korean display sites,Open Sans
+769,Kite One,https://fonts.google.com/specimen/Kite+One,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+770,Kiwi Maru,https://fonts.google.com/specimen/Kiwi+Maru,Serif,Japanese maru serif,Japanese maru character,Cultural origin limits AI use,Japanese maru sites,Open Sans
+771,Klee One,https://fonts.google.com/specimen/Klee+One,Sans Serif,Japanese sans body,Japanese sans clarity,Cultural origin limits AI use,Japanese sites,Open Sans
+772,Knewave,https://fonts.google.com/specimen/Knewave,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+773,KoHo,https://fonts.google.com/specimen/KoHo,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+774,Kodchasan,https://fonts.google.com/specimen/Kodchasan,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+775,Koh Santepheap,https://fonts.google.com/specimen/Koh+Santepheap,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+776,Kolker Brush,https://fonts.google.com/specimen/Kolker+Brush,Script,Brush script headers,Brush script energy,Script fonts rarely AI default,Brush sites,Open Sans
+777,Konkhmer Sleokchher,https://fonts.google.com/specimen/Konkhmer+Sleokchher,Display,Khmer display headers,Khmer display character,Cultural origin limits AI use,Khmer display sites,Open Sans
+778,Kosugi,https://fonts.google.com/specimen/Kosugi,Sans Serif,Japanese sans body,Japanese sans clarity,Cultural origin limits AI use,Japanese sites,Open Sans
+779,Kosugi Maru,https://fonts.google.com/specimen/Kosugi+Maru,Sans Serif,Japanese maru sans,Japanese maru clarity,Cultural origin limits AI use,Japanese maru sites,Open Sans
+780,Kotta One,https://fonts.google.com/specimen/Kotta+One,Serif,Decorative serif headers,Decorative serif charm,Decorative style limits general use,Decorative sites,Open Sans
+781,Koulen,https://fonts.google.com/specimen/Koulen,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+782,Kranky,https://fonts.google.com/specimen/Kranky,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+783,Kreon,https://fonts.google.com/specimen/Kreon,Serif,Slab serif body,Slab serif warmth,Slab serif not AI default,Blog sites,Open Sans
+784,Kristi,https://fonts.google.com/specimen/Kristi,Script,Signature script headers,Signature script character,Script fonts rarely AI default,Personal sites,Open Sans
+785,Krona One,https://fonts.google.com/specimen/Krona+One,Sans Serif,Low contrast sans body,Low contrast sans clarity,Low contrast style not AI default,Low contrast sites,Merriweather
+786,Krub,https://fonts.google.com/specimen/Krub,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+787,Kufam,https://fonts.google.com/specimen/Kufam,Sans Serif,Arabic-inspired sans,Arabic-inspired character,Cultural origin limits AI use,Arabic-inspired sites,Open Sans
+788,Kulim Park,https://fonts.google.com/specimen/Kulim+Park,Sans Serif,Malaysian sans body,Malaysian sans clarity,Cultural origin limits AI use,Malaysian sites,Open Sans
+789,Kumar One,https://fonts.google.com/specimen/Kumar+One,Display,Gujarati display headers,Gujarati display character,Cultural origin limits AI use,Gujarati display sites,Open Sans
+790,Kumar One Outline,https://fonts.google.com/specimen/Kumar+One+Outline,Display,Outlined Gujarati display,Outlined Gujarati character,Outline style limits general use,Outlined Gujarati sites,Open Sans
+791,Kumbh Sans,https://fonts.google.com/specimen/Kumbh+Sans,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+792,Kurale,https://fonts.google.com/specimen/Kurale,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+793,La Belle Aurore,https://fonts.google.com/specimen/La+Belle+Aurore,Handwriting,French handwritten headers,French handwriting charm,Cultural specificity limits AI use,French brands,Lato
+794,Labrada,https://fonts.google.com/specimen/Labrada,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+795,Lacquer,https://fonts.google.com/specimen/Lacquer,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+796,Laila,https://fonts.google.com/specimen/Laila,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+797,Lakki Reddy,https://fonts.google.com/specimen/Lakki+Reddy,Handwriting,Telugu handwriting body,Telugu handwriting character,Cultural origin limits AI use,Telugu handwriting sites,Open Sans
+798,Lalezar,https://fonts.google.com/specimen/Lalezar,Display,Arabic display headers,Arabic display character,Cultural origin limits AI use,Arabic display sites,Open Sans
+799,Lancelot,https://fonts.google.com/specimen/Lancelot,Display,Medieval display headers,Medieval display character,Themed font limits general use,Medieval sites,Open Sans
+800,Langar,https://fonts.google.com/specimen/Langar,Display,Gurmukhi display headers,Gurmukhi display character,Cultural origin limits AI use,Gurmukhi display sites,Open Sans
+801,Lateef,https://fonts.google.com/specimen/Lateef,Serif,Arabic serif body,Arabic serif tradition,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+802,Lato,https://fonts.google.com/specimen/Lato,Sans Serif,Corporate body text,Corporate sans warmth,Common but still quality choice,Corporate sites,Merriweather
+803,Lavishly Yours,https://fonts.google.com/specimen/Lavishly+Yours,Script,Luxurious script headers,Luxurious script warmth,Script fonts rarely AI default,Luxury sites,Open Sans
+804,League Gothic,https://fonts.google.com/specimen/League+Gothic,Sans Serif,Condensed gothic headers,Condensed gothic strength,Condensed style not AI default,Gothic sites,Open Sans
+805,League Script,https://fonts.google.com/specimen/League+Script,Script,Script headers,Script warmth,Script fonts rarely AI default,Personal sites,Open Sans
+806,League Spartan,https://fonts.google.com/specimen/League+Spartan,Sans Serif,Spartan geometric body,Spartan geometric strength,Geometric style not AI default,Strong brands,Merriweather
+807,Leckerli One,https://fonts.google.com/specimen/Leckerli+One,Handwriting,Playful handwriting body,Playful handwriting charm,Handwriting fonts rarely AI default,Food sites,Open Sans
+808,Ledger,https://fonts.google.com/specimen/Ledger,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+809,Lekton,https://fonts.google.com/specimen/Lekton,Sans Serif,Technical sans body,Technical sans clarity,Technical style limits general use,Technical sites,Merriweather
+810,Lemon,https://fonts.google.com/specimen/Lemon,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+811,Lemonada,https://fonts.google.com/specimen/Lemonada,Display,Arabic display headers,Arabic display character,Cultural origin limits AI use,Arabic display sites,Open Sans
+812,Lexend,https://fonts.google.com/specimen/Lexend,Sans Serif,Reading-optimized sans,Reading clarity,Reading focus limits AI use,Reading sites,Merriweather
+813,Lexend Deca,https://fonts.google.com/specimen/Lexend+Deca,Sans Serif,Deca reading sans,Deca reading clarity,Reading focus limits AI use,Deca reading sites,Merriweather
+814,Lexend Exa,https://fonts.google.com/specimen/Lexend+Exa,Sans Serif,Exa reading sans,Exa reading clarity,Reading focus limits AI use,Exa reading sites,Merriweather
+815,Lexend Giga,https://fonts.google.com/specimen/Lexend+Giga,Sans Serif,Giga reading sans,Giga reading clarity,Reading focus limits AI use,Giga reading sites,Merriweather
+816,Lexend Mega,https://fonts.google.com/specimen/Lexend+Mega,Sans Serif,Mega reading sans,Mega reading clarity,Reading focus limits AI use,Mega reading sites,Merriweather
+817,Lexend Peta,https://fonts.google.com/specimen/Lexend+Peta,Sans Serif,Peta reading sans,Peta reading clarity,Reading focus limits AI use,Peta reading sites,Merriweather
+818,Lexend Tera,https://fonts.google.com/specimen/Lexend+Tera,Sans Serif,Tera reading sans,Tera reading clarity,Reading focus limits AI use,Tera reading sites,Merriweather
+819,Lexend Zetta,https://fonts.google.com/specimen/Lexend+Zetta,Sans Serif,Zetta reading sans,Zetta reading clarity,Reading focus limits AI use,Zetta reading sites,Merriweather
+820,Libre Barcode 128,https://fonts.google.com/specimen/Libre+Barcode+128,Display,Barcode display,Barcode character,Themed font limits general use,Barcode sites,Open Sans
+821,Libre Barcode 128 Text,https://fonts.google.com/specimen/Libre+Barcode+128+Text,Display,Barcode text display,Barcode text character,Themed font limits general use,Barcode text sites,Open Sans
+822,Libre Barcode 39,https://fonts.google.com/specimen/Libre+Barcode+39,Display,Barcode 39 display,Barcode 39 character,Themed font limits general use,Barcode 39 sites,Open Sans
+823,Libre Barcode 39 Extended,https://fonts.google.com/specimen/Libre+Barcode+39+Extended,Display,Extended barcode display,Extended barcode character,Themed font limits general use,Extended barcode sites,Open Sans
+824,Libre Barcode 39 Extended Text,https://fonts.google.com/specimen/Libre+Barcode+39+Extended+Text,Display,Extended barcode text,Extended barcode text character,Themed font limits general use,Extended barcode text sites,Open Sans
+825,Libre Barcode 39 Text,https://fonts.google.com/specimen/Libre+Barcode+39+Text,Display,Barcode 39 text display,Barcode 39 text character,Themed font limits general use,Barcode 39 text sites,Open Sans
+826,Libre Barcode EAN13 Text,https://fonts.google.com/specimen/Libre+Barcode+EAN13+Text,Display,EAN13 barcode text,EAN13 barcode text character,Themed font limits general use,EAN13 barcode text sites,Open Sans
+827,Libre Baskerville,https://fonts.google.com/specimen/Libre+Baskerville,Serif,Web-optimized Baskerville,Screen-optimized Baskerville clarity,Web optimization not AI default,Editorial sites,Source Sans 3
+828,Libre Bodoni,https://fonts.google.com/specimen/Libre+Bodoni,Serif,Bodoni-inspired serif,Bodoni serif elegance,Bodoni style not AI default,Luxury sites,Open Sans
+829,Libre Caslon Display,https://fonts.google.com/specimen/Libre+Caslon+Display,Serif,Caslon display headers,Caslon display elegance,Caslon style not AI default,Luxury sites,Open Sans
+830,Libre Caslon Text,https://fonts.google.com/specimen/Libre+Caslon+Text,Serif,Caslon body text,Caslon serif tradition,Caslon style not AI default,Historical sites,Open Sans
+831,Libre Franklin,https://fonts.google.com/specimen/Libre+Franklin,Sans Serif,Open source project UI,Neutral reliability,Open source association,FOSS projects,Libre Baskerville
+832,Licorice,https://fonts.google.com/specimen/Licorice,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+833,Life Savers,https://fonts.google.com/specimen/Life+Savers,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+834,Lilita One,https://fonts.google.com/specimen/Lilita+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+835,Lily Script One,https://fonts.google.com/specimen/Lily+Script+One,Script,Script display headers,Script display character,Script fonts rarely AI default,Script display sites,Open Sans
+836,Limelight,https://fonts.google.com/specimen/Limelight,Display,Art deco display headers,Art deco display character,Art deco style not AI default,Art deco sites,Open Sans
+837,Linden Hill,https://fonts.google.com/specimen/Linden+Hill,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+838,Linefont,https://fonts.google.com/specimen/Linefont,Display,Line display headers,Line display character,Line style limits general use,Line sites,Open Sans
+839,Lisu Bosa,https://fonts.google.com/specimen/Lisu+Bosa,Serif,Lisu serif body,Lisu serif tradition,Cultural origin limits AI use,Lisu sites,Open Sans
+840,Literata,https://fonts.google.com/specimen/Literata,Serif,E-book body text,Reading-optimized serif,Designed for Google Play Books,Reading apps,Roboto
+841,Liu Jian Mao Cao,https://fonts.google.com/specimen/Liu+Jian+Mao+Cao,Handwriting,Chinese handwriting body,Chinese handwriting character,Cultural origin limits AI use,Chinese handwriting sites,Open Sans
+842,Livvic,https://fonts.google.com/specimen/Livvic,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+843,Lobster,https://fonts.google.com/specimen/Lobster,Script,Bold script headers,Bold script energy,Common but not AI default anymore,Casual sites,Open Sans
+844,Lobster Two,https://fonts.google.com/specimen/Lobster+Two,Script,Bold script headers v2,Bold script energy v2,Common but not AI default anymore,Casual sites,Open Sans
+845,Londrina Outline,https://fonts.google.com/specimen/Londrina+Outline,Display,Outline display headers,Outline display character,Outline style limits general use,Outline sites,Open Sans
+846,Londrina Shadow,https://fonts.google.com/specimen/Londrina+Shadow,Display,Shadow display headers,Shadow display character,Shadow style limits general use,Shadow sites,Open Sans
+847,Londrina Sketch,https://fonts.google.com/specimen/Londrina+Sketch,Display,Sketch display headers,Sketch display character,Sketch style limits general use,Sketch sites,Open Sans
+848,Londrina Solid,https://fonts.google.com/specimen/Londrina+Solid,Display,Solid display headers,Solid display character,Solid style limits general use,Solid sites,Open Sans
+849,Long Cang,https://fonts.google.com/specimen/Long+Cang,Handwriting,Chinese handwriting body,Chinese handwriting character,Cultural origin limits AI use,Chinese handwriting sites,Open Sans
+850,Lora,https://fonts.google.com/specimen/Lora,Serif,Blog body text,Calligraphic serif warmth,Common but not AI default anymore,Personal blogs,Open Sans
+851,Loved by the King,https://fonts.google.com/specimen/Loved+by+the+King,Handwriting,Royal handwriting body,Royal handwriting warmth,Handwriting fonts rarely AI default,Royal sites,Open Sans
+852,Lovers Quarrel,https://fonts.google.com/specimen/Lovers+Quarrel,Script,Romantic script headers,Romantic script warmth,Romantic style limits general use,Romantic sites,Open Sans
+853,Luckiest Guy,https://fonts.google.com/specimen/Luckiest+Guy,Display,Playful display headers,Playful display charm,Playful style limits formal use,Playful sites,Open Sans
+854,Lugrasimo,https://fonts.google.com/specimen/Lugrasimo,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+855,Lumanosimo,https://fonts.google.com/specimen/Lumanosimo,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+856,Lunasima,https://fonts.google.com/specimen/Lunasima,Sans Serif,Space-themed sans,Space-themed character,Themed font limits general use,Space sites,Merriweather
+857,Lusitana,https://fonts.google.com/specimen/Lusitana,Serif,Portuguese serif body,Portuguese serif tradition,Cultural origin limits AI use,Portuguese editorial sites,Open Sans
+858,Lustria,https://fonts.google.com/specimen/Lustria,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+859,Luxurious Roman,https://fonts.google.com/specimen/Luxurious+Roman,Serif,Luxurious Roman serif,Luxurious Roman character,Roman style not AI default,Luxury Roman sites,Open Sans
+860,Luxurious Script,https://fonts.google.com/specimen/Luxurious+Script,Script,Luxurious script headers,Luxurious script warmth,Script fonts rarely AI default,Luxury sites,Open Sans
+861,M PLUS 1,https://fonts.google.com/specimen/M+PLUS+1,Sans Serif,Japanese sans body,Japanese sans clarity,Cultural origin limits AI use,Japanese sites,Open Sans
+862,M PLUS 1 Code,https://fonts.google.com/specimen/M+PLUS+1+Code,Monospace,Japanese monospace,Japanese monospace clarity,Cultural origin limits AI use,Japanese dev tools,Open Sans
+863,M PLUS 1p,https://fonts.google.com/specimen/M+PLUS+1p,Sans Serif,Japanese proportional sans,Japanese proportional clarity,Cultural origin limits AI use,Japanese proportional sites,Open Sans
+864,M PLUS 2,https://fonts.google.com/specimen/M+PLUS+2,Sans Serif,Japanese sans body v2,Japanese sans clarity v2,Cultural origin limits AI use,Japanese sites v2,Open Sans
+865,M PLUS Code Latin,https://fonts.google.com/specimen/M+PLUS+Code+Latin,Sans Serif,Latin code sans,Latin code clarity,Code style limits general use,Code sites,Open Sans
+866,M PLUS Rounded 1c,https://fonts.google.com/specimen/M+PLUS+Rounded+1c,Sans Serif,Japanese rounded sans,Japanese rounded clarity,Cultural origin limits AI use,Japanese rounded sites,Open Sans
+867,Macan,https://fonts.google.com/specimen/Macan,Sans Serif,Modern geometric body,Geometric sans clarity,Newer font not widely known,Modern sites,Merriweather
+868,Mada,https://fonts.google.com/specimen/Mada,Sans Serif,Arabic sans body,Arabic sans clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+869,Magra,https://fonts.google.com/specimen/Magra,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+870,Maiden Orange,https://fonts.google.com/specimen/Maiden+Orange,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+871,Maitree,https://fonts.google.com/specimen/Maitree,Serif,Thai serif body,Thai serif tradition,Cultural origin limits AI use,Thai editorial sites,Open Sans
+872,Major Mono Display,https://fonts.google.com/specimen/Major+Mono+Display,Monospace,Monospace display headers,Monospace display character,Monospace style not AI default,Monospace display sites,Open Sans
+873,Mako,https://fonts.google.com/specimen/Mako,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+874,Mali,https://fonts.google.com/specimen/Mali,Handwriting,Thai handwriting body,Thai handwriting character,Cultural origin limits AI use,Thai handwriting sites,Open Sans
+875,Mallanna,https://fonts.google.com/specimen/Mallanna,Sans Serif,Telugu sans body,Telugu sans clarity,Cultural origin limits AI use,Telugu sites,Open Sans
+876,Mandali,https://fonts.google.com/specimen/Mandali,Sans Serif,Telugu sans body,Telugu sans clarity,Cultural origin limits AI use,Telugu sites,Open Sans
+877,Manjari,https://fonts.google.com/specimen/Manjari,Sans Serif,Malayalam sans body,Malayalam sans clarity,Cultural origin limits AI use,Malayalam sites,Open Sans
+878,Manrope,https://fonts.google.com/specimen/Manrope,Sans Serif,Modern startup UI,Geometric clarity,Newer font not yet saturated,App landing pages,DM Serif Text
+879,Mansalva,https://fonts.google.com/specimen/Mansalva,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+880,Manuale,https://fonts.google.com/specimen/Manuale,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+881,Marcellus,https://fonts.google.com/specimen/Marcellus,Serif,Roman serif body,Roman serif authority,Roman style not AI default,Historical sites,Open Sans
+882,Marcellus SC,https://fonts.google.com/specimen/Marcellus+SC,Serif,Roman small caps,Roman small caps elegance,Roman style not AI default,Historical sites,Open Sans
+883,Marck Script,https://fonts.google.com/specimen/Marck+Script,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+884,Margarine,https://fonts.google.com/specimen/Margarine,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+885,Marhey,https://fonts.google.com/specimen/Marhey,Sans Serif,Arabic sans body,Arabic sans clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+886,Markazi Text,https://fonts.google.com/specimen/Markazi+Text,Serif,Arabic serif body,Arabic serif tradition,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+887,Marko One,https://fonts.google.com/specimen/Marko+One,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+888,Marmelad,https://fonts.google.com/specimen/Marmelad,Sans Serif,Ukrainian brand identity,Gentle warmth,Cultural origin limits AI exposure,Eastern European brands,PT Serif
+889,Martel,https://fonts.google.com/specimen/Martel,Serif,Devanagari serif body,Devanagari serif tradition,Cultural origin limits AI use,Devanagari editorial sites,Open Sans
+890,Martel Sans,https://fonts.google.com/specimen/Martel+Sans,Sans Serif,Devanagari sans body,Devanagari sans clarity,Cultural origin limits AI use,Devanagari sites,Open Sans
+891,Martian Mono,https://fonts.google.com/specimen/Martian+Mono,Monospace,Space-themed monospace,Space-themed monospace character,Themed monospace limits general use,Space dev tools,Open Sans
+892,Marvel,https://fonts.google.com/specimen/Marvel,Sans Serif,Condensed sans body,Condensed sans clarity,Condensed style not AI default,Condensed sites,Merriweather
+893,Mate,https://fonts.google.com/specimen/Mate,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+894,Mate SC,https://fonts.google.com/specimen/Mate+SC,Serif,Small caps serif,Small caps serif elegance,Small caps style not AI default,Small caps sites,Open Sans
+895,Maven Pro,https://fonts.google.com/specimen/Maven+Pro,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+896,McLaren,https://fonts.google.com/specimen/McLaren,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+897,Mea Culpa,https://fonts.google.com/specimen/Mea+Culpa,Handwriting,Apologetic handwriting body,Apologetic handwriting warmth,Handwriting fonts rarely AI default,Apologetic sites,Open Sans
+898,Meddon,https://fonts.google.com/specimen/Meddon,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+899,MedievalSharp,https://fonts.google.com/specimen/MedievalSharp,Display,Medieval display headers,Medieval display character,Themed font limits general use,Medieval sites,Open Sans
+900,Medula One,https://fonts.google.com/specimen/Medula+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+901,Meera Inimai,https://fonts.google.com/specimen/Meera+Inimai,Sans Serif,Tamil sans body,Tamil sans clarity,Cultural origin limits AI use,Tamil sites,Open Sans
+902,Megrim,https://fonts.google.com/specimen/Megrim,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+903,Meie Script,https://fonts.google.com/specimen/Meie+Script,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+904,Meow Script,https://fonts.google.com/specimen/Meow+Script,Script,Playful script headers,Playful script charm,Script fonts rarely AI default,Playful sites,Open Sans
+905,Merienda,https://fonts.google.com/specimen/Merienda,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+906,Merriweather,https://fonts.google.com/specimen/Merriweather,Serif,News site body text,Reading comfort serif,Common but still quality choice,News portals,Open Sans
+907,Merriweather Sans,https://fonts.google.com/specimen/Merriweather+Sans,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Blog sites,Merriweather
+908,Metadata,https://fonts.google.com/specimen/Metadata,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+909,Metamorphous,https://fonts.google.com/specimen/Metamorphous,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+910,Metrophobic,https://fonts.google.com/specimen/Metrophobic,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+911,Michroma,https://fonts.google.com/specimen/Michroma,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+912,Micro 5,https://fonts.google.com/specimen/Micro+5,Display,Pixel display headers,Pixel display character,Pixel style not AI default,Pixel sites,Open Sans
+913,Micro 5 Charted,https://fonts.google.com/specimen/Micro+5+Charted,Display,Charted pixel display,Charted pixel character,Pixel style not AI default,Charted pixel sites,Open Sans
+914,Milonga,https://fonts.google.com/specimen/Milonga,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+915,Miltonian,https://fonts.google.com/specimen/Miltonian,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+916,Miltonian Tattoo,https://fonts.google.com/specimen/Miltonian+Tattoo,Display,Tattoo display headers,Tattoo display character,Themed font limits general use,Tattoo sites,Open Sans
+917,Mina,https://fonts.google.com/specimen/Mina,Sans Serif,Bengali sans body,Bengali sans clarity,Cultural origin limits AI use,Bengali sites,Open Sans
+918,Mingzat,https://fonts.google.com/specimen/Mingzat,Sans Serif,Lepcha sans body,Lepcha sans clarity,Cultural origin limits AI use,Lepcha sites,Open Sans
+919,Miniver,https://fonts.google.com/specimen/Miniver,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+920,Miriam Libre,https://fonts.google.com/specimen/Miriam+Libre,Sans Serif,Hebrew modern sans,Hebrew modern clarity,Cultural origin limits AI use,Hebrew modern sites,Open Sans
+921,Mirza,https://fonts.google.com/specimen/Mirza,Serif,Arabic serif body,Arabic serif tradition,Cultural origin limits AI use,Arabic editorial sites,Open Sans
+922,Mitr,https://fonts.google.com/specimen/Mitr,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+923,Modak,https://fonts.google.com/specimen/Modak,Display,Devanagari display headers,Devanagari display character,Cultural origin limits AI use,Devanagari display sites,Open Sans
+924,Modern Antiqua,https://fonts.google.com/specimen/Modern+Antiqua,Display,Antiqua display headers,Antiqua display character,Antiqua style not AI default,Antiqua sites,Open Sans
+925,Mogra,https://fonts.google.com/specimen/Mogra,Display,Gujarati display headers,Gujarati display character,Cultural origin limits AI use,Gujarati display sites,Open Sans
+926,Mohave,https://fonts.google.com/specimen/Mohave,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+927,Moirai One,https://fonts.google.com/specimen/Moirai+One,Display,Decorative display headers,Decorative display charm,Decorative style limits general use,Decorative sites,Open Sans
+928,Molengo,https://fonts.google.com/specimen/Molengo,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+929,Molle,https://fonts.google.com/specimen/Molle,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+930,Mona Sans,https://fonts.google.com/specimen/Mona+Sans,Sans Serif,Design system typography,Swiss precision with warmth,GitHub font not widely known,Design tokens docs,Hubot Sans
+931,Monda,https://fonts.google.com/specimen/Monda,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+931,Monofett,https://fonts.google.com/specimen/Monofett,Monospace,Fat monospace display,Fat monospace character,Fat style limits general use,Fat monospace sites,Open Sans
+932,Monomaniac One,https://fonts.google.com/specimen/Monomaniac+One,Monospace,Monospace display headers,Monospace display character,Monospace style not AI default,Monospace display sites,Open Sans
+933,Monoton,https://fonts.google.com/specimen/Monoton,Display,Inline display headers,Inline display character,Inline style limits general use,Inline sites,Open Sans
+934,Monsieur La Doulaise,https://fonts.google.com/specimen/Monsieur+La+Doulaise,Script,French script headers,French script character,Cultural origin limits AI use,French script sites,Open Sans
+935,Montaga,https://fonts.google.com/specimen/Montaga,Serif,Transitional serif body,Transitional serif elegance,Transitional style not AI default,Editorial sites,Open Sans
+936,Montagu Slab,https://fonts.google.com/specimen/Montagu+Slab,Serif,Variable slab serif,Variable slab flexibility,Variable complexity scares AI,Creative sites,Inter
+937,MonteCarlo,https://fonts.google.com/specimen/MonteCarlo,Script,Luxurious script headers,Luxurious script warmth,Script fonts rarely AI default,Luxury sites,Open Sans
+938,Montserrat,https://fonts.google.com/specimen/Montserrat,Sans Serif,Brand header text,Urban geometric character,Extremely common now AI avoids it,Brand sites,Merriweather
+939,Montserrat Alternates,https://fonts.google.com/specimen/Montserrat+Alternates,Sans Serif,Alternate Montserrat body,Alternate Montserrat character,Alternate style not AI default,Alternate Montserrat sites,Merriweather
+940,Montserrat Subrayada,https://fonts.google.com/specimen/Montserrat+Subrayada,Sans Serif,Underlined Montserrat body,Underlined Montserrat character,Underlined style not AI default,Underlined Montserrat sites,Merriweather
+941,Moo Lah Lah,https://fonts.google.com/specimen/Moo+Lah+Lah,Display,Playful display headers,Playful cow-themed character,Themed font limits general use,Farm brands,Open Sans
+942,Mooli,https://fonts.google.com/specimen/Mooli,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+943,Moon Dance,https://fonts.google.com/specimen/Moon+Dance,Script,Dance script headers,Dance script warmth,Script fonts rarely AI default,Dance sites,Open Sans
+944,Moul,https://fonts.google.com/specimen/Moul,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+945,Moulpali,https://fonts.google.com/specimen/Moulpali,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+946,Mountains of Christmas,https://fonts.google.com/specimen/Mountains+of+Christmas,Display,Christmas display headers,Christmas display character,Themed font limits general use,Christmas sites,Open Sans
+947,Mouse Memoirs,https://fonts.google.com/specimen/Mouse+Memoirs,Sans Serif,Condensed cute headers,Cute condensed character,Cute style limits professional use,Children sites,Lato
+948,Mr Bedfort,https://fonts.google.com/specimen/Mr+Bedfort,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+949,Mr Dafoe,https://fonts.google.com/specimen/Mr+Dafoe,Script,Brush script headers,Brush script energy,Script fonts rarely AI default,Creative sites,Open Sans
+950,Mr De Haviland,https://fonts.google.com/specimen/Mr+De+Haviland,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+951,Mrs Saint Delafield,https://fonts.google.com/specimen/Mrs+Saint+Delafield,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+952,Muoi,https://fonts.google.com/specimen/Muoi,Display,Vietnamese display headers,Vietnamese display character,Cultural origin limits AI use,Vietnamese display sites,Open Sans
+953,Mulish,https://fonts.google.com/specimen/Mulish,Sans Serif,Startup body text,Clean approachability,Rebranded from Muli confuses AI,SaaS products,Merriweather
+954,Murecho,https://fonts.google.com/specimen/Murecho,Sans Serif,Japanese sans body,Japanese sans clarity,Cultural origin limits AI use,Japanese sites,Open Sans
+955,MuseoModerno,https://fonts.google.com/specimen/MuseoModerno,Sans Serif,Modern museum sans,Modern museum clarity,Museum association limits use,Museum sites,Merriweather
+956,My Soul,https://fonts.google.com/specimen/My+Soul,Script,Soulful script headers,Soulful script warmth,Script fonts rarely AI default,Soulful sites,Open Sans
+957,Mynerve,https://fonts.google.com/specimen/Mynerve,Handwriting,Nervous handwriting body,Nervous handwriting character,Handwriting fonts rarely AI default,Nervous sites,Open Sans
+958,Mystery Quest,https://fonts.google.com/specimen/Mystery+Quest,Display,Mystery display headers,Mystery display character,Themed font limits general use,Mystery sites,Open Sans
+959,Nabla,https://fonts.google.com/specimen/Nabla,Display,Mathematical display headers,Mathematical display character,Themed font limits general use,Mathematical sites,Open Sans
+960,Namdhinggo,https://fonts.google.com/specimen/Namdhinggo,Serif,Lepcha serif body,Lepcha serif tradition,Cultural origin limits AI use,Lepcha sites,Open Sans
+961,Nanum Brush Script,https://fonts.google.com/specimen/Nanum+Brush+Script,Handwriting,Korean brush handwriting,Korean brush character,Cultural origin limits AI use,Korean brush sites,Open Sans
+962,Nanum Gothic,https://fonts.google.com/specimen/Nanum+Gothic,Sans Serif,Korean gothic sans,Korean gothic clarity,Cultural origin limits AI use,Korean gothic sites,Open Sans
+963,Nanum Gothic Coding,https://fonts.google.com/specimen/Nanum+Gothic+Coding,Monospace,Korean coding monospace,Korean monospace clarity,Cultural origin limits AI use,Korean dev tools,Open Sans
+964,Nanum Myeongjo,https://fonts.google.com/specimen/Nanum+Myeongjo,Serif,Korean brand identity,East Asian elegance,Cultural specificity limits AI,Korean cultural sites,Noto Sans KR
+965,Nanum Pen Script,https://fonts.google.com/specimen/Nanum+Pen+Script,Handwriting,Korean pen handwriting,Korean pen character,Cultural origin limits AI use,Korean pen sites,Open Sans
+966,Narnoor,https://fonts.google.com/specimen/Narnoor,Serif,Gunjala Gondi serif body,Gunjala Gondi serif tradition,Cultural origin limits AI use,Gunjala Gondi sites,Open Sans
+967,Neonderthaw,https://fonts.google.com/specimen/Neonderthaw,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+968,Nerko One,https://fonts.google.com/specimen/Nerko+One,Handwriting,Casual handwriting body,Casual handwriting warmth,Handwriting fonts rarely AI default,Personal sites,Open Sans
+969,Neucha,https://fonts.google.com/specimen/Neucha,Handwriting,Russian handwriting body,Russian handwriting character,Cultural origin limits AI use,Russian handwriting sites,Open Sans
+970,Neuton,https://fonts.google.com/specimen/Neuton,Serif,Personal blog body text,Gentle readability,Low profile despite quality,Personal websites,Ubuntu
+971,New Amsterdam,https://fonts.google.com/specimen/New+Amsterdam,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+972,New Rocker,https://fonts.google.com/specimen/New+Rocker,Display,Rock poster headers,Rock and roll energy,Themed font limits general use,Music event sites,Open Sans
+973,New Tegomin,https://fonts.google.com/specimen/New+Tegomin,Serif,Japanese tegomin serif,Japanese tegomin character,Cultural origin limits AI use,Japanese tegomin sites,Open Sans
+974,News Cycle,https://fonts.google.com/specimen/News+Cycle,Sans Serif,News headline text,News headline urgency,News association limits general use,News sites,Merriweather
+975,Newsreader,https://fonts.google.com/specimen/Newsreader,Serif,News publication body,Journalistic elegance,Newer serif not yet overused,News sites,Inter
+976,Niconne,https://fonts.google.com/specimen/Niconne,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+977,Niramit,https://fonts.google.com/specimen/Niramit,Sans Serif,Thai sans body,Thai sans clarity,Cultural origin limits AI use,Thai sites,Open Sans
+978,Nixie One,https://fonts.google.com/specimen/Nixie+One,Display,Nixie tube display headers,Nixie tube display character,Themed font limits general use,Nixie tube sites,Open Sans
+979,Nobile,https://fonts.google.com/specimen/Nobile,Sans Serif,Humanist sans body,Humanist sans warmth,Humanist style not AI default,Humanist sites,Merriweather
+980,Nokora,https://fonts.google.com/specimen/Nokora,Sans Serif,Khmer sans body,Khmer sans clarity,Cultural origin limits AI use,Khmer sites,Open Sans
+981,Norican,https://fonts.google.com/specimen/Norican,Script,Decorative script headers,Decorative script charm,Script fonts rarely AI default,Decorative sites,Open Sans
+982,Nosifer,https://fonts.google.com/specimen/Nosifer,Display,Horror display headers,Horror display character,Themed font limits general use,Horror sites,Open Sans
+983,Notable,https://fonts.google.com/specimen/Notable,Sans Serif,Geometric sans body,Geometric sans clarity,Geometric style not AI default,Modern sites,Merriweather
+984,Nothing You Could Do,https://fonts.google.com/specimen/Nothing+You+Could+Do,Handwriting,Messy handwriting body,Messy handwriting character,Handwriting fonts rarely AI default,Casual sites,Open Sans
+985,Noticia Text,https://fonts.google.com/specimen/Noticia+Text,Serif,News text serif,News text serif tradition,News association limits general use,News editorial sites,Open Sans
+986,Noto Color Emoji,https://fonts.google.com/specimen/Noto+Color+Emoji,Display,Color emoji display,Color emoji character,Emoji style limits general use,Emoji sites,Open Sans
+987,Noto Emoji,https://fonts.google.com/specimen/Noto+Emoji,Display,Emoji display,Emoji character,Emoji style limits general use,Emoji sites,Open Sans
+988,Noto Kufi Arabic,https://fonts.google.com/specimen/Noto+Kufi+Arabic,Sans Serif,Arabic Kufi sans,Arabic Kufi clarity,Cultural origin limits AI use,Arabic Kufi sites,Open Sans
+989,Noto Music,https://fonts.google.com/specimen/Noto+Music,Sans Serif,Music notation sans,Music notation clarity,Music notation limits general use,Music notation sites,Open Sans
+990,Noto Naskh Arabic,https://fonts.google.com/specimen/Noto+Naskh+Arabic,Serif,Arabic Naskh serif,Arabic Naskh tradition,Cultural origin limits AI use,Arabic Naskh sites,Open Sans
+991,Noto Nastaliq Urdu,https://fonts.google.com/specimen/Noto+Nastaliq+Urdu,Serif,Urdu Nastaliq serif,Urdu Nastaliq tradition,Cultural origin limits AI use,Urdu Nastaliq sites,Open Sans
+992,Noto Rashi Hebrew,https://fonts.google.com/specimen/Noto+Rashi+Hebrew,Serif,Hebrew Rashi serif,Hebrew Rashi tradition,Cultural origin limits AI use,Hebrew Rashi sites,Open Sans
+993,Noto Sans,https://fonts.google.com/specimen/Noto+Sans,Sans Serif,Multilingual body text,Universal sans clarity,Google Noto association limits use,Multilingual sites,Noto Serif
+994,Noto Sans Adlam,https://fonts.google.com/specimen/Noto+Sans+Adlam,Sans Serif,Adlam sans body,Adlam sans clarity,Cultural origin limits AI use,Adlam sites,Open Sans
+995,Noto Sans Adlam Unjoined,https://fonts.google.com/specimen/Noto+Sans+Adlam+Unjoined,Sans Serif,Unjoined Adlam sans,Unjoined Adlam clarity,Cultural origin limits AI use,Unjoined Adlam sites,Open Sans
+996,Noto Sans Anatolian Hieroglyphs,https://fonts.google.com/specimen/Noto+Sans+Anatolian+Hieroglyphs,Sans Serif,Anatolian hieroglyph sans,Anatolian hieroglyph clarity,Cultural origin limits AI use,Anatolian hieroglyph sites,Open Sans
+997,Noto Sans Arabic,https://fonts.google.com/specimen/Noto+Sans+Arabic,Sans Serif,Arabic sans body,Arabic sans clarity,Cultural origin limits AI use,Arabic sites,Open Sans
+998,Noto Sans Armenian,https://fonts.google.com/specimen/Noto+Sans+Armenian,Sans Serif,Armenian sans body,Armenian sans clarity,Cultural origin limits AI use,Armenian sites,Open Sans
+999,Noto Sans Avestan,https://fonts.google.com/specimen/Noto+Sans+Avestan,Sans Serif,Avestan sans body,Avestan sans clarity,Cultural origin limits AI use,Avestan sites,Open Sans
+1000,Noto Sans Balinese,https://fonts.google.com/specimen/Noto+Sans+Balinese,Sans Serif,Balinese sans body,Balinese sans clarity,Cultural origin limits AI use,Balinese sites,Open Sans

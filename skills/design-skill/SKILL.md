@@ -545,6 +545,45 @@ The antidote to AI slop is the 1000-human-made-design-elements.csv. Every time y
 
 **THE CSV IS YOUR SHIELD AGAINST SLOP. USE IT.**
 
+### The Underrated Fonts Mandate
+
+You MUST consult `1000-underrated-google-fonts.csv` before selecting ANY typeface. The fonts AI defaults to — Inter, Poppins, Roboto, Montserrat, Open Sans, Lato, Playfair Display, Merriweather — are immediately recognizable as AI-generated. Using them signals laziness and breaks the human-made illusion.
+
+**Rules:**
+1. Scan the CSV for fonts matching the project's mood, industry, and personality
+2. NEVER use the overused AI defaults listed above
+3. Prefer fonts from the "Why AI Avoids It" column — these are your strongest signal of human curation
+4. Pair fonts using the "Pairing Suggestion" column as your starting point
+5. Document your font choice and why it was selected from the CSV
+
+**THE FONT CSV IS YOUR TYPOGRAPHY CONSCIENCE. USE IT.**
+
+### The MotionSites.ai Choreography Mandate
+
+You MUST consult `references/motionsites-analysis.md` before building ANY animated hero section or scroll-driven experience. MotionSites.ai has analyzed and documented the exact prompt structures, timing values, easing curves, and choreography patterns that produce stunning animated websites via AI tools.
+
+**Rules:**
+1. Reference the prompt structure anatomy (Section 2) when crafting any animation prompt
+2. Use the timing values table (Section 4.1) — never guess durations or delays
+3. Apply custom cubic-bezier easing curves (Section 4.2) — never use generic ease-in-out
+4. Follow the choreography rules (Section 4.3) — stagger, don't synchronize
+5. Cross-reference with the anti-AI detection checklist (Section 8.3) before delivery
+6. Apply human-feel motion rules (Section 6.2) — natural variation, organic easing, weight awareness
+
+**THE MOTIONSITES ANALYSIS IS YOUR CHOREOGRAPHY BIBLE. USE IT.**
+
+### Triple-Reference Compliance Protocol
+
+Before outputting ANY design, frontend, or animation code, you MUST cross-reference ALL THREE resources:
+
+1. **1000-human-made-design-elements.csv** — Does this design element feel handcrafted? Which CSV entry does it match?
+2. **1000-underrated-google-fonts.csv** — Is this font from the CSV? Why was it chosen over AI defaults?
+3. **references/motionsites-analysis.md** — Does this animation follow proven choreography patterns? Are timing values correct?
+
+If any of the three checks fails, STOP. Fix it. Then proceed.
+
+**NO EXCEPTIONS. NO SHORTCUTS. ALL THREE REFERENCES. EVERY TIME.**
+
 ---
 
 ## CROSS-SKILL INTEGRATION
