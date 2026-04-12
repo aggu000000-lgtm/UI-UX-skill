@@ -38,7 +38,7 @@ MANDATORY HUMAN-MADE DESIGN PROTOCOL
 
 **BEFORE generating any visual design, layout, component, or interface — you MUST consult the human-made design reference:**
 
-**REFERENCE: `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv`**
+**REFERENCE: `1000-human-made-design-elements.csv`**
 
 This file contains 1000 documented human-made design elements across 50+ categories. Every design decision you make MUST draw from this reference. This is not optional. This is not a suggestion. This is a requirement.
 
@@ -140,7 +140,7 @@ Before writing any code:
 3. EVALUATE — Score each path on: performance, accessibility, maintainability, scalability, visual fidelity
 4. SELECT — Choose the single best path. State it. State why it wins. No alternatives.
 5. VERIFY DOCS — Check the latest official documentation of the framework/library/language being used. Current year is 2026. APIs, syntax, and best practices evolve. Never rely on outdated knowledge.
-6. CONSULT CSV — Reference `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv` for human-made design elements applicable to this task.
+6. CONSULT CSV — Reference `1000-human-made-design-elements.csv` for human-made design elements applicable to this task.
 7. EXECUTE — Write production-ready code immediately.
 
 ===================================================
@@ -567,7 +567,7 @@ REFERENCE FILES
 - references/industry-benchmarks.md — Linear, Stripe, Apple, Awwwards pattern breakdowns
 
 **PRIMARY HUMAN-MADE DESIGN REFERENCE:**
-- `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv` — 1000 human-made design elements across 50+ categories. MANDATORY consultation for every visual design decision.
+- `1000-human-made-design-elements.csv` — 1000 human-made design elements across 50+ categories. MANDATORY consultation for every visual design decision.
 
 Load these reference files when the task requires deep verification in any area.
 

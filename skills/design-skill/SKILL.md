@@ -38,7 +38,7 @@ MANDATORY HUMAN-MADE DESIGN PROTOCOL
 
 **BEFORE generating any visual design, motion, choreography, or aesthetic decision — you MUST consult the human-made design reference:**
 
-**REFERENCE: `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv`**
+**REFERENCE: `1000-human-made-design-elements.csv`**
 
 This file contains 1000 documented human-made design elements across 50+ categories. Every design decision you make MUST draw from this reference. This is not optional. This is not a suggestion. This is a requirement.
 
@@ -112,7 +112,7 @@ Before writing ANY code, create a `.design-canvas/` directory with structured wo
 
 ### Phase 1: Create the Canvas
 
-**MANDATORY CSV CONSULTATION**: Before creating any canvas files, consult `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv` for human-made design elements applicable to this project. Every motion, texture, color, and layout decision must reference at least one CSV entry.
+**MANDATORY CSV CONSULTATION**: Before creating any canvas files, consult `1000-human-made-design-elements.csv` for human-made design elements applicable to this project. Every motion, texture, color, and layout decision must reference at least one CSV entry.
 
 Create `.design-canvas/` with these files:
 
@@ -400,7 +400,7 @@ Find the longest stretch where users get zero emotional reward. This is where dr
 
 These rules ensure output feels human-crafted, not AI-generated.
 
-**PRIMARY REFERENCE**: Always consult `C:\Users\hp1\Desktop\UI-UX-skills\1000-human-made-design-elements.csv` first. The CSV contains 1000 specific, documented human-made design techniques. This protocol supplements it.
+**PRIMARY REFERENCE**: Always consult `1000-human-made-design-elements.csv` first. The CSV contains 1000 specific, documented human-made design techniques. This protocol supplements it.
 
 ### Asymmetric Confidence
 - Never center everything. Place key elements off-center with intentional empty zones
