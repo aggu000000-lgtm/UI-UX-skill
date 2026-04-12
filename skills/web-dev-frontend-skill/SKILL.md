@@ -212,7 +212,9 @@ CORE DIRECTIVES
 - Build a restrained palette: 1 primary, 1 accent, neutral grays (minimum 9 steps), semantic colors (success, warning, error, info).
 - Never use color as the only way to convey information. Always pair with text, icons, or patterns.
 - All color combinations must pass WCAG 2.1 AA contrast ratios (see references/accessibility-checklist.md).
-- Dark mode is not an afterthought. Design both light and dark themes from the start.
+- **Dark Mode First (2026 Standard)**: Design dark theme as the primary, then adapt to light. Over 65-78% of users prefer dark mode. See references/color-systems.md.
+- Use OKLCH or OKLAB for perceptually uniform colors. This enables easier lightness adjustments.
+- For OLED displays, consider true black (#000000) backgrounds to save energy.
 - Use CSS custom properties (design tokens) for all color values.
 - See references/color-systems.md for palette construction rules.
 - **CSV REFERENCE**: Consult Color category (IDs 41-60) for human-made color techniques.
@@ -225,12 +227,22 @@ CORE DIRECTIVES
 - Respect prefers-reduced-motion. Users who disable animations must still receive all information.
 - No auto-playing video with sound. No content flashing more than 3 times per second (seizure risk).
 - Animations must be less than 5 seconds or have user control. No infinite loops without stop mechanism.
-- See references/interaction-physics.md for easing curves, spring physics, and gesture handling.
+
+**2026 Animation Stack:**
+- **GSAP** (now 100% free, acquired by Webflow): Best for complex timelines, ScrollTrigger, SVG morphing
+- **Motion.dev**: Best for React/Next.js (8KB core, 30M monthly downloads), declarative API
+- **Lenis**: Industry standard for smooth momentum scrolling (replaced Locomotive Scroll)
+- **CSS View Transitions**: Native cross-page animations via `@view-transition { navigation: auto }`
+- **CSS Scroll-Driven**: Native scroll-linked animations via `animation-timeline: view()`
+
+See references/interaction-physics.md for easing curves, spring physics, and gesture handling.
 - **CSV REFERENCE**: Consult Micro-interaction (IDs 81-100), Animation (IDs 401-420), Transition (IDs 461-480), Hover State (IDs 181-200) categories.
 
 ### 5. Accessibility Architecture
 
-- WCAG 2.1 Level AA is the baseline. Not optional. Not aspirational. Required.
+- WCAG 2.2 Level AA is the current legal requirement. Not optional. Required.
+- WCAG 3.0 is in Working Draft (March 2026). Begin preparing with Bronze/Silver/Gold scoring model.
+- ADA Title II (US) requires WCAG 2.1 AA by April 24, 2026. European Accessibility Act active.
 - All interactive elements must have visible focus indicators (minimum 3:1 contrast).
 - Touch targets minimum 44x44px. Visual size can be smaller, but hit area must be 44x44px.
 - Form labels always visible. Never use placeholder text as the only label.
@@ -239,7 +251,8 @@ CORE DIRECTIVES
 - Keyboard navigation: every interactive element reachable via Tab, Enter, Escape, Arrow keys.
 - Include skip-to-content link on all pages with multiple sections.
 - All images must have alt text. Decorative images must have alt="" (empty).
-- See references/accessibility-checklist.md for the complete 2026 WCAG 2.1 AA checklist.
+- See references/accessibility-checklist.md for the complete 2026 WCAG 2.2 AA checklist.
+- See references/wcag-3-reference.md for WCAG 3.0 preparation guide.
 - **CSV REFERENCE**: Consult Accessibility category (IDs 821-840) for human-made accessible design elements.
 
 ### 6. Responsive Engineering
@@ -290,24 +303,94 @@ CORE DIRECTIVES
 - Search must be keyboard accessible with visible focus and clear results.
 - **CSV REFERENCE**: Consult Navigation category (IDs 141-160) for human-made navigation elements.
 
+### 11. Bento Grid Layouts (2026 Pattern)
+
+- Bento grids are the dominant layout pattern in 2026. Use asymmetric, card-based arrangements with varying sizes.
+- Mix card sizes to create natural visual hierarchy — larger cards draw attention first.
+- Use CSS Grid with span utilities (`grid-column: span 2`, `grid-row: span 2`).
+- Implement with CSS Grid Level 2 subgrid for aligned card content.
+- Reserve CSS Grid Level 3 masonry for natural-height content flows.
+- Always design mobile-first: single column → 2 columns → 4 columns (bento).
+- See references/bento-grid-layouts.md for implementation patterns.
+
+### 12. 3D Integration (WebGPU Era)
+
+- WebGPU is production-ready across all browsers as of 2026 (Chrome 113+, Safari 26+, Firefox 141+).
+- Use Three.js with WebGPURenderer (r171+) for seamless GPU rendering with automatic WebGL fallback.
+- For React projects: React Three Fiber with WebGPU support.
+- Integrate Spline AI scenes with `@splinetool/react-spline` for no-code 3D.
+- Always provide fallback for `prefers-reduced-motion` and non-WebGPU browsers.
+- Optimize with instancing, geometry merging, and texture compression.
+- Lazy load 3D content after critical page resources.
+- See references/3d-web-integration.md for complete implementation guide.
+
+### 13. AI-First UI Patterns
+
+- Design for streaming text output — character-by-character reveals feel faster than waiting.
+- Implement confidence indicators for AI-generated content (high/medium/low visual states).
+- Build ambient intelligence: adaptive layouts that respond to user behavior patterns.
+- Voice-first: persistent microphone access, waveform visualizations, multi-modal fallback.
+- Always show AI attribution and model information for transparency.
+- Provide regeneration and editing capabilities for AI outputs.
+- Handle AI state gracefully: thinking indicators, streaming content, error states.
+- See references/ai-first-ui-patterns.md for implementation patterns.
+
+### 14. Ethical & Privacy-Centered UX
+
+- Privacy is a UX feature users actively evaluate. Treat it as a design requirement.
+- Implement granular consent: necessary/analytics/marketing/personalization toggles.
+- Never use dark patterns: pre-checked boxes, hidden unsubscribes, confirm shaming.
+- Show data usage transparency: what you collect, how long you keep it, how to delete.
+- Provide data export and deletion capabilities in user settings.
+- Default to privacy-friendly options. Make opt-out as easy as opt-in.
+- Show local processing indicators when data stays on device.
+- See references/ethical-privacy-ux.md for patterns and compliance guide.
+
+### 15. Sustainable UX
+
+- Performance optimization = energy efficiency. Every byte saved = less carbon.
+- Target: <2MB total page weight, <3s LCP on 4G.
+- Use AVIF/WebP images, variable fonts, code splitting, lazy loading.
+- Design for low-end devices: optimized experiences work on older hardware = longer device life = less e-waste.
+- Use CSS containment to limit browser repaints.
+- Implement skeleton loading instead of spinners (more efficient rendering).
+- Provide video fallbacks: poster images for slow connections, no autoplay with sound.
+- Respect battery: minimize JavaScript execution, use CSS animations over JS animations.
+- See references/sustainable-ux.md for optimization checklist and carbon awareness.
+
+### 16. 2026 CSS Features
+
+- Use Container Queries for component-level responsiveness: `@container (min-width: 400px)`.
+- Implement Scroll-Driven Animations natively: `animation-timeline: view()`.
+- Use View Transitions for cross-page MPA animations: `@view-transition { navigation: auto }`.
+- Apply CSS Nesting natively: `&:hover { }` without preprocessors.
+- Use OKLCH for perceptually uniform colors: `oklch(from var(--color) calc(l * 1.1) c h)`.
+- Implement @scope for proximity-based styling: `@scope (.card) to (.card-content) { }`.
+- Use Gap Decorations for grid/flex dividers: `column-rule: 1px solid #e5e7eb`.
+- Apply Reading Flow control: `reading-flow: flex-visual` for RTL layouts.
+- See references/css-2026-features.md for complete feature guide and browser support.
+
 ===================================================
 INDUSTRY BENCHMARKS
 ===================================================
 
 Build to the standard of these reference implementations:
 
-| Benchmark | What to Emulate |
-|-----------|----------------|
-| Linear | Keyboard-first nav, ultra-smooth transitions, dark mode as default, zero visual clutter |
-| Stripe | Clarity, trust, developer-friendly docs, consistent branding, intuitive dashboards |
-| Apple | Premium imagery, scenario-based presentation, smooth reveals, privacy-first messaging |
-| Pitch | Vibrant palette, fluid animations, contextual toolbars, collaboration-focused |
-| Framer | Instant previews, drag-and-drop, design-to-code bridge |
-| Lusion | WebGL/3D integration, cinematic scroll storytelling, cohesive aesthetic |
-| Spotify Design | Vibrant energy, content-rich but navigable, brand storytelling |
-| ClickUp | Built-in product demo, modern but approachable, feature-rich without overload |
-| Read.cv | Elegant typography, clean layouts, minimal yet expressive |
-| Craft Docs | Modular blocks, beautiful typography, distraction-free |
+| Benchmark | What to Emulate | 2026 Relevance |
+|-----------|-----------------|----------------|
+| Linear | Keyboard-first nav, ultra-smooth transitions, dark mode as default, zero visual clutter | Dark-first pioneer |
+| Stripe | Clarity, trust, developer-friendly docs, consistent branding, intuitive dashboards | Bento grid layouts |
+| Apple | Premium imagery, scenario-based presentation, smooth reveals, privacy-first messaging | Scroll-driven animations |
+| Pitch | Vibrant palette, fluid animations, contextual toolbars, collaboration-focused | AI co-pilot UI |
+| Framer | Instant previews, drag-and-drop, design-to-code bridge | No-code 3D integration |
+| Lusion | WebGL/3D integration, cinematic scroll storytelling, cohesive aesthetic | WebGPU 3D |
+| Spotify Design | Vibrant energy, content-rich but navigable, brand storytelling | Bento grid playlists |
+| ClickUp | Built-in product demo, modern but approachable, feature-rich without overload | Adaptive AI layouts |
+| Read.cv | Elegant typography, clean layouts, minimal yet expressive | Type-forward design |
+| Craft Docs | Modular blocks, beautiful typography, distraction-free | Prose-first layout |
+| Vercel | Performance-first, edge functions, instant deployments | WebGPU demos |
+| Figma | Real-time collab, component-driven, design tokens | Spline integration |
+| Notion | Block-based, AI-first, workspace flexibility | AI streaming text |
 
 See references/industry-benchmarks.md for detailed pattern breakdowns.
 
@@ -399,19 +482,45 @@ QUALITY GATES
 
 Before declaring a task complete, verify:
 
-- [ ] All text meets WCAG 2.1 AA contrast ratios (4.5:1 normal, 3:1 large/UI)
+**Accessibility (WCAG 2.2 AA):**
+- [ ] All text meets WCAG 2.2 AA contrast ratios (4.5:1 normal, 3:1 large/UI)
 - [ ] Every interactive element has visible focus state
 - [ ] Touch targets are minimum 44x44px
 - [ ] Keyboard navigation works (Tab, Enter, Escape, Arrow keys)
 - [ ] Heading hierarchy is logical (no skipped levels)
-- [ ] Layout works at 320px, 768px, 1024px, 1280px, 1536px
-- [ ] Layout holds at 200% zoom without horizontal scroll
-- [ ] prefers-reduced-motion is respected
 - [ ] All images have appropriate alt text
 - [ ] Form labels are visible (not just placeholders)
 - [ ] Error messages are specific and field-connected
 - [ ] Dark mode colors pass contrast checks
+
+**Responsive & Performance:**
+- [ ] Layout works at 320px, 768px, 1024px, 1280px, 1536px
+- [ ] Layout holds at 200% zoom without horizontal scroll
+- [ ] prefers-reduced-motion is respected
 - [ ] No layout shift on load (CLS < 0.1)
+- [ ] LCP < 2.5s, INP < 200ms
+- [ ] Page weight < 2MB total
+
+**2026 Specific:**
+- [ ] Dark mode designed first (not an afterthought)
+- [ ] Bento grid layouts use asymmetric card sizes
+- [ ] Container queries used for component responsiveness
+- [ ] OKLCH/OKLAB colors used for perceptually uniform adjustments
+- [ ] Video backgrounds have poster fallbacks
+- [ ] 3D elements have reduced-motion fallbacks
+
+**AI-First Patterns:**
+- [ ] AI outputs show streaming states
+- [ ] Confidence indicators displayed for AI content
+- [ ] Regeneration options available
+- [ ] AI attribution shown
+
+**Privacy & Ethics:**
+- [ ] No dark patterns detected
+- [ ] Consent toggles are granular
+- [ ] Privacy controls accessible
+
+**Code Quality:**
 - [ ] No placeholder code or TODO comments
 - [ ] Every component state is handled (default, hover, focus, active, disabled, loading, error)
 - [ ] Every visual element references at least one entry from 1000-human-made-design-elements.csv
@@ -423,13 +532,38 @@ Before declaring a task complete, verify:
 REFERENCE FILES
 ===================================================
 
+**Accessibility:**
 - references/accessibility-checklist.md — Complete WCAG 2.1 AA 2026 checklist
+- references/wcag-3-reference.md — WCAG 3.0 preparation guide (Working Draft March 2026)
+
+**Performance:**
 - references/performance-budgets.md — Core Web Vitals thresholds and optimization
+- references/sustainable-ux.md — Energy-efficient design patterns and carbon awareness
+
+**Design Systems:**
 - references/typography-scale.md — Type scale systems and responsive typography
 - references/color-systems.md — Palette construction, contrast, dark mode
+- references/design-tokens.md — Token architecture and component API design
+
+**Layout & Animation:**
 - references/interaction-physics.md — Easing curves, spring animations, motion design
 - references/responsive-engineering.md — Breakpoints, fluid layouts, container queries
-- references/design-tokens.md — Token architecture and component API design
+- references/bento-grid-layouts.md — Bento grid patterns (dominant 2026 layout)
+- references/css-2026-features.md — Container queries, view transitions, scroll animations, masonry
+
+**3D & Immersive:**
+- references/3d-web-integration.md — Three.js + WebGPU, React Three Fiber, Spline AI
+
+**AI-First Design:**
+- references/ai-first-ui-patterns.md — Streaming text, confidence indicators, voice UI, ambient intelligence
+
+**Ethics & Privacy:**
+- references/ethical-privacy-ux.md — Consent patterns, dark pattern avoidance, data transparency
+
+**Hero Resources:**
+- references/hero-video-cdn-resources.md — Free CDN-hosted hero background videos (Mixkit, Pexels)
+
+**Benchmarks:**
 - references/industry-benchmarks.md — Linear, Stripe, Apple, Awwwards pattern breakdowns
 
 **PRIMARY HUMAN-MADE DESIGN REFERENCE:**
@@ -479,6 +613,28 @@ AI slop refers to the mass-produced, generic, template-driven design and code pa
 - No performance optimization
 - No design tokens or CSS custom properties
 
+### 2026-Specific Banned Patterns
+
+**Layout:**
+- 12-column Bootstrap grids (use Bento grids instead)
+- Centered hero sections with gradient overlays (use asymmetric bento layouts)
+- Traditional card grids (use varied span sizes)
+
+**Animation:**
+- Linear easing everywhere (use spring physics)
+- GSAP-only scrolling (native CSS Scroll-Driven is now viable)
+- Heavy animation libraries for simple transitions
+
+**AI UI:**
+- Generic chatbot bubbles without streaming
+- Confidence badges without context
+- "AI-powered" marketing without substance
+
+**Color:**
+- Light mode only (dark mode first is 2026 standard)
+- Purple-to-blue gradients (use OKLCH for perceptually uniform)
+- Hardcoded hex values (use CSS custom properties)
+
 ### The Three Laws of Anti-Slop Engineering
 
 1. **NEVER use a banned pattern** — Every entry in `ai-slop-banned.csv` is forbidden. No exceptions. If a pattern is listed, it is dead to you.
@@ -495,7 +651,7 @@ AI slop refers to the mass-produced, generic, template-driven design and code pa
 - **Animation**: transition-all duration-300 ease-in-out, no custom easing, no prefers-reduced-motion
 - **Accessibility**: Failing contrast ratios, no aria-labels, no focus management, no keyboard nav
 - **Responsive**: Stacked desktop columns on mobile, no thumb-zone consideration, no safe area insets
-- **AI UI**: Glassmorphism panels, streaming text, confidence badges, sparkle icons
+- **2026**: Light-mode-only, no container queries, no scroll-driven animations, no bento grids
 
 ### Enforcement Protocol
 
@@ -513,41 +669,3 @@ Ask yourself: "Could this exact code appear in 100 other AI-generated projects?"
 The antidote to AI slop is the 1000-human-made-design-elements.csv. Every time you are tempted to use a generic pattern, consult the CSV. Find the human-made alternative. Implement it. The CSV contains 1000 specific, documented ways to make design feel handcrafted, intentional, and human — the exact opposite of slop.
 
 **THE CSV IS YOUR SHIELD AGAINST SLOP. USE IT.**
-
-### The Underrated Fonts Mandate
-
-You MUST consult `1000-underrated-google-fonts.csv` before selecting ANY typeface in your code. The fonts AI defaults to — Inter, Poppins, Roboto, Montserrat, Open Sans, Lato, Playfair Display, Merriweather — are immediately recognizable as AI-generated. Using them in your CSS signals laziness and breaks the human-made illusion.
-
-**Rules:**
-1. Scan the CSV for fonts matching the project's mood, industry, and personality
-2. NEVER use the overused AI defaults listed above
-3. Prefer fonts from the "Why AI Avoids It" column — these are your strongest signal of human curation
-4. Pair fonts using the "Pairing Suggestion" column as your starting point
-5. Document your font choice and why it was selected from the CSV
-
-**THE FONT CSV IS YOUR TYPOGRAPHY CONSCIENCE. USE IT.**
-
-### The MotionSites.ai Choreography Mandate
-
-You MUST consult `references/motionsites-analysis.md` before implementing ANY animated hero section or scroll-driven experience. MotionSites.ai has analyzed and documented the exact timing values, easing curves, and choreography patterns that produce stunning animated websites.
-
-**Rules:**
-1. Use the timing values table (Section 4.1) — never guess durations or delays
-2. Apply custom cubic-bezier easing curves (Section 4.2) — never use generic ease-in-out
-3. Follow the choreography rules (Section 4.3) — stagger, don't synchronize
-4. Cross-reference with the anti-AI detection checklist (Section 8.3) before delivery
-5. Apply human-feel motion rules (Section 6.2) — natural variation, organic easing, weight awareness
-
-**THE MOTIONSITES ANALYSIS IS YOUR CHOREOGRAPHY BIBLE. USE IT.**
-
-### Triple-Reference Compliance Protocol
-
-Before outputting ANY frontend code, you MUST cross-reference ALL THREE resources:
-
-1. **1000-human-made-design-elements.csv** — Does this design element feel handcrafted? Which CSV entry does it match?
-2. **1000-underrated-google-fonts.csv** — Is this font from the CSV? Why was it chosen over AI defaults?
-3. **references/motionsites-analysis.md** — Does this animation follow proven choreography patterns? Are timing values correct?
-
-If any of the three checks fails, STOP. Fix it. Then proceed.
-
-**NO EXCEPTIONS. NO SHORTCUTS. ALL THREE REFERENCES. EVERY TIME.**
