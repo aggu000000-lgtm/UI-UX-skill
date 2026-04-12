@@ -448,6 +448,17 @@ These rules ensure output feels human-crafted, not AI-generated.
 - No animations that flash more than 3 times per second
 - Grain/noise filters ONLY on fixed, pointer-events-none pseudo-elements
 
+### 2026 Animation Stack
+
+**Recommended Libraries:**
+- **GSAP** (now 100% FREE, acquired by Webflow): Complex timelines, ScrollTrigger, SVG morphing
+- **Motion.dev** (8KB core, 30M monthly downloads): Best for React/Next.js, declarative API
+- **Lenis**: Industry standard for smooth momentum scrolling (replaced Locomotive Scroll)
+- **CSS View Transitions**: Native cross-page animations via `@view-transition { navigation: auto }`
+- **CSS Scroll-Driven**: Native scroll-linked animations via `animation-timeline: view()`
+
+Use the right tool for the job. CSS for simple, GSAP/Motion for complex.
+
 ---
 
 ## OUTPUT FORMAT
@@ -496,6 +507,40 @@ For stunning, award-worthy websites, load `references/stunning-web-patterns.md`.
 
 ---
 
+## 2026 DESIGN STANDARDS REFERENCES
+
+**Motion & Animation:**
+- references/css-2026-features.md — Scroll-driven animations, View Transitions, CSS Nesting
+- references/interaction-physics.md — Spring animations, easing curves, gesture handling
+
+**Layout:**
+- references/bento-grid-layouts.md — Bento grid patterns (dominant 2026 layout)
+- references/responsive-engineering.md — Container queries, fluid layouts
+
+**3D & Immersive:**
+- references/3d-web-integration.md — Three.js + WebGPU, Spline AI, immersive experiences
+
+**AI-First Design:**
+- references/ai-first-ui-patterns.md — Streaming animations, ambient intelligence, voice UI
+
+**Video & Hero:**
+- references/hero-video-cdn-resources.md — Verified CDN video URLs for hero sections
+
+**Accessibility:**
+- references/wcag-3-reference.md — WCAG 3.0 preparation (March 2026 Working Draft)
+- references/accessibility-checklist.md — WCAG 2.2 AA checklist
+
+**Ethics & Performance:**
+- references/ethical-privacy-ux.md — Privacy-centered design, consent patterns
+- references/sustainable-ux.md — Energy-efficient design, carbon awareness
+
+**Design Systems:**
+- references/typography-scale.md — Type scales, responsive typography
+- references/color-systems.md — OKLCH colors, dark mode palettes
+- references/design-tokens.md — Token architecture
+
+---
+
 ## INTERNAL DESIGN CANVAS REFERENCE
 
 The full design canvas protocol with file templates, workflow, and self-discipline rules is in `references/design-canvas-protocol.md`. Consult this for the exact structure of each canvas file, sizing guidelines, and the complete workflow.
@@ -527,6 +572,21 @@ AI slop refers to the mass-produced, generic, template-driven design patterns th
 - **Structure**: Navbar → Hero → Features → Testimonials → CTA → Footer (the universal template)
 - **Copy**: "Unlock your potential", "Transform your business with AI", "Streamline your workflow"
 - **AI UI**: Glassmorphism panels, streaming text with cursor, confidence badges, sparkle icons
+
+### 2026-Specific Banned Patterns
+
+**Layout:**
+- 12-column Bootstrap grids (use Bento grids instead)
+- Centered hero sections with gradient overlays (use asymmetric bento layouts)
+- Light-mode-only designs (dark mode first is 2026 standard)
+
+**Animation:**
+- Linear easing everywhere (use spring physics)
+- GSAP-only scrolling (native CSS Scroll-Driven is now viable)
+- Heavy animation libraries for simple transitions
+
+**Typography:**
+- Inter/Roboto/Poppins defaults (use the underrated fonts CSV)
 
 ### Enforcement Protocol
 
