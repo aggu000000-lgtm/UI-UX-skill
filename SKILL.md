@@ -13,12 +13,20 @@ description: Master orchestrator that routes AI to the appropriate skill based o
 
 This is the master skill that determines which specialized skill to activate. **Load only ONE skill at a time** based on the request type below.
 
+### TOKEN OPTIMIZATION & LAZY LOADING (CRITICAL)
+
+**DO NOT WASTE TOKENS.** You must NEVER load all reference files upfront. 
+- Only load the **single specific `SKILL.md`** file corresponding to the routed skill.
+- Only read reference files (e.g., `references/css-2026-features.md`) when the specific sub-task strictly requires deep context on that topic. 
+- Rely on your general 2026 knowledge (WebGPU, GenUI, APCA, Bento 2.0, Spring Physics) first, and only pull references when you need explicit protocols or project-specific rules.
+- If a task is simple, DO NOT route to a complex skill. Just solve it.
+
 ### SKILL SELECTION ALGORITHM
 
 ```
 IF request contains: "cinematic", "immersive", "scroll animation", "motion design", 
                      "dopamine", "award-winning", "creative website", "choreography",
-                     "premium feel", "animate", "transition"
+                     "premium feel", "animate", "transition", "WebGPU", "3D blending"
   THEN load: skills/design-skill/SKILL.md
 
 ELIF request contains: "build API", "backend", "database", "authentication", 
@@ -31,11 +39,11 @@ ELIF request contains: "build UI", "design page", "create component", "make webs
                        "add dark mode", "fix accessibility", "responsive layout",
                        "style frontend", "frontend", "React", "Vue", "CSS", "HTML",
                        "landing page", "dashboard", "form", "button", "navigation",
-                       "typography", "color palette"
+                       "typography", "color palette", "GenUI", "APCA", "Bento Grid 2.0"
   THEN load: skills/web-dev-frontend-skill/SKILL.md
 
 ELSE
-  Default to: skills/web-dev-frontend-skill/SKILL.md
+  Default to: DO NOT load any skill. Solve the task directly to save tokens unless the task explicitly requires heavy architectural design or choreography.
 ```
 
 ---

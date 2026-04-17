@@ -32,6 +32,8 @@
 | Feature | What Makes It Different |
 |---------|------------------------|
 | **🎭 Orchestrator** | Automatic skill routing based on request intent — loads design, frontend, or backend skill as needed |
+| **💾 Token Optimization** | Strict lazy-loading architecture. Never loads all reference files upfront. Defaults to zero-skill loading for simple tasks to preserve context windows |
+| **🤖 GenUI Architecture** | 4-state AI lifecycle ready (`idle` → `thinking` → `streaming` → `stabilizing`). Designed for runtime UI streaming (React Server Components) |
 | **🎨 Motion Personality System** | 5 distinct motion personalities (Whisper, Breathe, Snap, Flow, Pulse) with mathematical easing curves, timing scales, and choreography rules |
 | **🧠 Dopamine Mapping Protocol** | Strategic placement of reward moments based on neuroscience — dopamine budgets, unpredictable delight, anticipation over reward |
 | **🛡️ AI Slop Protocol** | 1000 documented banned patterns from 2025-2026 — generic gradients, default Tailwind classes, card soup, Lorem Ipsum — all strictly forbidden |
@@ -214,13 +216,14 @@ All skills enforce these 2026 standards:
 
 | Standard | Implementation |
 |----------|----------------|
-| **Bento Grids** | Asymmetric card layouts with varied spans |
+| **Active Grids (Bento 2.0)** | Asymmetric, dynamic card layouts with deep organic squircles |
+| **Generative UI (GenUI)** | Real-time AI streaming states and React Server Components |
+| **APCA & WCAG 3.0** | Advanced Perceptual Contrast Algorithm replacing outdated 4.5:1 ratios |
 | **CSS Scroll-Driven** | Native scroll-linked animations via `animation-timeline: view()` |
 | **Container Queries** | Component-level responsiveness via `@container` |
-| **OKLCH Colors** | Perceptually uniform color adjustments |
-| **WebGPU** | 3D integration with Three.js + WebGPU |
-| **Dark Mode First** | 65-78% user preference, OLED-optimized |
-| **Sustainable UX** | Energy-efficient design, carbon awareness |
+| **OKLCH Colors** | Perceptually uniform color adjustments and dynamic "Mood Modes" |
+| **WebGPU** | High-framerate 3D integration with Three.js and compute shaders |
+| **Sustainable UX** | Eco-brutalism, edge-side rendering, and carbon-aware performance budgets |
 
 ---
 
